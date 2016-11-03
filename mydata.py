@@ -53,10 +53,12 @@ class mydata(object):
     
     reload_baseline=False
     refresh_data=False
+    demo_scenario=True
 
         
         
-    def __init__(self,refresh_data=False,reload_baseline=False):    
+    def __init__(self,refresh_data=False,reload_baseline=False,demo_scenario=True):    
+        self.demo_scenario=demo_scenario
         self.refresh_data=refresh_data
         self.local_path=commons.local_path 
         self.data_sp500_1st_date=commons.data_sp500_1st_date
@@ -110,7 +112,19 @@ class mydata(object):
         self.sp500_index=commons.sp500_index
         if self.refresh_data==True:
             self.check_changes_sp500_composition()
-
+            
+        if self.demo_scenario:
+            self.sp500_index=dict()
+            self.sp500_index['Telecommunications Services']='GOOG/INDEXSP_SP500_50TR'
+            
+            demo_composition=dict()
+            demo_composition['Telecommunications Services']=self.sp500_composition['Telecommunications Services']
+            self.sp500_composition=demo_composition
+            
+            demo_ticker=dict()
+            for symbol in demo_composition['Telecommunications Services']:
+                demo_ticker[symbol]='Telecommunications Services'
+            self.sp500_ticker=demo_ticker            
 
         
         
@@ -139,7 +153,7 @@ class mydata(object):
 
         
     def get_quandl_index(self,startdate=commons.max_date,enddate=commons.end_date):
-        self.data_sp500_index=pd.read_hdf(self.local_path+'data/SP500_index_data.h5','table')   
+        self.data_sp500_index=commons.read_dataframe(self.local_path+'data/SP500_index_data.h5')   
         enddate=max(self.data_sp500_index.index)
         if startdate!=enddate and self.refresh_data==True:
             self.data_sp500_index=pd.read_hdf(self.local_path+'data/SP500_index_data.h5','table',mode='r')
@@ -164,7 +178,7 @@ class mydata(object):
 
     def refresh_wiki_sp500(self):
         #get local data
-        self.data_sp500=pd.read_hdf(self.local_path+'data/WIKI_SP500.h5','table')
+        self.data_sp500=commons.read_dataframe(self.local_path+'data/WIKI_SP500.h5','table')
 
         #has the sp500 composition changed?
         if self.sp500_new!=list([]) or self.sp500_obsolete!=list([]):

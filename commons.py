@@ -1,17 +1,26 @@
-import numpy as np
+#some general settings. 
+#Note; the solution has been written with scope SP500. For github that creates too big HDF files,
+#therefore in demo runs the variable demo_scenario is set to True. in demo only 
+#'Telecommunications Services' with a small set of stocks is being processed.
+
 import pandas as pd
 import datetime as dt
 import csv
 
-print 'Preparing data. Please wait.'     
+demo_scenario=True
+if demo_scenario:
+    print 'Preparing data. Limited (demo) scope! Please wait.'     
+else:
+    print 'Preparing data. Please wait.'
+
 
 sp500_composition=dict()
 sp500_ticker=dict()
 sp500_index=dict()
 data_sp500_1st_date=dict()
 
-local_path='C:/Users/kncas/OneDrive/Udacity/project/'
-stats_path='C:/Users/kncas/Documents/Python Scripts/Project/stats/'
+local_path='./'
+stats_path='./stats/'
 
 refresh_data=False
 
@@ -92,7 +101,21 @@ for k,v in sp500_ticker.items():
         b.append(k)
         sp500_composition[v]=b
 
-#load 1st dates
+#demo scenario
+if demo_scenario:
+    sp500_index=dict()
+    sp500_index['Telecommunications Services']='GOOG/INDEXSP_SP500_50TR'
+    
+    demo_composition=dict()
+    demo_composition['Telecommunications Services']=sp500_composition['Telecommunications Services']
+    sp500_composition=demo_composition
+    
+    demo_ticker=dict()
+    for symbol in demo_composition['Telecommunications Services']:
+        demo_ticker[symbol]='Telecommunications Services'
+    sp500_ticker=demo_ticker
+
+#load 1st dates - from when onwards are stock prices available on Quandl
 with open(local_path+'data/sp500_1st_date.csv','r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
     for row in csvreader:
