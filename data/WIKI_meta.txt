@@ -1,0 +1,3181 @@
+11116544,WIKI,RLI Corp. (RLI),RLI
+11132928,WIKI,Targa Resources Corp (TRGP),TRGP
+11116551,WIKI,Roadrunner Transportation Systems (RRTS),RRTS
+11132944,WIKI,Targacept Inc (TRGT),TRGT
+24731668,WIKI,Qorvo Inc (QRVO),QRVO
+11116565,WIKI,Rock-Tenn Co. Cl A (RKT),RKT
+11251551,WIKI,Omega Healthcare Investors Inc. (OHI),OHI
+11116569,WIKI,Rocket Fuel Inc. (FUEL),FUEL
+10977309,WIKI,AEP Industries Inc. (AEPI),AEPI
+11116575,WIKI,Rockville Financial, Inc. (RCKB),RCKB
+11116577,WIKI,Rockwell Medical Inc. (RMTI),RMTI
+11116578,WIKI,Rockwood Holdings (ROC),ROC
+11075627,WIKI,BioTime Inc (BTX),BTX
+11116589,WIKI,Rogers Corp. (ROG),ROG
+11116595,WIKI,Rollins Inc. (ROL),ROL
+11146590,WIKI,WesBanco Inc. (WSBC),WSBC
+11112457,WIKI,Oppenheimer Holdings Inc (OPY),OPY
+9775797,WIKI,Leucadia National Corp. (LUK),LUK
+11116608,WIKI,Rosetta Resources Inc. (ROSE),ROSE
+11116610,WIKI,Rosetta Stone (RST),RST
+10985539,WIKI,Amsurg Corp. (AMSG),AMSG
+12845127,WIKI,Berkshire Hathaway Inc. Cl A (BRK_A),BRK_A
+11116620,WIKI,Roundy's Inc (RNDY),RNDY
+11108429,WIKI,NPS Pharmaceuticals Inc. (NPSP),NPSP
+11116622,WIKI,Rovi Corporation (ROVI),ROVI
+11116628,WIKI,Royal Caribbean Cruises Ltd. (RCL),RCL
+11100246,WIKI,MTS Systems Corp. (MTSC),MTSC
+11116633,WIKI,Royal Gold Inc. (RGLD),RGLD
+9775710,WIKI,General Growth Properties Inc (GGP),GGP
+11116646,WIKI,RPC Inc. (RES),RES
+11116648,WIKI,RPM International Inc (DE) (RPM),RPM
+11116649,WIKI,RPX Corporation (RPXC),RPXC
+10977386,WIKI,Aerie Pharmaceuticals Inc (AERI),AERI
+11116653,WIKI,RSP Permian Inc. (RSPP),RSPP
+11116655,WIKI,RTI International Metals Inc (RTI),RTI
+11116656,WIKI,RTI Biologics Inc (RTIX),RTIX
+9775806,WIKI,McDonald's Corp (MCD),MCD
+11116662,WIKI,Rubicon Technology Inc. (RBCN),RBCN
+11116664,WIKI,Ruby Tuesday Inc. (RT),RT
+11108473,WIKI,NRG Yield Inc (NYLD),NYLD
+11116666,WIKI,RUDOLPH TECH INC,RTEC
+10993788,WIKI,AVX Corp. (AVX),AVX
+10977405,WIKI,Aeroflex Holding Corp. (ARX),ARX
+11116670,WIKI,Rush Enterprises Inc. (RUSHA),RUSHA
+10977410,WIKI,Aeropostale Inc. (ARO),ARO
+11116675,WIKI,Ruth's Hospitality Group Inc (RUTH),RUTH
+11133062,WIKI,TASER International Inc. (TASR),TASR
+11116686,WIKI,Ryland Group Inc. (RYL),RYL
+11116687,WIKI,S&T Bancorp Inc (Indiana PA) (STBA),STBA
+10977424,WIKI,AeroVironment Inc. (AVAV),AVAV
+11116691,WIKI,SPDR Barclays US Treasury Bond UCITS ETF (SYBT),SYBT
+11100308,WIKI,Mueller Industries Inc. (MLI),MLI
+11100309,WIKI,Mueller Water Products (MWA),MWA
+9775812,WIKI,MetLife Inc (MET),MET
+11146607,WIKI,West Marine Inc. (WMAR),WMAR
+11116705,WIKI,Safe Bulkers (SB),SB
+11116709,WIKI,Safeguard Scientifics Inc. (SFE),SFE
+11116713,WIKI,Safety Insurance Group Inc. (SAFT),SAFT
+11116717,WIKI,Saga Communications Inc. Cl A (SGA),SGA
+11116722,WIKI,Sagent Pharmaceuticals Inc. (SGNT),SGNT
+11116725,WIKI,Saia Inc. (SAIA),SAIA
+11108535,WIKI,NTELOS Holdings Corp (NTLS),NTLS
+11100351,WIKI,Multi-Color Corp. (LABL),LABL
+11124929,WIKI,Starz Series A (STRZA),STRZA
+11116738,WIKI,Salem Media Group Inc. (SALM),SALM
+9775819,WIKI,Monster Beverage Corp (MNST),MNST
+11116740,WIKI,Salix Pharmaceuticals Ltd (SLXP),SLXP
+11116741,WIKI,Sally Beauty (SBH),SBH
+10993865,WIKI,Axcelis Technologies Inc. (ACLS),ACLS
+9775821,WIKI,Monsanto Co. (MON),MON
+11100369,WIKI,Multi-Fineline Electronix Inc. (MFLX),MFLX
+10985684,WIKI,AmTrust Financial Services Inc (AFSI),AFSI
+11116763,WIKI,Sanchez Energy (SN),SN
+11116765,WIKI,Sanderson Farms Inc. (SAFM),SAFM
+11116767,WIKI,SandRidge Energy (SD),SD
+9775824,WIKI,Merck & Co. Inc (MRK),MRK
+11122043,WIKI,Spansion Inc (CODE),CODE
+11116775,WIKI,Sandy Spring Bancorp Inc (SASR),SASR
+11116778,WIKI,Sangamo BioSciences Inc. (SGMO),SGMO
+9775826,WIKI,Morgan Stanley (MS),MS
+11116785,WIKI,Sanmina Corporation (SANM),SANM
+9775827,WIKI,Microsoft Corporation (MSFT),MSFT
+13693145,WIKI,Coupons.com Inc (COUP),COUP
+11116587,WIKI,Rofin-Sinar Technologies Inc. (RSTI),RSTI
+9775830,WIKI,Micron Technology Inc. (MU),MU
+11116809,WIKI,Sapiens International Corp. N.V. (SPNS),SPNS
+11116810,WIKI,Sapient Corporation (SAPE),SAPE
+10985739,WIKI,Amyris Inc. (AMRS),AMRS
+9775832,WIKI,Meadwestvaco Corporation (MWV),MWV
+11116819,WIKI,Sarepta Therapeutics Inc. (SRPT),SRPT
+11125012,WIKI,State Bank Financial Corp (STBZ),STBZ
+10993946,WIKI,Axiall Corp (AXLL),AXLL
+9775835,WIKI,Nabors Industries Ltd. (NBR),NBR
+11116838,WIKI,SBA Communications Corporation (SBAC),SBAC
+11075879,WIKI,BJ's Restaurants Inc. (BJRI),BJRI
+11116845,WIKI,ScanSource Inc. (SCSC),SCSC
+9775717,WIKI,Genworth Financial Inc (GNW),GNW
+11116848,WIKI,Schawk, Inc. (SGK),SGK
+11116856,WIKI,Schnitzer Steel Industries Inc. (SCHN),SCHN
+11116857,WIKI,Scholastic Corp. (SCHL),SCHL
+11116860,WIKI,Schulman (A.) Inc. (SHLM),SHLM
+11116861,WIKI,Schweitzer-Mauduit International Inc. (SWM),SWM
+11116863,WIKI,SciClone Pharmaceuticals Inc. (SCLN),SCLN
+11116864,WIKI,Science Applications International Corp (New) (SAIC),SAIC
+11116865,WIKI,Scientific Games Corp (SGMS),SGMS
+11146635,WIKI,Western Refining Inc (WNR),WNR
+11116869,WIKI,SciQuest Inc. (SQI),SQI
+11108681,WIKI,NU Skin Enterprises Inc. (NUS),NUS
+11116876,WIKI,Scorpio Bulkers Inc (SALT),SALT
+10985806,WIKI,Anacor Pharmaceuticals Inc. (ANAC),ANAC
+11116879,WIKI,Scorpio Tankers Inc. (STNG),STNG
+11096120,WIKI,First Financial Northwest Inc (FFNW),FFNW
+11116882,WIKI,Scotts Miracle-Gro Co (The) (SMG),SMG
+9775843,WIKI,NIKE Inc (NKE),NKE
+11116888,WIKI,Seaboard Corp. (SEB),SEB
+11116890,WIKI,SeaChange International Inc. (SEAC),SEAC
+11116892,WIKI,Seacoast Banking Corp. of Florida (SBCF),SBCF
+11116894,WIKI,SEACOR Holdings Inc. (CKH),CKH
+11116895,WIKI,SeaDrill Ltd. (SDRL),SDRL
+11100513,WIKI,Multimedia Games Holding Company Inc. (MGAM),MGAM
+10977634,WIKI,Affiliated Managers Group Inc. (AMG),AMG
+9775846,WIKI,National Oilwell Varco Inc (NOV),NOV
+11116911,WIKI,Sears Holdings Corp (SHLD),SHLD
+11116912,WIKI,Sears Hometown and Outlet Stores Inc. (SHOS),SHOS
+9775848,WIKI,Norfolk Southern Corp. (NSC),NSC
+11116915,WIKI,Seattle Genetics Inc. (SGEN),SGEN
+10985845,WIKI,ANADIGICS Inc (ANAD),ANAD
+11075961,WIKI,Black Box Corp. (DE) (BBOX),BBOX
+11125116,WIKI,Steel Dynamics Inc. (STLD),STLD
+9775850,WIKI,Northern Trust Corp. (NTRS),NTRS
+9775755,WIKI,Ingersoll-Rand Plc (IR),IR
+11075970,WIKI,Black Diamond Inc (BDE),BDE
+11075985,WIKI,Black Hills Corp. (BKH),BKH
+11116947,WIKI,SEI Investments Co. (SEIC),SEIC
+11116952,WIKI,Select Comfort Corporation (SCSS),SCSS
+11116954,WIKI,Select Medical Holdings (SEM),SEM
+11116956,WIKI,Selective Insurance Group Inc (SIGI),SIGI
+10982810,WIKI,Amedisys Inc (AMED),AMED
+11108769,WIKI,Numerex Corp. (NMRX),NMRX
+11116963,WIKI,SemGroup Corp (SEMG),SEMG
+11116966,WIKI,Semtech Corporation (SMTC),SMTC
+9775857,WIKI,Oneok Inc. (OKE),OKE
+11116968,WIKI,Seneca Foods Corp. (SENEA),SENEA
+9775994,WIKI,Waste Management Inc. (DE) (WM),WM
+11116974,WIKI,Senomyx Inc. (SNMX),SNMX
+11116977,WIKI,Sensient Technologies Corp. (SXT),SXT
+9775859,WIKI,Oracle Corp. (ORCL),ORCL
+10994100,WIKI,AXIS Capital Holdings Ltd (AXS),AXS
+9775860,WIKI,O Reilly Automotive Inc. (ORLY),ORLY
+11116988,WIKI,Sequenom Inc. (SQNM),SQNM
+11116989,WIKI,Sequential Brands Group Inc (SQBG),SQBG
+10985919,WIKI,Analogic Corp (ALOG),ALOG
+11116997,WIKI,Service Corp. International (SCI),SCI
+11116999,WIKI,ServiceNow (NOW),NOW
+11117000,WIKI,ServiceSource International Inc. (SREV),SREV
+9775863,WIKI,People's United Financial Inc. (PBCT),PBCT
+9775864,WIKI,Pitney Bowes Inc (PBI),PBI
+11100628,WIKI,Murphy USA (MUSA),MUSA
+9775865,WIKI,PACCAR Inc (PCAR),PCAR
+10977752,WIKI,Affymetrix Inc. (AFFX),AFFX
+11117017,WIKI,SFX Entertainment Inc. (SFXE),SFXE
+9775866,WIKI,PG&E Corp. (Holding Co.) (PCG),PCG
+11076065,WIKI,Blackbaud Inc. (BLKB),BLKB
+11125219,WIKI,Stein Mart Inc. (SMRT),SMRT
+11133412,WIKI,TCF Financial Corp (TCB),TCB
+11146662,WIKI,Weyco Group Inc. (WEYS),WEYS
+9775868,WIKI,Priceline.com Inc. (PCLN),PCLN
+9775869,WIKI,Precision Castparts (PCP),PCP
+11117044,WIKI,Shenandoah Telecommunications Co. (SHEN),SHEN
+11125244,WIKI,Steiner Leisure Ltd. (Bahamas) (STNR),STNR
+11117053,WIKI,Shiloh Industries Inc. (SHLO),SHLO
+11117060,WIKI,Ship Finance International Ltd (SFL),SFL
+11117064,WIKI,Shoe Carnival Inc. (SCVL),SCVL
+9775874,WIKI,Pfizer Inc (PFE),PFE
+11108881,WIKI,Nutraceutical International Corporation (NUTR),NUTR
+11251478,WIKI,GAIN Capital Holdings Inc (GCAP),GCAP
+11117081,WIKI,Shutterfly Inc. (SFLY),SFLY
+11117082,WIKI,Shutterstock Inc (SSTK),SSTK
+11117092,WIKI,Sierra Bancorp (BSRR),BSRR
+9775998,WIKI,Western Union Co. (WU),WU
+9775879,WIKI,PulteGroup Inc. (PHM),PHM
+11133485,WIKI,TCP Capital Corp (TCPC),TCPC
+11117102,WIKI,SIFCO Industries Inc. (SIF),SIF
+11117105,WIKI,SIGA Technologies Inc (SIGA),SIGA
+11117106,WIKI,Sigma Designs Inc. (SIGM),SIGM
+11125302,WIKI,Stellus Capital Investment Corp (SCM),SCM
+11117111,WIKI,Signature Bank (SBNY),SBNY
+15737405,WIKI,Walgreens Boots Alliance Inc (WBA),WBA
+11117118,WIKI,Signet Jewelers Ltd (SIG),SIG
+11117123,WIKI,Silgan Holdings Inc. (SLGN),SLGN
+11117125,WIKI,Silicon Graphics International Corp (SGI),SGI
+11117126,WIKI,Silicon Image Inc (SIMG),SIMG
+11117127,WIKI,Silicon Laboratories Inc. (SLAB),SLAB
+11133519,WIKI,TD Ameritrade Holding Corp (AMTD),AMTD
+11251573,WIKI,Resource Capital Corp (RSO),RSO
+11141719,WIKI,Tower Group International, Ltd. (TWGP),TWGP
+13693028,WIKI,2U Inc (TWOU),TWOU
+11117147,WIKI,Silver Spring Networks Inc (SSNI),SSNI
+11108964,WIKI,NutriSystem Inc (NTRI),NTRI
+11117159,WIKI,Silvercrest Asset Management Group Inc (SAMG),SAMG
+11122108,WIKI,Spark Networks (LOV),LOV
+11141743,WIKI,Tower International Inc (TOWR),TOWR
+11117174,WIKI,Simmons First National Corp. (SFNC),SFNC
+11117178,WIKI,Simpson Manufacturing Co. Inc. (DE) (SSD),SSD
+11116650,WIKI,Donnelley (R.R.) & Son (RRD),RRD
+11100798,WIKI,MVC Capital Inc (MVC),MVC
+11100800,WIKI,MWI Veterinary Supply Inc (MWIV),MWIV
+9775895,WIKI,Quanta Services Inc. (PWR),PWR
+11133582,WIKI,Team Health Holdings (TMH),TMH
+9775897,WIKI,Pioneer Natural Resources Co. (PXD),PXD
+11125401,WIKI,Stemline Therapeutics Inc. (STML),STML
+11111194,WIKI,Olympic Steel Inc. (ZEUS),ZEUS
+11097541,WIKI,Inteliquent Inc (IQNT),IQNT
+10986152,WIKI,Andersons Inc. (ANDE),ANDE
+9775901,WIKI,Reynolds American Inc (RAI),RAI
+11109049,WIKI,NuVasive Inc. (NUVA),NUVA
+9775903,WIKI,Regeneron Pharmaceuticals Inc. (REGN),REGN
+28181187,WIKI,CSRA Inc (CSRA),CSRA
+11145334,WIKI,TrueBlue (TBI),TBI
+9775905,WIKI,Robert Half International Inc. (RHI),RHI
+11141835,WIKI,Towers Watson & Co. (TW),TW
+9775906,WIKI,Red Hat Inc. (RHT),RHT
+11133647,WIKI,TearLab Corporation (TEAR),TEAR
+11125459,WIKI,Stepan Co. (SCL),SCL
+11109079,WIKI,Nuverra Environmental Solution (NES),NES
+9776277,WIKI,Tractor Supply Co. (TSCO),TSCO
+11141860,WIKI,Towerstream Corporation (TWER),TWER
+11100903,WIKI,Myers Industries Inc. (MYE),MYE
+11146710,WIKI,William Lyon Homes Inc. (WLH),WLH
+11104385,WIKI,New York & Co. Inc (NWY),NWY
+11133709,WIKI,Tech Data Corporation (TECD),TECD
+10978062,WIKI,AGCO Corp. (AGCO),AGCO
+9775733,WIKI,Hess Corp (HES),HES
+9775918,WIKI,Spectra Energy Corp (SE),SE
+11146714,WIKI,Williams Sonoma Inc (WSM),WSM
+11251487,WIKI,GenCorp Inc. (GY),GY
+10978081,WIKI,Agenus Inc. (AGEN),AGEN
+11141932,WIKI,Town Sports International Holdings Inc (CLUB),CLUB
+11115314,WIKI,Pacific Ethanol Inc. (PEIX),PEIX
+9776007,WIKI,DENTSPLY International Inc. (XRAY),XRAY
+9775924,WIKI,SLM Corporation (SLM),SLM
+9775925,WIKI,Snap-On Inc. (SNA),SNA
+11146194,WIKI,Valley National Bancorp (VLY),VLY
+11141968,WIKI,TowneBank (Portsmouth VA) (TOWN),TOWN
+24773457,WIKI,JP Morgan Chase (JPM),JPM
+11125587,WIKI,Steris Corp. (STE),STE
+24773460,WIKI,Progressive Corp. (PGR),PGR
+10994519,WIKI,AZZ Inc (AZZ),AZZ
+9775931,WIKI,Stericycle Inc. (SRCL),SRCL
+10978153,WIKI,Agilysys Inc. (AGYS),AGYS
+11125616,WIKI,Sterling Bancorp (DE) (STL),STL
+11109244,WIKI,NVE Corp (NVEC),NVEC
+11109247,WIKI,NVR Inc. (NVR),NVR
+10978177,WIKI,Agios Pharmaceuticals Inc (AGIO),AGIO
+9775937,WIKI,Constellation Brands Inc (STZ),STZ
+11133834,WIKI,Bio-Techne Corp (TECH),TECH
+11101076,WIKI,MYR Group Inc. (MYRG),MYRG
+10974702,WIKI,Acorn Energy Inc (ACFN),ACFN
+10986392,WIKI,Angie's List Inc. (ANGI),ANGI
+11101088,WIKI,Myriad Genetics Inc. (MYGN),MYGN
+11125668,WIKI,Sterling Construction Company Inc (STRL),STRL
+10986414,WIKI,AngioDynamics Inc. (ANGO),ANGO
+10994607,WIKI,B&G Foods Inc (BGS),BGS
+11146739,WIKI,Wintrust Financial Corp. (IL) (WTFC),WTFC
+9775945,WIKI,Molson Coors Brewing Co. Cl B (TAP),TAP
+9775947,WIKI,TECO Energy Inc. (TE),TE
+9775949,WIKI,TE Connectivity (TEL),TEL
+11251639,WIKI,Winthrop Realty Trust (FUR),FUR
+11146170,WIKI,Vaalco Energy Inc. (EGY),EGY
+11125734,WIKI,Sterling Financial Corporation (STSA),STSA
+9775953,WIKI,TJX Companies Inc. (TJX),TJX
+11101161,WIKI,NBT Bancorp Inc. (NBTB),NBTB
+13693096,WIKI,CareTrust REIT Inc (CTRE),CTRE
+11101175,WIKI,NACCO Industries Inc. Cl A (NC),NC
+10994686,WIKI,B/E Aerospace Inc (BEAV),BEAV
+9775959,WIKI,Tyson Foods Inc. (TSN),TSN
+9775742,WIKI,Harris Corp. (HRS),HRS
+9775965,WIKI,Textron Inc. (TXT),TXT
+11109428,WIKI,NxStage Medical Inc. (NXTM),NXTM
+9775966,WIKI,Tyco International PLC (TYC),TYC
+9775568,WIKI,BB&T Corp. (BBT),BBT
+9775967,WIKI,UnitedHealth Group Inc (UNH),UNH
+11126285,WIKI,Stoneridge Inc. (SRI),SRI
+9775971,WIKI,Urban Outfitters Inc. (URBN),URBN
+9775972,WIKI,U.S. Bancorp (DE) (USB),USB
+11125850,WIKI,Madden (Steven) Ltd. (SHOO),SHOO
+10994787,WIKI,Babcock & Wilcox Co. (BWC),BWC
+9775745,WIKI,Hershey Company (The) (HSY),HSY
+11076729,WIKI,Blackhawk Network Holdings Inc (HAWK),HAWK
+9775980,WIKI,Vornado Realty Trust (VNO),VNO
+11117707,WIKI,Sirius XM Radio Inc. (SIRI),SIRI
+11146776,WIKI,World Acceptance Corporation (WRLD),WRLD
+10978452,WIKI,A.H. Belo Corp (AHC),AHC
+11093145,WIKI,Boyd Gaming Corp. (BYD),BYD
+11093151,WIKI,BPZ Resources (BPZ),BPZ
+11093154,WIKI,Brady Corp. (BRC),BRC
+11104454,WIKI,New York Community Bancorp Inc. (NYCB),NYCB
+11093166,WIKI,Bravo Brio Restaurant Group Inc. (BBRG),BBRG
+11146781,WIKI,World Fuel Services Corp. (INT),INT
+10982942,WIKI,Ameresco (AMRC),AMRC
+11117757,WIKI,Sirona Dental Systems Inc. (SIRO),SIRO
+11125950,WIKI,Stewart Information Services (STC),STC
+11251501,WIKI,Healthcare Realty Trust Inc. (HR),HR
+11093193,WIKI,Bridge Bancorp Inc. (Bridgehampton NY) (BDGE),BDGE
+11093194,WIKI,Bridge Capital Holdings (BBNK),BBNK
+11093196,WIKI,Bridgepoint Education (BPI),BPI
+11093199,WIKI,Briggs & Stratton Corp. (BGG),BGG
+11093200,WIKI,Bright Horizons Family Solutions (BFAM),BFAM
+11093201,WIKI,Brightcove Inc. (BCOV),BCOV
+10986706,WIKI,ANI Pharmaceuticals Inc. (ANIP),ANIP
+11093209,WIKI,The Brinks Company (BCO),BCO
+11093210,WIKI,Brinker International Inc. (EAT),EAT
+11101403,WIKI,Nanometrics Incorporated (NANO),NANO
+11093213,WIKI,Bristow Group Inc (BRS),BRS
+11125983,WIKI,Stifel Financial Corp. (SF),SF
+9775996,WIKI,Wal-Mart Stores (WMT),WMT
+11093226,WIKI,Broadridge Financial Solutions Inc (BR),BR
+11093227,WIKI,BroadSoft Inc. (BSFT),BSFT
+11093233,WIKI,Brocade Communications Systems Inc. (BRCD),BRCD
+11093234,WIKI,Brookdale Senior Living (BKD),BKD
+11126841,WIKI,Strattec Security Corp. (STRT),STRT
+11134198,WIKI,Tecumseh Products Company (TECUA),TECUA
+11146793,WIKI,World Wrestling Entertainment Inc (WWE),WWE
+11093240,WIKI,Brookline Bancorp Inc (DE) (BRKL),BRKL
+11093243,WIKI,Brooks Automation Inc (BRKS),BRKS
+11093247,WIKI,Brown & Brown Inc. (BRO),BRO
+11093248,WIKI,Brown Shoe Co. Inc. (BWS),BWS
+9776000,WIKI,Wyndham Worldwide Corp (WYN),WYN
+10986754,WIKI,Anika Therapeutics Inc. (ANIK),ANIK
+11093252,WIKI,Bruker Corporation (BRKR),BRKR
+11093255,WIKI,Brunswick Corp. (BC),BC
+11093256,WIKI,Bryn Mawr Bank Corp. (BMTC),BMTC
+11126027,WIKI,Stillwater Mining Co. (SWC),SWC
+9776002,WIKI,United States Steel Corp. (X),X
+9775750,WIKI,International Game Technology PLC (IGT),IGT
+10978576,WIKI,Air Lease Corp (AL),AL
+11101459,WIKI,Nanosphere Inc (NSPH),NSPH
+11093269,WIKI,Buckle Inc. (The) (BKE),BKE
+11093271,WIKI,Buffalo Wild Wings Inc. (BWLD),BWLD
+11093273,WIKI,Build-A-Bear Workshop (BBW),BBW
+11093275,WIKI,Builders FirstSource Inc. (BLDR),BLDR
+11117852,WIKI,Six Flags Entertainment Corp (SIX),SIX
+10978592,WIKI,Air Methods Corporation (AIRM),AIRM
+11093283,WIKI,Bunge Ltd. (BG),BG
+11074438,WIKI,Berkshire Hills Bancorp Inc. (BHLB),BHLB
+10994984,WIKI,Badger Meter (BMI),BMI
+11093290,WIKI,Burlington Stores (BURL),BURL
+11076907,WIKI,BlackRock Capital Investment Corp (BKCC),BKCC
+11101493,WIKI,NanoString Technologies Inc. (NSTG),NSTG
+11134267,WIKI,Teekay Corp (TK),TK
+10986812,WIKI,Anixter International Inc. (AXE),AXE
+11093311,WIKI,C & F Financial Corp. (CFFI),CFFI
+11093315,WIKI,C&J Energy Services Ltd (CJES),CJES
+11093321,WIKI,Cabelas Inc. (CAB),CAB
+11093325,WIKI,Cabot Corp. (CBT),CBT
+11093326,WIKI,Cabot Microelectronics Corp (CCMP),CCMP
+11093330,WIKI,Caci International Inc. Cl A (CACI),CACI
+11093332,WIKI,Cadence Design Systems Inc. (CDNS),CDNS
+11099023,WIKI,Merge Healthcare Inc (MRGE),MRGE
+11093341,WIKI,Caesars Acquisition Co. (CACQ),CACQ
+11093342,WIKI,Caesars Entertainment Corp (CZR),CZR
+10986848,WIKI,ANN INC (ANN),ANN
+11093346,WIKI,CAI International (CAP),CAP
+11093348,WIKI,Cal Dive International, Inc. (DVR),DVR
+11093350,WIKI,Cal-Maine Foods Inc. (CALM),CALM
+11101543,WIKI,NanoViricides Inc. (NNVC),NNVC
+11093352,WIKI,Calamos Asset Management Inc (CLMS),CLMS
+11093353,WIKI,CalAmp Corp. (CAMP),CAMP
+11093354,WIKI,Calavo Growers Inc. (CVGW),CVGW
+11101547,WIKI,NASB Financial Inc. (NASB),NASB
+11101551,WIKI,Nathan's Famous Inc. (NATH),NATH
+11093362,WIKI,Calgon Carbon Corp. (CCC),CCC
+11126135,WIKI,BMC Stock Holdings Inc (STCK),STCK
+11093372,WIKI,California First National Bancorp (CFNB),CFNB
+11124970,WIKI,State Auto Financial Corp. (STFC),STFC
+11093378,WIKI,California Water Service Group (DE) (CWT),CWT
+11093380,WIKI,Calix Networks (CALX),CALX
+11099030,WIKI,Meridian Bancorp Inc (EBSB),EBSB
+9775754,WIKI,Interpublic Group of Companies Inc. (IPG),IPG
+11093383,WIKI,Callaway Golf Co. (DE) (ELY),ELY
+11093384,WIKI,Callidus Software Inc. (CALD),CALD
+11093389,WIKI,Callon Petroleum (CPE),CPE
+11115416,WIKI,Paramount Gold Nevada Corp (PZG),PZG
+11093394,WIKI,Calpine (CPN),CPN
+11126169,WIKI,Stone Energy Corp. (SGY),SGY
+10986908,WIKI,ANSYS Inc. (ANSS),ANSS
+11093406,WIKI,Cambrex Corp. (CBM),CBM
+11134371,WIKI,Tejon Ranch Co. (TRC),TRC
+10978724,WIKI,Air Transport Services Group Inc (ATSG),ATSG
+11146822,WIKI,Wright Medical Group Inc. (WMGI),WMGI
+11093415,WIKI,Camden National Corp. (ME) (CAC),CAC
+11115420,WIKI,PAREXEL International Corporation (PRXL),PRXL
+10995119,WIKI,Balchem Corp. (BCPC),BCPC
+11118008,WIKI,Skechers U S A Inc. (SKX),SKX
+11146488,WIKI,Wabash National Corp. (WNC),WNC
+11109832,WIKI,Oasis Petroleum (OAS),OAS
+10986955,WIKI,Antares Pharma Inc. (ATRS),ATRS
+11142615,WIKI,TransAtlantic Petroleum Ltd. (TAT),TAT
+11115429,WIKI,Park-Ohio Holdings Corp. (PKOH),PKOH
+10978789,WIKI,Aircastle Ltd. (AYR),AYR
+11093485,WIKI,Cantel Medical Corp (CMN),CMN
+11118064,WIKI,Skilled Healthcare Group, Inc. (SKH),SKH
+11126259,WIKI,Stonegate Bank Fort Lauderdale FL (SGBK),SGBK
+11251561,WIKI,Post Properties Inc. (PPS),PPS
+11093501,WIKI,Capella Education Company (CPLA),CPLA
+11093505,WIKI,Capital Bank Financial Corp (CBF),CBF
+11126275,WIKI,Stonegate Mortgage Corp (SGM),SGM
+11093508,WIKI,Capital City Bank Group Inc. (CCBG),CCBG
+11097686,WIKI,Invensense Inc (INVN),INVN
+11101707,WIKI,National Bank Holdings Corp (NBHC),NBHC
+11101709,WIKI,National Bankshares Inc. (VA) (NKSH),NKSH
+11101710,WIKI,National Beverage Corp. (FIZZ),FIZZ
+11093519,WIKI,Capital Senior Living (CSU),CSU
+11093520,WIKI,Capital Southwest Corp. (CSWC),CSWC
+11093523,WIKI,CapitalSource Inc (CSE),CSE
+11093528,WIKI,Capitol Federal Financial Inc (CFFN),CFFN
+11093541,WIKI,Capstone Turbine Corp. (CPST),CPST
+10995238,WIKI,Baldwin & Lyons Inc. (BWINB),BWINB
+11093547,WIKI,Carbo Ceramics Inc. (CRR),CRR
+11093550,WIKI,Carbonite Inc. (CARB),CARB
+9775487,WIKI,AbbVie Inc. (ABBV),ABBV
+11093559,WIKI,Cardinal Financial Corp (CFNL),CFNL
+11093566,WIKI,Cardiovascular Systems Inc. (CSII),CSII
+11093569,WIKI,Cardtronics Inc. (CATM),CATM
+11118146,WIKI,Skullcandy Inc. (SKUL),SKUL
+11093571,WIKI,Care.com Inc (CRCM),CRCM
+11093574,WIKI,Career Education Corporation (CECO),CECO
+11101774,WIKI,National CineMedia Inc (NCMI),NCMI
+11093586,WIKI,Carlisle Cos. Inc. (CSL),CSL
+11093592,WIKI,Carmike Cinemas Inc. (CKEC),CKEC
+11093600,WIKI,Carpenter Tech. Corp. (CRS),CRS
+11093602,WIKI,Carriage Services Inc. (CSV),CSV
+11093604,WIKI,Carrizo Oil & Gas Inc. (CRZO),CRZO
+11093607,WIKI,Carrols Restaurant Group Inc. (TAST),TAST
+11093611,WIKI,Carters Inc. (CRI),CRI
+11101807,WIKI,National Fuel Gas Co. (NJ) (NFG),NFG
+11093617,WIKI,Cascade Bancorp (CACB),CACB
+11093619,WIKI,Cascade Microtech Inc. (CSCD),CSCD
+11093624,WIKI,Casella Waste Systems Inc. (CWST),CWST
+11093626,WIKI,Casey's General Stores Inc. (CASY),CASY
+11093628,WIKI,Cash America International Inc. (CSH),CSH
+11104533,WIKI,New York Times Co. (NYT),NYT
+11093636,WIKI,Cass Information Systems Inc. (CASS),CASS
+11093641,WIKI,A.M. Castle (CAS),CAS
+11093651,WIKI,Catamaran Corp (CTRX),CTRX
+11093654,WIKI,Cathay General Bancorp (CATY),CATY
+11093658,WIKI,Cato Corp. (CATO),CATO
+10987163,WIKI,AOL Inc. (AOL),AOL
+11110044,WIKI,Oceaneering International Inc. (OII),OII
+11101853,WIKI,National Healthcare Corp. (NHC),NHC
+10970782,WIKI,1st Source Corp. (SRCE),SRCE
+11099077,WIKI,Metro Bancorp Inc (PA) (METR),METR
+11093664,WIKI,Cavium Inc. (CAVM),CAVM
+13911713,WIKI,Vodafone Group Plc ADR No Par (Sponsored) (VOD),VOD
+13911714,WIKI,Baidu Inc. ADS (BIDU),BIDU
+11093672,WIKI,Cbeyond, Inc. (CBEY),CBEY
+11093673,WIKI,CBIZ (CBZ),CBZ
+11093676,WIKI,CBOE Holdings Inc. (CBOE),CBOE
+11134645,WIKI,TeleCommunication Systems Inc. (TSYS),TSYS
+11142839,WIKI,TransDigm (TDG),TDG
+11093691,WIKI,CDI Corp. (CDI),CDI
+11093698,WIKI,CECO Environmental Corp. (CECE),CECE
+10979016,WIKI,AK Steel Holding (AKS),AKS
+11093705,WIKI,Celadon Group Inc. (CGI),CGI
+11093706,WIKI,Celanese Corp (DE) (CE),CE
+11077328,WIKI,Blucora Inc. (BCOR),BCOR
+10995409,WIKI,Bally Technologies Inc (BYI),BYI
+11093715,WIKI,CTI BioPharma Corp (CTIC),CTIC
+11093720,WIKI,Celldex Therapeutics Inc. (CLDX),CLDX
+13693220,WIKI,Everyday Health Inc. (EVDY),EVDY
+11093724,WIKI,Cellular Dynamics International Inc (ICEL),ICEL
+11093729,WIKI,Cempra Inc. (CEMP),CEMP
+11093732,WIKI,Centene Corp (CNC),CNC
+11101925,WIKI,National Interstate Corp (NATL),NATL
+11093734,WIKI,Center Bancorp, Inc. (CNBC),CNBC
+10974844,WIKI,ACTINIUM PHARMS INC (ATNM),ATNM
+11093738,WIKI,Centerstate Banks Inc. (CSFL),CSFL
+11093744,WIKI,Central European Media Enterprises Ltd. (CETV),CETV
+11093748,WIKI,Central Garden & Pet Company (CENTA),CENTA
+10987253,WIKI,Apco Oil and Gas International Inc. (APAGF),APAGF
+11093750,WIKI,Central Pacific Financial Corp (CPF),CPF
+11126522,WIKI,Stratasys Ltd. (SSYS),SSYS
+11093758,WIKI,Century Aluminum Company (CENX),CENX
+11093759,WIKI,Century Bancorp Inc. (MA) (CNBKA),CNBKA
+11134721,WIKI,Teledyne Technologies Inc. (TDY),TDY
+11093764,WIKI,Cenveo (CVO),CVO
+11093766,WIKI,CEPHEID (CPHD),CPHD
+25153397,WIKI,Baxalta Inc (BXLT),BXLT
+11146882,WIKI,XPO Logistics (XPO),XPO
+10995473,WIKI,Baltic Trading (BALT),BALT
+11093780,WIKI,Cerus Corporation (CERS),CERS
+11096366,WIKI,Glu Mobile Inc. (GLUU),GLUU
+10995478,WIKI,Banc of California Inc (BANC),BANC
+11093784,WIKI,CEVA Inc. (CEVA),CEVA
+10995492,WIKI,BancFirst Corp. (Oklahoma City OK) (BANF),BANF
+11101992,WIKI,National Presto Industries Inc. (NPK),NPK
+11115484,WIKI,PC-Tel Inc (PCTI),PCTI
+11093806,WIKI,ChannelAdvisor Corp (ECOM),ECOM
+10987312,WIKI,API Technologies Corp. (ATNY),ATNY
+11093814,WIKI,Charles River Laboratories International Inc. (CRL),CRL
+11077257,WIKI,Bloomin' Brands Inc. (BLMN),BLMN
+11093817,WIKI,Chart Industries Inc. (GTLS),GTLS
+11093818,WIKI,Charter Communications Inc. (CHTR),CHTR
+11093820,WIKI,Charter Financial Corp (MD) (CHFN),CHFN
+11093822,WIKI,Chase Corp. (CCF),CCF
+11110208,WIKI,Oclaro Inc (OCLR),OCLR
+11093827,WIKI,CHC Group Ltd (HELI),HELI
+11093828,WIKI,Check Point Software Technologies Ltd. (CHKP),CHKP
+11093829,WIKI,Checkpoint Systems Inc (CKP),CKP
+11093830,WIKI,Cheesecake Factory Inc. (The) (CAKE),CAKE
+11093832,WIKI,The Chefs' Warehouse Inc. (CHEF),CHEF
+11093833,WIKI,Chegg Inc (CHGG),CHGG
+11093835,WIKI,Chelsea Therapeutics International, Ltd. (CHTP),CHTP
+11093837,WIKI,Chemed Corp (CHE),CHE
+11093838,WIKI,Chemical Financial Corp. (CHFC),CHFC
+11093840,WIKI,ChemoCentryx Inc. (CCXI),CCXI
+11093844,WIKI,Chemtura Corp (CHMT),CHMT
+11093845,WIKI,Chemung Financial Corp. (CHMG),CHMG
+11093847,WIKI,Cheniere Energy Inc. (LNG),LNG
+10987353,WIKI,Apogee Enterprises Inc. (APOG),APOG
+11251523,WIKI,Mack Cali Realty Corp (CLI),CLI
+11093851,WIKI,Chesapeake Utilities Corp. (CPK),CPK
+13693745,WIKI,Zendesk Inc (ZEN),ZEN
+10979171,WIKI,Akorn Inc. (AKRX),AKRX
+11093861,WIKI,Chicago Bridge & Iron Co. N.V. (Netherlands) (CBI),CBI
+10987366,WIKI,Apollo Investment Corp (AINV),AINV
+11093863,WIKI,Chico's FAS Inc (CHS),CHS
+11102057,WIKI,National Research Corp (NRCIA),NRCIA
+11077482,WIKI,bluebird bio Inc. (BLUE),BLUE
+11093869,WIKI,Children's Place Inc. (The) (PLCE),PLCE
+11093874,WIKI,Chimerix Inc. (CMRX),CMRX
+11118452,WIKI,Skyworks Solutions Inc. (SWKS),SWKS
+11077505,WIKI,BlueLinx Holdings Inc (BXC),BXC
+11110280,WIKI,Ocwen Financial Corp. (OCN),OCN
+11077527,WIKI,Blyth Inc (BTH),BTH
+10995611,WIKI,The Bancorp Inc (TBBK),TBBK
+11077537,WIKI,BNC Bancorp (BNCN),BNCN
+11093662,WIKI,Cavco Industries Inc. (CVCO),CVCO
+9775602,WIKI,CF Industries Holdings Inc (CF),CF
+13911712,WIKI,Randgold Resources Ltd. ADR (GOLD),GOLD
+11102147,WIKI,Nationstar Mortgage Holdings (NSM),NSM
+11115510,WIKI,Pendrell Corporation (PCO),PCO
+10995672,WIKI,BancorpSouth Inc. (BXS),BXS
+10979292,WIKI,Alamo Group Inc. (ALG),ALG
+11134941,WIKI,Telenav Inc. (TNAV),TNAV
+11108689,WIKI,Nuance Communications Inc. (NUAN),NUAN
+11118577,WIKI,SM Energy Co. (SM),SM
+11102197,WIKI,National Penn Bancshares Inc (Boyertown Penn.) (NPBC),NPBC
+11115521,WIKI,PennantPark Floating Rate Capital Ltd. (PFLT),PFLT
+11077646,WIKI,Bob Evans Farms Inc. (BOBE),BOBE
+11102229,WIKI,National Western Life Group Inc (NWLI),NWLI
+11110423,WIKI,Odyssey Marine Exploration Inc. (OMEX),OMEX
+11115525,WIKI,Penns Woods Bancorp Inc. (PWOD),PWOD
+11135010,WIKI,Telephone & Data Systems Inc. (TDS),TDS
+13693275,WIKI,Glori Energy Inc (GLRI),GLRI
+9775613,WIKI,CME Group Inc (CME),CME
+10996743,WIKI,Barracuda Networks Inc (CUDA),CUDA
+11094061,WIKI,Chindex International Inc. (CHDX),CHDX
+13693752,WIKI,Zoe's Kitchen Inc (ZOES),ZOES
+11094069,WIKI,Chiquita Brands International Inc. (CQB),CQB
+11110454,WIKI,Office Depot Inc. (ODP),ODP
+11094073,WIKI,Choice Hotels International Inc. (CHH),CHH
+10987579,WIKI,Applied Industrial Technologies Inc. (AIT),AIT
+11094081,WIKI,Christopher & Banks Corp. (CBK),CBK
+11115531,WIKI,Peoples Bancorp Inc. (Marietta OH) (PEBO),PEBO
+11077702,WIKI,Body Central Corp. (BODY),BODY
+13693281,WIKI,GrubHub Inc (GRUB),GRUB
+11094088,WIKI,Church & Dwight Co. Inc. (CHD),CHD
+11094090,WIKI,Churchill Downs Inc. (CHDN),CHDN
+11094091,WIKI,Chuy's Holdings Inc. (CHUY),CHUY
+11094097,WIKI,Ciber Inc. (CBR),CBR
+11077714,WIKI,BofI Holding Inc. (BOFI),BOFI
+11094102,WIKI,CIENA CORP (CIEN),CIEN
+11094103,WIKI,CIFC Corp (CIFC),CIFC
+11077722,WIKI,Boingo Wireless Inc. (WIFI),WIFI
+11077725,WIKI,Boise Cascade Company (BCC),BCC
+11077727,WIKI,BOK Financial Corp. (BOKF),BOKF
+11094112,WIKI,Cinedigm Digital Cinema Corp (CIDM),CIDM
+11094113,WIKI,Cinemark Holdings Inc. (CNK),CNK
+11110075,WIKI,OceanFirst Financial Corp (OCFC),OCFC
+10995813,WIKI,Bank Mutual Corp (BKMU),BKMU
+11077736,WIKI,Bolt Technology Corp. (BOLT),BOLT
+11094124,WIKI,Circor International Inc (CIR),CIR
+11144210,WIKI,Triangle Capital Corp (TCAP),TCAP
+11094127,WIKI,Cirrus Logic Inc. (CRUS),CRUS
+11077744,WIKI,Bon-Ton Stores Inc (BONT),BONT
+10987633,WIKI,Applied Micro Circuits Corporation (AMCC),AMCC
+11094131,WIKI,CIT Group Inc. (CIT),CIT
+11094134,WIKI,Citi Trends Inc (CTRN),CTRN
+11110521,WIKI,OFG Bancorp (OFG),OFG
+11094138,WIKI,Citizens & Northern Corp (CZNC),CZNC
+11102335,WIKI,Natural Gas Services Group Inc. (NGS),NGS
+11102336,WIKI,Natural Grocers by Vitamin Cottage Inc (NGVC),NGVC
+11077761,WIKI,Bonanza Creek Energy (BCEI),BCEI
+11110532,WIKI,OGE Energy Corp. (OGE),OGE
+11094152,WIKI,Citizens Inc. Cl A (CIA),CIA
+11094160,WIKI,City Holding Co. (CHCO),CHCO
+11094161,WIKI,City National Corp (Beverly Hills CA) (CYN),CYN
+11135122,WIKI,TeleTech Holdings Inc. (TTEC),TTEC
+11094166,WIKI,Clarcor Inc. (CLC),CLC
+11094177,WIKI,CLAYTON WILLIAMS E## (CWEI),CWEI
+11094180,WIKI,Clean Energy Fuels Corp. (CLNE),CLNE
+10983110,WIKI,American Apparel Inc (APP),APP
+11094183,WIKI,Clean Harbors Inc. (CLH),CLH
+11094191,WIKI,Clear Channel Outdoor Holdings Inc (CCO),CCO
+11146952,WIKI,YRC Worldwide Inc. (YRCW),YRCW
+11094196,WIKI,Clearfield Inc. (CLFD),CLFD
+11115550,WIKI,Peregrine Pharmaceuticals Inc. (PPHM),PPHM
+10979511,WIKI,Alaska Air Group Inc. (ALK),ALK
+11094201,WIKI,Clearwater Paper (CLW),CLW
+11094203,WIKI,Cleco Corp. (CNL),CNL
+11116917,WIKI,SeaWorld Entertainment Inc. (SEAS),SEAS
+11094210,WIKI,Clifton Bancorp Inc (CSBK),CSBK
+11143363,WIKI,Travelzoo Inc. (TZOO),TZOO
+11094214,WIKI,Cloud Peak Energy Inc (CLD),CLD
+11094217,WIKI,Clovis Oncology Inc. (CLVS),CLVS
+11094221,WIKI,ClubCorp Holdings Inc (MYCC),MYCC
+11094231,WIKI,CNA Financial Corp. (CNA),CNA
+11094235,WIKI,CNB Financial Corp. (Clearfield PA) (CCNE),CCNE
+11077854,WIKI,Booz Allen Hamilton Holding Corp. (BAH),BAH
+10995935,WIKI,Bank of Hawaii Corp (BOH),BOH
+11146960,WIKI,Yume Inc (YUME),YUME
+10995941,WIKI,Bank of Kentucky Financial Corp. (BKYF),BKYF
+9775510,WIKI,Allstate Corp. (ALL),ALL
+10987754,WIKI,Applied Optoelectronics Inc (AAOI),AAOI
+9775604,WIKI,Chesapeake Energy Corp. (CHK),CHK
+11115560,WIKI,Perion Network Ltd. (PERI),PERI
+10995958,WIKI,Bank of Marin Bancorp (BMRC),BMRC
+11094263,WIKI,CoBiz Financial Inc (COBZ),COBZ
+11094267,WIKI,Coca-Cola Bottling Co. Consolidated (COKE),COKE
+11102461,WIKI,Nature's Sunshine Products Inc. (NATR),NATR
+11143426,WIKI,TRC Companies (TRR),TRR
+11102468,WIKI,Natus Medical Incorporated (BABY),BABY
+11102471,WIKI,Nautilus (NLS),NLS
+11094280,WIKI,Coeur Mining Inc (CDE),CDE
+11094284,WIKI,Cogent Communications Holdings Inc. (CCOI),CCOI
+11094285,WIKI,Cognex Corp. (CGNX),CGNX
+11111469,WIKI,Omnicare Inc. (OCR),OCR
+11094288,WIKI,Cohen & Steers Inc (CNS),CNS
+11094289,WIKI,Coherent Inc. (COHR),COHR
+11094290,WIKI,Cohu Inc. (COHU),COHU
+11094294,WIKI,Colfax (CFX),CFX
+11094298,WIKI,Collectors Universe Inc (CLCT),CLCT
+11077917,WIKI,Boston Beer Co. Cl A (SAM),SAM
+10987810,WIKI,Approach Resources Inc. (AREX),AREX
+11077929,WIKI,Boston Private Financial Holdings Inc. (BPFH),BPFH
+11102508,WIKI,Navidea Biopharmaceuticals (NAVB),NAVB
+11094321,WIKI,Columbia Banking System Inc. (COLB),COLB
+11094324,WIKI,Columbia Sportswear Co. (COLM),COLM
+11094329,WIKI,Columbus McKinnon Corp. (NY) (CMCO),CMCO
+11077947,WIKI,Bottomline Technologies Inc. (EPAY),EPAY
+11094335,WIKI,Comcast Corporation (CMCSK),CMCSK
+11102528,WIKI,Navigant Consulting Inc. (NCI),NCI
+11102530,WIKI,Navigators Group Inc. (NAVG),NAVG
+11094339,WIKI,Comfort Systems USA Inc. (FIX),FIX
+10987846,WIKI,AptarGroup Inc. (ATR),ATR
+11077960,WIKI,Boulder Brands Inc. (BDBD),BDBD
+11094345,WIKI,Commerce Bancshares Inc. (CBSH),CBSH
+11094353,WIKI,Commercial Metals Co. (CMC),CMC
+10987859,WIKI,Aqua America Inc (WTR),WTR
+11094356,WIKI,Commercial Vehicle Group Inc. (CVGI),CVGI
+11101924,WIKI,National Instruments Corp. (NATI),NATI
+11146519,WIKI,Warren Resources Inc. (WRES),WRES
+11094372,WIKI,Community Bank System Inc. (CBU),CBU
+11110758,WIKI,Oil States International Inc. (OIS),OIS
+11102567,WIKI,Navios Maritime Holdings Inc (NM),NM
+11094387,WIKI,Community Health Systems Inc. (CYH),CYH
+11102583,WIKI,Navistar International (NAV),NAV
+11094395,WIKI,Community Trust Bancorp Inc. (CTBI),CTBI
+9775486,WIKI,Alcoa Inc. (AA),AA
+11094399,WIKI,CommunityOne Bancorp (COB),COB
+11094400,WIKI,CommVault Systems Inc. (CVLT),CVLT
+9775489,WIKI,Abbott Laboratories (ABT),ABT
+9775490,WIKI,ACE Ltd (ACE),ACE
+11146987,WIKI,ZELTIQ Aesthetics Inc. (ZLTQ),ZLTQ
+9775492,WIKI,Allergan Inc. (AGN),AGN
+9775493,WIKI,Adobe Systems Incorporated (ADBE),ADBE
+11094406,WIKI,Compass Minerals International Inc (CMP),CMP
+9775495,WIKI,Archer Daniels Midland Co. (ADM),ADM
+9775496,WIKI,Automatic Data Processing Inc. (ADP),ADP
+9775497,WIKI,Alliance Data Systems Corp. (ADS),ADS
+9775498,WIKI,Autodesk Inc. (ADSK),ADSK
+9775499,WIKI,ADT Corp (ADT),ADT
+9775500,WIKI,Ameren Corp. (AEE),AEE
+9775501,WIKI,American Electric Power Company (AEP),AEP
+9775502,WIKI,AES Corp. (AES),AES
+9775503,WIKI,Aetna Inc. (AET),AET
+9775504,WIKI,American Family Life Assurance Co. of Columbus (AFL),AFL
+11125144,WIKI,Steelcase Inc. (SCS),SCS
+9775506,WIKI,American International Group Inc (AIG),AIG
+9775507,WIKI,Apartment Investment & Management Co. (AIV),AIV
+9775508,WIKI,Assurant Inc. (AIZ),AIZ
+9775509,WIKI,Akamai Technologies Inc. (AKAM),AKAM
+10979734,WIKI,Albany International Corp (AIN),AIN
+9775511,WIKI,Allegion Plc (ALLE),ALLE
+11094424,WIKI,Computer Programs & Systems Inc (CPSI),CPSI
+9775513,WIKI,Alexion Pharmaceuticals Inc. (ALXN),ALXN
+11094426,WIKI,Computer Task Group Inc. (CTG),CTG
+9775515,WIKI,AMETEK Inc. (AME),AME
+9775516,WIKI,Amgen Inc (AMGN),AMGN
+11094429,WIKI,CompuWare Corp. (CPWR),CPWR
+11094430,WIKI,CompX International Inc. (CIX),CIX
+11094431,WIKI,comScore Inc. (SCOR),SCOR
+11143584,WIKI,Tredegar Corp. (TG),TG
+11094435,WIKI,Comstock Resources Inc. (CRK),CRK
+11094436,WIKI,Comtech Telecommunications Corp. (CMTL),CMTL
+11094440,WIKI,Comverse Inc. (CNSI),CNSI
+11094441,WIKI,Con-way Inc. (CNW),CNW
+11094446,WIKI,Concho Resources (CXO),CXO
+13693341,WIKI,iStar Inc (STAR),STAR
+11094451,WIKI,Concur Technologies Inc. (CNQR),CNQR
+11110838,WIKI,Old Dominion Freight Line Inc. (ODFL),ODFL
+11119037,WIKI,Smith & Wesson Holding Corp (SWHC),SWHC
+9775550,WIKI,Agilent Technologies Inc. (A),A
+11094463,WIKI,Conmed Corp. (CNMD),CNMD
+11094464,WIKI,Conn's Inc. (CONN),CONN
+9775553,WIKI,Apache Corp. (APA),APA
+9775554,WIKI,Anadarko Petroleum Corp (APC),APC
+9775555,WIKI,Air Products & Chemicals Inc. (APD),APD
+11094468,WIKI,Connecticut Water Service Inc. (CTWS),CTWS
+11094469,WIKI,ConnectOne Bancorp Inc (New) (CNOB),CNOB
+9775558,WIKI,Allegheny Technologies Incorporated (ATI),ATI
+9775559,WIKI,Avalonbay Communities Inc. (AVB),AVB
+9775560,WIKI,Avon Products, Inc. (AVP),AVP
+9775561,WIKI,Avery Dennison Corp. (AVY),AVY
+9775562,WIKI,American Express Co. (AXP),AXP
+9775563,WIKI,AutoZone Inc. (AZO),AZO
+9775564,WIKI,The Boeing Co. (BA),BA
+11094477,WIKI,Consolidated-Tomoka Land Co. (CTO),CTO
+9775566,WIKI,Baxter International Inc. (BAX),BAX
+9775567,WIKI,Bed Bath & Beyond Inc. (BBBY),BBBY
+10979792,WIKI,Albany Molecular Research Inc. (AMRI),AMRI
+9775569,WIKI,Best Buy Inc (BBY),BBY
+11119058,WIKI,Smith (A.O.) Corp (AOS),AOS
+11133347,WIKI,Taylor Morrison Home Corp (TMHC),TMHC
+9775572,WIKI,Beam Inc. (BEAM),BEAM
+11094485,WIKI,Consolidated Water Co Ltd (CWCO),CWCO
+9775574,WIKI,Brown-Forman Corp. (BF_B),BF_B
+9775575,WIKI,Baker Hughes Inc. (BHI),BHI
+9775576,WIKI,Biogen Inc (BIIB),BIIB
+11127257,WIKI,Sturm Ruger& Co. Inc. (RGR),RGR
+11094490,WIKI,Constant Contact Inc. (CTCT),CTCT
+9775579,WIKI,Ball Corp (BLL),BLL
+9775580,WIKI,Bemis Co Inc (BMS),BMS
+9775581,WIKI,Bristol-Myers Squibb Co. (BMY),BMY
+9775582,WIKI,Broadcom Corp. (BRCM),BRCM
+11094495,WIKI,Consumer Portfolio Services Inc. (CPSS),CPSS
+9775584,WIKI,Boston Scientific Corp. (BSX),BSX
+9775585,WIKI,Peabody Energy Corp (BTU),BTU
+9775586,WIKI,BorgWarner Inc. (BWA),BWA
+9775587,WIKI,Boston Properties Inc. (BXP),BXP
+9775588,WIKI,Citigroup Inc (C),C
+11094501,WIKI,The Container Store Group Inc. (TCS),TCS
+11094502,WIKI,Contango Oil & Gas Co. (MCF),MCF
+9775591,WIKI,Cardinal Health Inc. (CAH),CAH
+11094504,WIKI,Continental Building Products Inc (CBPX),CBPX
+9775593,WIKI,Caterpillar Inc. (CAT),CAT
+9775594,WIKI,Chubb Corp (CB),CB
+9775595,WIKI,CBRE Group (CBG),CBG
+9775596,WIKI,CBS Corp (CBS),CBS
+9775597,WIKI,Coca-Cola Enterprises Inc (CCE),CCE
+9775598,WIKI,Crown Castle International Corp (New) (CCI),CCI
+11094511,WIKI,Continental Resources Inc. (CLR),CLR
+9775600,WIKI,Celgene Corp. (CELG),CELG
+9775601,WIKI,Cerner Corporation (CERN),CERN
+11143666,WIKI,LendingTree Inc (New) (TREE),TREE
+11102707,WIKI,NCI Building Systems Inc. (NCS),NCS
+11094516,WIKI,Control4 Corp (CTRL),CTRL
+9775605,WIKI,Robinson (C.H.) Worldwide Inc. (CHRW),CHRW
+9775606,WIKI,Cigna Corp (CI),CI
+11094519,WIKI,Convergys Corp. (CVG),CVG
+11094520,WIKI,Conversant Inc (CNVR),CNVR
+9775609,WIKI,Cliffs Natural Resources Inc. (CLF),CLF
+11102714,WIKI,NCR Corp. (NCR),NCR
+9775611,WIKI,Comerica Inc. (CMA),CMA
+9775612,WIKI,Comcast Corp (CMCSA),CMCSA
+10988029,WIKI,Arabian American Development Company (ARSD),ARSD
+9775614,WIKI,Chipotle Mexican Grill (CMG),CMG
+11094527,WIKI,Cooper Tire & Rubber Co. (CTB),CTB
+10996224,WIKI,Bank of the Ozarks Inc. (OZRK),OZRK
+11094529,WIKI,Copa Holdings S.A. Cl A (CPA),CPA
+11094530,WIKI,Copart Inc. (CPRT),CPRT
+9775619,WIKI,Capital One Financial Corp (COF),COF
+9775620,WIKI,Cabot Oil & Gas Corp. (COG),COG
+9775621,WIKI,Coach Inc. (COH),COH
+9775622,WIKI,Rockwell Collins Inc. (COL),COL
+9775623,WIKI,ConocoPhillips (COP),COP
+9775624,WIKI,Costco Wholesale Corp (COST),COST
+9775625,WIKI,Covidien plc. (COV),COV
+10979850,WIKI,Albemarle Corp. (ALB),ALB
+9775627,WIKI,Salesforce.com Inc. (CRM),CRM
+9775628,WIKI,Computer Sciences Corporation (CSC),CSC
+9775629,WIKI,Cisco Systems Inc. (CSCO),CSCO
+11110926,WIKI,Old Line Bancshares Inc (OLBK),OLBK
+9775631,WIKI,Cintas Corp. (CTAS),CTAS
+11094544,WIKI,Corcept Therapeutics Incorporated (CORT),CORT
+11115608,WIKI,PetroQuest Energy Inc. (PQ),PQ
+9775634,WIKI,Citrix Systems Inc. (CTXS),CTXS
+9775635,WIKI,Cablevision Systems Corp. (CVC),CVC
+9775636,WIKI,CVS Health Corp (CVS),CVS
+9775637,WIKI,Chevron Corporation (CVX),CVX
+9775638,WIKI,Dominion Resources Inc (D),D
+9775639,WIKI,Delta Air Lines Inc. (DE) (DAL),DAL
+11094552,WIKI,Core Mark Holding Co Inc (CORE),CORE
+11094553,WIKI,CoreLogic (CLGX),CLGX
+9775642,WIKI,Discover Financial Services (DFS),DFS
+9775643,WIKI,Dollar General Corp (DG),DG
+9775644,WIKI,Quest Diagnostics Inc. (DGX),DGX
+9775645,WIKI,Horton (D.R.) Inc. (DHI),DHI
+9775646,WIKI,Danaher Corp. (DHR),DHR
+11094559,WIKI,Corinthian Colleges Inc. (COCO),COCO
+9775648,WIKI,Discovery Communications Inc. (DISCA),DISCA
+9775649,WIKI,Delphi Automotive Plc (DLPH),DLPH
+9775650,WIKI,Dollar Tree Inc. (DLTR),DLTR
+9775651,WIKI,Dun & Bradstreet Corp (DE) (DNB),DNB
+9775652,WIKI,Denbury Resources Inc. (DNR),DNR
+9775653,WIKI,Diamond Offshore Drilling Inc. (DO),DO
+9775654,WIKI,Dover Corp (DOV),DOV
+11094567,WIKI,Cornerstone OnDemand Inc. (CSOD),CSOD
+9775656,WIKI,Dr Pepper Snapple Group Inc (DPS),DPS
+9775657,WIKI,Darden Restaurants Inc. (United States) (DRI),DRI
+9775658,WIKI,DTE Energy Co. (DTE),DTE
+9775659,WIKI,DIRECTV (DTV),DTV
+11094572,WIKI,Coronado Biosciences, Inc. (CNDO),CNDO
+11143725,WIKI,TreeHouse Foods (THS),THS
+9775662,WIKI,Devon Energy Corp. (DVN),DVN
+9775663,WIKI,Electronic Arts Inc. (EA),EA
+9775664,WIKI,eBay Inc. (EBAY),EBAY
+9775665,WIKI,Ecolab Inc. (ECL),ECL
+9775666,WIKI,Consolidated Edison Inc. (ED),ED
+9775667,WIKI,Equifax Inc. (EFX),EFX
+11094580,WIKI,CEB Inc (CEB),CEB
+10988085,WIKI,Aratana Therapeutics Inc. (PETX),PETX
+9775670,WIKI,EMC Corp. (MA) (EMC),EMC
+11094583,WIKI,Corporate Resource Services Inc. (CRRS),CRRS
+9775672,WIKI,Emerson Electric Co. (EMR),EMR
+9775673,WIKI,EOG Resources Inc. (EOG),EOG
+9775674,WIKI,Equity Residential (EQR),EQR
+9775675,WIKI,EQT Corp. (EQT),EQT
+9775676,WIKI,Express Scripts Holding Company (ESRX),ESRX
+9775677,WIKI,Ensco plc (ESV),ESV
+9775678,WIKI,E*TRADE Financial Corporation (ETFC),ETFC
+9775679,WIKI,Eaton Corp plc (ETN),ETN
+9775680,WIKI,Entergy Corp. (ETR),ETR
+9775681,WIKI,Edwards Lifesciences Corp (EW),EW
+9775682,WIKI,Exelon Corp. (EXC),EXC
+11102787,WIKI,Neenah Paper Inc (NP),NP
+11094596,WIKI,CorVel Corp. (CRVL),CRVL
+11102789,WIKI,Nektar Therapeutics (NKTR),NKTR
+9775686,WIKI,Fastenal Co. (FAST),FAST
+9775687,WIKI,Facebook Inc. (FB),FB
+9775688,WIKI,Freeport-McMoRan Inc (FCX),FCX
+9775689,WIKI,Family Dollar Stores, Inc. (FDO),FDO
+9775690,WIKI,FedEx Corp (FDX),FDX
+9775691,WIKI,FirstEnergy Corp. (FE),FE
+9775692,WIKI,F5 Networks Inc. (FFIV),FFIV
+9775693,WIKI,Fidelity National Information Services Inc (FIS),FIS
+11094606,WIKI,CoStar Group Inc. (CSGP),CSGP
+9775695,WIKI,Fifth Third Bancorp (Cincinnati OH) (FITB),FITB
+9775696,WIKI,FLIR Systems Inc. (FLIR),FLIR
+9775697,WIKI,Fluor Corp. (FLR),FLR
+9775698,WIKI,Flowserve Corp. (FLS),FLS
+10996835,WIKI,Basic Energy Services (BAS),BAS
+9775700,WIKI,Fossil Group, Inc. (FOSL),FOSL
+9775701,WIKI,21st  Century Fox Inc (FOXA),FOXA
+9775702,WIKI,Forest Laboratories, Inc. (FRX),FRX
+9775703,WIKI,First Solar Inc. (FSLR),FSLR
+9775704,WIKI,FMC Technologies Inc. (FTI),FTI
+9775705,WIKI,Frontier Communications Corp (FTR),FTR
+9775706,WIKI,AGL Resources Inc. (Holding Co.) (GAS),GAS
+9775707,WIKI,Gannett Co., Inc. (GCI),GCI
+9775708,WIKI,General Dynamics Corp. (GD),GD
+9775709,WIKI,General Electric Co (GE),GE
+11111006,WIKI,Old National Bancorp (Evansville IN) (ONB),ONB
+11143775,WIKI,Tremor Video (TRMR),TRMR
+9775712,WIKI,Gilead Sciences Inc. (GILD),GILD
+9775713,WIKI,General Mills Inc. (GIS),GIS
+11094626,WIKI,Courier Corp. (CRRC),CRRC
+9775715,WIKI,General Motors Co. (GM),GM
+11094628,WIKI,Covance Inc. (CVD),CVD
+10988133,WIKI,ARC Document Solutions (ARC),ARC
+9775718,WIKI,Alphabet Inc (GOOG),GOOG
+9775719,WIKI,Genuine Parts Co. (GPC),GPC
+9775720,WIKI,Gap Inc. (GPS),GPS
+9775721,WIKI,Garmin Ltd. (GRMN),GRMN
+11094634,WIKI,Covisint Corp (COVS),COVS
+9775723,WIKI,Goodyear Tire & Rubber Co. (GT),GT
+11094636,WIKI,Cowen Group Inc. (COWN),COWN
+9775725,WIKI,Halliburton Company (HAL),HAL
+9775726,WIKI,Harman International Industries Inc. (HAR),HAR
+9775727,WIKI,Hasbro Inc. (HAS),HAS
+9775728,WIKI,Huntington Bancshares Inc (HBAN),HBAN
+9775729,WIKI,Hudson City Bancorp, Inc. (HCBK),HCBK
+9775730,WIKI,Welltower Inc (HCN),HCN
+9775731,WIKI,HCP Inc. (HCP),HCP
+9775732,WIKI,Home Depot Inc (HD),HD
+11094645,WIKI,CRA International Inc. (CRAI),CRAI
+11094646,WIKI,Cracker Barrel Old Country Store Inc. (CBRL),CBRL
+9775735,WIKI,Harley-Davidson Inc (HOG),HOG
+11094648,WIKI,Craft Brew Alliance Inc (BREW),BREW
+10996345,WIKI,BankFinancial Corp (BFIN),BFIN
+11111034,WIKI,Old Republic International Corp. (ORI),ORI
+11094651,WIKI,Crane Co. (CR),CR
+11127420,WIKI,Sucampo Pharmaceuticals Inc. (SCMP),SCMP
+9775741,WIKI,Hormel Foods Corp. (HRL),HRL
+11094654,WIKI,Cray Inc. (CRAY),CRAY
+9775743,WIKI,Hospira Inc (HSP),HSP
+9775744,WIKI,Host Hotels & Resorts Inc (HST),HST
+10988161,WIKI,ARC Group Worldwide Inc (ARCW),ARCW
+9775746,WIKI,Humana Inc. (HUM),HUM
+9775747,WIKI,International Business Machines Corp (IBM),IBM
+9775748,WIKI,Intercontinental Exchange Inc. (ICE),ICE
+9775749,WIKI,Int'l. Flavors & Fragrances (IFF),IFF
+10996358,WIKI,Bankrate (RATE),RATE
+9775751,WIKI,Intel Corp (INTC),INTC
+9775752,WIKI,Intuit Inc (INTU),INTU
+9775753,WIKI,International Paper Co (IP),IP
+11094666,WIKI,Credit Acceptance Corp. (MI) (CACC),CACC
+10996363,WIKI,BankUnited Inc. (BKU),BKU
+9775756,WIKI,Iron Mountain (IRM),IRM
+9775757,WIKI,Intuitive Surgical Inc. (ISRG),ISRG
+9775758,WIKI,Illinois Tool Works Inc. (ITW),ITW
+9775759,WIKI,Invesco Ltd (IVZ),IVZ
+9775760,WIKI,Jabil Circuit Inc. (JBL),JBL
+11094673,WIKI,Cree Inc. (CREE),CREE
+9775762,WIKI,Jacobs Engineering Group Inc. (JEC),JEC
+10996371,WIKI,Banner Corp. (BANR),BANR
+9775764,WIKI,Juniper Networks Inc (JNPR),JNPR
+9775765,WIKI,Joy Global Inc. (JOY),JOY
+9775767,WIKI,Nordstrom Inc. (JWN),JWN
+9775768,WIKI,Kellogg Co (K),K
+9775769,WIKI,KeyCorp (KEY),KEY
+9775770,WIKI,Kimco Realty Corp. (KIM),KIM
+9775771,WIKI,KLA-Tencor Corp. (KLAC),KLAC
+9775772,WIKI,Kimberly-Clark Corp. (KMB),KMB
+9775773,WIKI,Kinder Morgan Inc. (KMI),KMI
+9775774,WIKI,CarMax Inc. (KMX),KMX
+9775775,WIKI,Coca-Cola Co (The) (KO),KO
+9775776,WIKI,Michael Kors Holdings (KORS),KORS
+11094689,WIKI,Crocs Inc. (CROX),CROX
+11102882,WIKI,Neogen Corp. (NEOG),NEOG
+9775779,WIKI,Kohl's Corp. (KSS),KSS
+9775780,WIKI,Kansas City Southern (KSU),KSU
+9775781,WIKI,Loews Corp. (L),L
+11094694,WIKI,Cross Country Healthcare Inc. (CCRN),CCRN
+9775783,WIKI,Leggett & Platt Inc. (LEG),LEG
+9775784,WIKI,Lennar Corp. (LEN),LEN
+9775785,WIKI,Laboratory Corp. of America Holdings (LH),LH
+9775786,WIKI,Life Technologies (LIFE),LIFE
+9775787,WIKI,L-3 Communications Holdings Inc. (LLL),LLL
+9775788,WIKI,Linear Technology Corp. (LLTC),LLTC
+9775789,WIKI,Lilly (Eli) & Co. (LLY),LLY
+9775790,WIKI,Legg Mason Inc. (LM),LM
+9775791,WIKI,Lockheed Martin Corp. (LMT),LMT
+9775792,WIKI,Lincoln National Corp. (LNC),LNC
+9775793,WIKI,Lorillard, Inc (LO),LO
+9775794,WIKI,Lowes Cos. (LOW),LOW
+11094707,WIKI,Crown Holdings (CCK),CCK
+9775796,WIKI,LSI Corporation (LSI),LSI
+11094709,WIKI,Crown Media Holdings Inc. (CRWN),CRWN
+9775798,WIKI,Southwest Airlines Co (LUV),LUV
+9775799,WIKI,LyondellBasell Industries NV (LYB),LYB
+9775800,WIKI,Macys Inc. (M),M
+9775801,WIKI,MasterCard  Cl A (MA),MA
+9775802,WIKI,Macerich Co. (The) (MAC),MAC
+9775803,WIKI,Marriott International Inc. (MAR),MAR
+11094716,WIKI,CryoLife Inc. (CRY),CRY
+9775805,WIKI,Mattel Inc (MAT),MAT
+11127486,WIKI,Suffolk Bancorp (SUBK),SUBK
+9775807,WIKI,MicroChip Technology Inc. (MCHP),MCHP
+9775808,WIKI,McKesson Corp. (MCK),MCK
+9775809,WIKI,Moody's Corp. (MCO),MCO
+9775810,WIKI,Mondelez International Inc (MDLZ),MDLZ
+9775811,WIKI,Medtronic PLC (MDT),MDT
+11094724,WIKI,CSG Systems International Inc. (CSGS),CSGS
+9775813,WIKI,McGraw Hill Financial Inc. (MHFI),MHFI
+9775814,WIKI,Mohawk Industries Inc. (MHK),MHK
+9775815,WIKI,Mead Johnson Nutrition Co (MJN),MJN
+9775816,WIKI,McCormick & Co. Inc. (MKC),MKC
+9775817,WIKI,Marsh & McLennan Cos. (MMC),MMC
+9775818,WIKI,3M Co (MMM),MMM
+11146876,WIKI,XOMA Corporation (XOMA),XOMA
+11094732,WIKI,CSS Industries Inc. (CSS),CSS
+11094733,WIKI,CST Brands Inc (CST),CST
+9775822,WIKI,Mosaic Company (The) (MOS),MOS
+9775823,WIKI,Marathon Petroleum Corp. (MPC),MPC
+11102928,WIKI,NeoGenomics Inc. (NEO),NEO
+9775825,WIKI,Marathon Oil Corp. (MRO),MRO
+11111122,WIKI,Olin Corp. (OLN),OLN
+11135699,WIKI,Tennant Co. (TNC),TNC
+9775828,WIKI,Motorola Solutions Inc. (MSI),MSI
+9775829,WIKI,M & T Bank Corp (MTB),MTB
+11094742,WIKI,CTS Corp. (CTS),CTS
+9775831,WIKI,Murphy Oil Corp (MUR),MUR
+11094744,WIKI,CU Bancorp (CUNB),CUNB
+9775833,WIKI,Mylan NV (MYL),MYL
+9775834,WIKI,Noble Energy Inc. (NBL),NBL
+11094747,WIKI,Cubic Corp. (CUB),CUB
+9775836,WIKI,Nasdaq Inc (NDAQ),NDAQ
+11094749,WIKI,Cubist Pharmaceuticals Inc. (CBST),CBST
+9775838,WIKI,NextEra Energy Inc (NEE),NEE
+9775839,WIKI,Newmont Mining Corp. (Holding Co.) (NEM),NEM
+11094752,WIKI,CUI Global Inc. (CUI),CUI
+9775841,WIKI,Newfield Exploration Co. (NFX),NFX
+9775842,WIKI,NiSource Inc (NI),NI
+11094755,WIKI,Cullen/Frost Bankers Inc. (CFR),CFR
+9775844,WIKI,Nielsen Holdings PLC (NLSN),NLSN
+11094757,WIKI,Culp Inc. (CFI),CFI
+11143910,WIKI,Trex Co. Inc. (TREX),TREX
+9775847,WIKI,NRG Energy Inc (NRG),NRG
+11094760,WIKI,Cumulus Media Inc. (CMLS),CMLS
+9775849,WIKI,NetApp Inc. (NTAP),NTAP
+11094762,WIKI,Curis Inc. (CRIS),CRIS
+9775851,WIKI,Northeast Utilities (NU),NU
+9775852,WIKI,Nucor Corp. (NUE),NUE
+9775853,WIKI,NVIDIA Corp (NVDA),NVDA
+9775854,WIKI,Newell Rubbermaid Inc. (NWL),NWL
+9775855,WIKI,News Corp (New) (NWSA),NWSA
+9775856,WIKI,Owens-Illinois Inc. (OI),OI
+11094769,WIKI,Curtiss-Wright Corp. (CW),CW
+9775858,WIKI,Omnicom Group Inc. (OMC),OMC
+11094771,WIKI,Customers Bancorp Inc (CUBI),CUBI
+11094772,WIKI,Cutera Inc. (CUTR),CUTR
+11094773,WIKI,CVB Financial Corp. (CVBF),CVBF
+9775862,WIKI,Paychex Inc (PAYX),PAYX
+11094775,WIKI,Cvent (CVT),CVT
+10996472,WIKI,Bar Harbor Bankshares (BHB),BHB
+11094777,WIKI,CVR Energy Inc (CVI),CVI
+10980090,WIKI,Alere (ALR),ALR
+9775867,WIKI,Plum Creek Timber Co. Inc. (PCL),PCL
+11135740,WIKI,Tenneco (TEN),TEN
+11094781,WIKI,Cyan Inc (CYNI),CYNI
+9775870,WIKI,Patterson Companies Inc (PDCO),PDCO
+9775871,WIKI,Public Service Enterprise Group (PEG),PEG
+9775872,WIKI,Pepsico Inc. (PEP),PEP
+9775873,WIKI,PetSmart, Inc (PETM),PETM
+10988290,WIKI,Arch Capital Group Ltd. (ACGL),ACGL
+9775875,WIKI,Principal Financial Group Inc. (PFG),PFG
+9775876,WIKI,Procter & Gamble Co. (PG),PG
+11094789,WIKI,Cyberonics Inc. (CYBX),CYBX
+9775878,WIKI,Parker Hannifin Corp. (PH),PH
+10988295,WIKI,Arch Coal Inc. (ACI),ACI
+9775880,WIKI,PerkinElmer Inc. (PKI),PKI
+9775881,WIKI,Prologis Inc (PLD),PLD
+9775882,WIKI,Pall Corporation (PLL),PLL
+9775883,WIKI,Philip Morris International Inc (PM),PM
+9775884,WIKI,PNC Financial Services Group (The) (PNC),PNC
+9775885,WIKI,Pentair PLC (PNR),PNR
+9775886,WIKI,Pinnacle West Capital Corp. (PNW),PNW
+9775887,WIKI,Pepco Holdings Inc. (POM),POM
+9775888,WIKI,PPG Industries Inc. (PPG),PPG
+9775889,WIKI,PPL Corp (PPL),PPL
+9775890,WIKI,Perrigo Company plc (PRGO),PRGO
+9775891,WIKI,Prudential Financial Inc. (PRU),PRU
+9775892,WIKI,Public Storage (PSA),PSA
+9775893,WIKI,Phillips 66 (PSX),PSX
+9775894,WIKI,PVH Corp (PVH),PVH
+11094807,WIKI,Cynosure Inc. (CYNO),CYNO
+9775896,WIKI,Praxair Inc. (PX),PX
+11094809,WIKI,Cypress Semiconductor Corp. (CY),CY
+11094810,WIKI,Cytec Industries Inc. (CYT),CYT
+9775899,WIKI,QEP Resources, Inc. (QEP),QEP
+9775900,WIKI,Ryder System Inc. (R),R
+11094813,WIKI,Cytokinetics Inc (CYTK),CYTK
+9775902,WIKI,Rowan Companies plc (RDC),RDC
+11094815,WIKI,Cytori Therapeutics Inc (CYTX),CYTX
+9775904,WIKI,Regions Financial Corp (RF),RF
+11094817,WIKI,CytRx Corporation (CYTR),CYTR
+11111202,WIKI,OM Group, Inc. (OMG),OMG
+9775907,WIKI,Transocean Ltd. (RIG),RIG
+9775908,WIKI,Ralph Lauren Corp (RL),RL
+9775909,WIKI,Rockwell Automation Inc. (ROK),ROK
+9775910,WIKI,Roper Technologies Inc (ROP),ROP
+9775911,WIKI,Ross Stores Inc. (ROST),ROST
+9775912,WIKI,Range Resources Corp (RRC),RRC
+9775913,WIKI,Republic Services Inc. (RSG),RSG
+9775914,WIKI,Raytheon Co. (RTN),RTN
+9775915,WIKI,Starbucks Corp. (SBUX),SBUX
+9775916,WIKI,SCANA Corp (SCG),SCG
+9775917,WIKI,Charles Schwab Corp. (SCHW),SCHW
+11103022,WIKI,Neonode Inc. (NEON),NEON
+9775919,WIKI,Sealed Air Corp. (SEE),SEE
+9775920,WIKI,Sherwin-Williams Co. (SHW),SHW
+9775921,WIKI,Sigma-Aldrich Corporation (SIAL),SIAL
+9775922,WIKI,Smucker (J.M.) Co. (SJM),SJM
+9775923,WIKI,Schlumberger Ltd. (SLB),SLB
+11094836,WIKI,Daily Journal Corp. (DJCO),DJCO
+11143989,WIKI,Tri Pointe Homes Inc (TPH),TPH
+9775926,WIKI,SanDisk Corp. (SNDK),SNDK
+9775927,WIKI,Scripps Networks Interactive Inc (SNI),SNI
+9775928,WIKI,Southern Co. (SO),SO
+9775929,WIKI,Simon Property Group Inc. (SPG),SPG
+9775930,WIKI,Staples Inc (SPLS),SPLS
+10980155,WIKI,Alexander & Baldwin Inc. (ALEX),ALEX
+9775932,WIKI,Sempra Energy (SRE),SRE
+9775933,WIKI,Suntrust Banks Inc. (STI),STI
+9775934,WIKI,St. Jude Medical Inc. (STJ),STJ
+9775935,WIKI,State Street Corp (STT),STT
+9775936,WIKI,Seagate Technology (STX),STX
+11094849,WIKI,Daktronics Inc. (DAKT),DAKT
+9775938,WIKI,Stanley Works (SWK),SWK
+9775939,WIKI,Southwestern Energy Co. (SWN),SWN
+9775940,WIKI,Safeway Inc. (SWY),SWY
+9775941,WIKI,Stryker Corp. (SYK),SYK
+9775942,WIKI,Symantec Corp. (SYMC),SYMC
+9775943,WIKI,Sysco Corp. (SYY),SYY
+9775944,WIKI,AT&T Inc (T),T
+11094857,WIKI,Dana Holding Corp (DAN),DAN
+9775946,WIKI,Teradata (TDC),TDC
+11077431,WIKI,Blue Nile Inc. (NILE),NILE
+9775948,WIKI,Integrys Energy Group (TEG),TEG
+11135821,WIKI,Teradyne Inc. (TER),TER
+9775950,WIKI,Target Corp. (TGT),TGT
+9775951,WIKI,Tenet Healthcare Corp. (THC),THC
+9775952,WIKI,Tiffany & Co. (TIF),TIF
+11094865,WIKI,Darling Ingredients Inc (DAR),DAR
+9775954,WIKI,Torchmark Corp. (TMK),TMK
+9775955,WIKI,Thermo Fisher Scientific (TMO),TMO
+9775956,WIKI,TripAdvisor Inc. (TRIP),TRIP
+9775957,WIKI,T Rowe Price Group Inc. (TROW),TROW
+9775958,WIKI,Travelers Companies Inc (The) (TRV),TRV
+11134777,WIKI,Teleflex Inc. (TFX),TFX
+9775960,WIKI,Tesoro Corporation (TSO),TSO
+9775961,WIKI,Total System Services Inc. (TSS),TSS
+9775962,WIKI,Time Warner Cable Inc (TWC),TWC
+9775963,WIKI,Time Warner Inc (TWX),TWX
+9775964,WIKI,Texas Instruments Inc. (TXN),TXN
+11103069,WIKI,Neophotonics (NPTN),NPTN
+11094878,WIKI,Datalink Corporation (DTLK),DTLK
+10996575,WIKI,Barnes & Noble Inc (BKS),BKS
+11103072,WIKI,NeoStem Incorporated (NBS),NBS
+9775969,WIKI,Union Pacific Corp (UNP),UNP
+9775970,WIKI,United Parcel Service Inc. (UPS),UPS
+9775804,WIKI,Masco Corp. (MAS),MAS
+10988388,WIKI,Arctic Cat Inc (ACAT),ACAT
+9775973,WIKI,United Technologies Corp. (UTX),UTX
+9775974,WIKI,Visa Inc (V),V
+9775975,WIKI,Varian Medical Systems Inc. (VAR),VAR
+9775976,WIKI,VF Corp. (VFC),VFC
+9775977,WIKI,Viacom Inc (VIAB),VIAB
+9775978,WIKI,Valero Energy Corp. (VLO),VLO
+9775979,WIKI,Vulcan Materials Co (Holding Company) (VMC),VMC
+11094892,WIKI,Dawson Geophysical Co. (DWSN),DWSN
+9775981,WIKI,VeriSign Inc. (VRSN),VRSN
+9775982,WIKI,Vertex Pharmaceuticals Incorporated (VRTX),VRTX
+9775983,WIKI,Ventas Inc. (VTR),VTR
+9775984,WIKI,Verizon Communications Inc (VZ),VZ
+9775985,WIKI,Walgreen Co. (WAG),WAG
+9775986,WIKI,Waters Corp. (WAT),WAT
+9775987,WIKI,Western Digital Corp. (WDC),WDC
+9775988,WIKI,WEC Energy Group Inc (WEC),WEC
+9775989,WIKI,Wells Fargo & Co. (WFC),WFC
+9775990,WIKI,Whole Foods Market Inc. (WFM),WFM
+9775991,WIKI,Whirlpool Corp (WHR),WHR
+9775992,WIKI,Windstream Holdings, Inc. (WIN),WIN
+9775993,WIKI,WellPoint Inc. (WLP),WLP
+11094906,WIKI,Dealertrack Technologies Inc. (TRAK),TRAK
+9775995,WIKI,Williams Cos Inc (The) (WMB),WMB
+11094908,WIKI,Dean Foods Co. (DF),DF
+9775997,WIKI,WPX Energy (WPX),WPX
+11111294,WIKI,Omega Flex Inc (OFLX),OFLX
+9775999,WIKI,Weyerhaeuser Co. (WY),WY
+11119488,WIKI,Snyder's-Lance Inc. (LNCE),LNCE
+9776001,WIKI,Wynn Resorts Ltd (WYNN),WYNN
+10996610,WIKI,Barnes Group Inc. (B),B
+9776003,WIKI,Xcel Energy Inc. (XEL),XEL
+9776004,WIKI,XL Group Plc (XL),XL
+9776005,WIKI,Xilinx Inc. (XLNX),XLNX
+9776006,WIKI,Exxon Mobil Corp. (XOM),XOM
+11094919,WIKI,Deckers Outdoor Corp. (DECK),DECK
+9776008,WIKI,Xerox Corp (XRX),XRX
+9776009,WIKI,Xylem Inc. (XYL),XYL
+9776010,WIKI,Yahoo! Inc. (YHOO),YHOO
+9776011,WIKI,Yum! Brands Inc. (YUM),YUM
+9776012,WIKI,Zions Bancorporation (ZION),ZION
+9776013,WIKI,Zimmer Holdings, Inc. (ZMH),ZMH
+9776014,WIKI,Zoetis Inc (ZTS),ZTS
+11111320,WIKI,Omega Protein Corp. (OME),OME
+11094943,WIKI,Del Frisco's Restaurant Group Inc. (DFRG),DFRG
+11094953,WIKI,Delek US Holdings Inc (DK),DK
+11251560,WIKI,Piedmont Office Realty Trust Inc (PDM),PDM
+11094968,WIKI,Delta Natural Gas Co. Inc. (DGAS),DGAS
+11111353,WIKI,Omeros Corporation (OMER),OMER
+11094973,WIKI,Deltic Timber Corp. (DEL),DEL
+11094975,WIKI,Deluxe Corp. (DLX),DLX
+11094976,WIKI,Demand Media Inc (DMD),DMD
+11094977,WIKI,Demandware Inc (DWRE),DWRE
+11135938,WIKI,Terex Corp. (New) (TEX),TEX
+11094980,WIKI,Dendreon Corp (DNDN),DNDN
+11094983,WIKI,Denny's Corporation (DENN),DENN
+10988491,WIKI,Ardmore Shipping Corp (ASC),ASC
+11094989,WIKI,Depomed Inc. (DEPO),DEPO
+11094991,WIKI,Derma Sciences Inc. (DSCI),DSCI
+11094998,WIKI,Destination Maternity Corp (DEST),DEST
+11146540,WIKI,Watts Water Technologies Inc (WTS),WTS
+11095000,WIKI,Destination XL Group Inc. (DXLG),DXLG
+11118416,WIKI,SkyWest Inc. (SKYW),SKYW
+10988518,WIKI,Arena Pharmaceuticals Inc. (ARNA),ARNA
+11095019,WIKI,DeVry Education Group Inc (DV),DV
+11095022,WIKI,Dex Media Inc. (DXM),DXM
+11095023,WIKI,DexCom Inc. (DXCM),DXCM
+11095027,WIKI,DFC Global Corp (DLLR),DLLR
+11146541,WIKI,Wausau Paper Corp (WPP),WPP
+11095031,WIKI,DHT Holdings Inc. (DHT),DHT
+11103228,WIKI,Net Element Inc. (NETE),NETE
+10988543,WIKI,Ares Capital Corp (ARCC),ARCC
+10980356,WIKI,Alico Inc. (ALCO),ALCO
+11095047,WIKI,Diamond Foods Inc (DMND),DMND
+11095048,WIKI,Diamond Hill Investment Group Inc. (DHIL),DHIL
+11095050,WIKI,Diamond Resorts International (DRII),DRII
+11095051,WIKI,Diamondback Energy Inc. Commmon Stock (FANG),FANG
+11095058,WIKI,DHI Group Inc (DHX),DHX
+11095059,WIKI,Dicerna Pharmaceuticals (DRNA),DRNA
+11095060,WIKI,Dick's Sporting Goods Inc (DKS),DKS
+11095062,WIKI,Diebold Inc. (DBD),DBD
+11095066,WIKI,Digi International Inc. (DGII),DGII
+11095068,WIKI,Digimarc Corp (DMRC),DMRC
+30047856,WIKI,WLTW (WLTW),WLTW
+10996766,WIKI,Barrett Business Services Inc. (BBSI),BBSI
+11144225,WIKI,Triangle Petroleum (TPLM),TPLM
+10995547,WIKI,Banco Latinoamericano de Comercio Exterior S.A. (BLX),BLX
+11095082,WIKI,Digital River Inc. (DRIV),DRIV
+11111468,WIKI,OmniAmerican Bancorp Inc. (OABC),OABC
+11095085,WIKI,DigitalGlobe Inc (DGI),DGI
+10980398,WIKI,Align Technology Inc. (ALGN),ALGN
+10996783,WIKI,R.G. Barry Corporation (DFZ),DFZ
+11095091,WIKI,Dillard's Inc. (DDS),DDS
+11095092,WIKI,Dime Community Bancshares Inc (DCOM),DCOM
+11095095,WIKI,DineEquity Inc (DIN),DIN
+11095098,WIKI,Diodes Incorporated (DIOD),DIOD
+11103291,WIKI,NETGEAR Inc. (NTGR),NTGR
+10988608,WIKI,Argan Inc. (AGX),AGX
+11146271,WIKI,Verastem Inc. (VSTM),VSTM
+11115703,WIKI,Piper Jaffray Cos. (PJC),PJC
+11095116,WIKI,Discovery Communications Inc. (DISCK),DISCK
+10987363,WIKI,Apollo Group Inc. (APOL),APOL
+10980437,WIKI,Alimera Sciences Inc. (ALIM),ALIM
+11146817,WIKI,Berkley (W. R.) Corp. (WRB),WRB
+11111513,WIKI,Omnicell Inc. (OMCL),OMCL
+11095135,WIKI,Diversified Restaurant Holdings Inc. (BAGR),BAGR
+11095139,WIKI,Dixie Group Inc. (DXYN),DXYN
+11117073,WIKI,ShoreTel Inc. (SHOR),SHOR
+9775610,WIKI,Clorox Co. (CLX),CLX
+11095164,WIKI,Dolby Laboratories Inc (DLB),DLB
+10988671,WIKI,Argo Group International Holdings Ltd (AGII),AGII
+10996864,WIKI,Bassett Furniture Industries Inc (BSET),BSET
+11144324,WIKI,TriCo Bancshares (Chico CA) (TCBK),TCBK
+11095176,WIKI,Dominos Pizza Inc. (DPZ),DPZ
+11095177,WIKI,Domtar Corp (UFS),UFS
+11095178,WIKI,Donaldson Co. Inc. (DCI),DCI
+11095180,WIKI,Donegal Group Inc. (DGICA),DGICA
+11095189,WIKI,Doral Financial Corp. (DRL),DRL
+11095191,WIKI,Dorman Products Inc. (DORM),DORM
+11095192,WIKI,Dot Hill Systems Corp. (HILL),HILL
+11095197,WIKI,Douglas Dynamics (PLOW),PLOW
+11103393,WIKI,NetScout Systems Inc. (NTCT),NTCT
+11095215,WIKI,Dreamworks Animation SKG Inc. (DWA),DWA
+11095216,WIKI,Dresser-Rand Group Inc (DRC),DRC
+11095217,WIKI,Drew Industries Inc. (DW),DW
+11095218,WIKI,Dril-Quip Inc. (DRQ),DRQ
+11132105,WIKI,Tahoe Resources Inc. (TAHO),TAHO
+11095227,WIKI,DSP Group Inc. (DSPG),DSPG
+11095228,WIKI,DST Systems Inc. (DE) (DST),DST
+11095229,WIKI,DSW Inc (DSW),DSW
+11095231,WIKI,DTS Inc. (DTSI),DTSI
+11095237,WIKI,Ducommun Inc. (DCO),DCO
+11111623,WIKI,OmniVision Technologies Inc. (OVTI),OVTI
+11111625,WIKI,Omnova Solutions Inc. (OMN),OMN
+11103434,WIKI,NetSuite (N),N
+10988748,WIKI,ARIAD Pharmaceuticals Inc. (ARIA),ARIA
+11103441,WIKI,Neuralstem Inc (CUR),CUR
+11095250,WIKI,Dunkin' Brands Group Inc. (DNKN),DNKN
+14282729,WIKI,Regency Centers Corp. (REG),REG
+11095253,WIKI,Durata Therapeutics Inc (DRTX),DRTX
+11095261,WIKI,DXP Enterprises Inc. (DXPE),DXPE
+11095263,WIKI,Dyax Corp. (DYAX),DYAX
+11095264,WIKI,Dycom Industries Inc. (DY),DY
+10980586,WIKI,Alkermes plc (ALKS),ALKS
+11095275,WIKI,Dynamic Materials Corp. (BOOM),BOOM
+11144436,WIKI,TriMas Corp (New) (TRS),TRS
+11095286,WIKI,Dynavax Technologies Corp (DVAX),DVAX
+11095288,WIKI,Dynegy Inc (DYN),DYN
+11095292,WIKI,E-Digital Corporation (EDIG),EDIG
+11128021,WIKI,Sun Bancorp Inc. (NJ) (SNBC),SNBC
+11095303,WIKI,E2open Inc. (EOPN),EOPN
+11095305,WIKI,Eagle Bancorp Inc. (EGBN),EGBN
+11095312,WIKI,Eagle Materials Inc (EXP),EXP
+11136277,WIKI,Territorial Bancorp Inc (TBNK),TBNK
+11144476,WIKI,Trimble Navigation Limited (TRMB),TRMB
+11111710,WIKI,On Assignment Inc. (ASGN),ASGN
+11095327,WIKI,EarthLink Holdings Corp (ELNK),ELNK
+11111712,WIKI,ON Semiconductor Corporation (ONNN),ONNN
+11103524,WIKI,Neurocrine Biosciences Inc. (NBIX),NBIX
+11095337,WIKI,East West Bancorp Inc (EWBC),EWBC
+13693490,WIKI,National General Holdings Corp (NGHC),NGHC
+10980657,WIKI,Alleghany Corp. (Y),Y
+11095351,WIKI,Eastman Kodak Co. (KODK),KODK
+11095362,WIKI,Eaton Vance Corp (EV),EV
+9775820,WIKI,Altria Group Inc (MO),MO
+11119942,WIKI,Solar Capital Ltd. (SLRC),SLRC
+11095367,WIKI,Ebix Inc (EBIX),EBIX
+11136329,WIKI,TESARO Inc. (TSRO),TSRO
+15609166,WIKI,Anthem Inc (ANTM),ANTM
+11095376,WIKI,Echo Global Logistics Inc. (ECHO),ECHO
+11095378,WIKI,EchoStar  Corporation (SATS),SATS
+11136343,WIKI,Tesco Corp. (TESO),TESO
+11138206,WIKI,Thor Industries Inc. (THO),THO
+11111803,WIKI,OncoGenex Pharmaceuticals Inc. (OGXI),OGXI
+11095422,WIKI,Education Management Corp (EDMC),EDMC
+32869764,WIKI,Untitled Dataset 2016-07-06 21:49:01,FTV
+11128198,WIKI,SunCoke Energy Inc (SXC),SXC
+11095432,WIKI,eGain Corporation (EGAN),EGAN
+11095433,WIKI,Egalet Corp (EGLT),EGLT
+10980748,WIKI,Allegiant Travel Company (ALGT),ALGT
+11095439,WIKI,eHealth Inc. (EHTH),EHTH
+11095441,WIKI,Einstein Noah Restaurant Group Inc (BAGL),BAGL
+10988947,WIKI,Arkansas Best Corporation (ABFS),ABFS
+11095449,WIKI,El Paso Electric Company (EE),EE
+11136412,WIKI,Tesla Motors Inc. (TSLA),TSLA
+11120031,WIKI,Solar Senior Capital Ltd (SUNS),SUNS
+11146010,WIKI,United Bankshares Inc. (UBSI),UBSI
+11095473,WIKI,Electro Rent Corp. (ELRC),ELRC
+11095474,WIKI,Electro Scientific Industries Inc. (ESIO),ESIO
+9775551,WIKI,AutoNation Inc. (AN),AN
+11095484,WIKI,Electronics for Imaging Inc. (EFII),EFII
+10988989,WIKI,Arlington Asset Investment Corp (AI),AI
+10980801,WIKI,Allete Inc. (ALE),ALE
+11095493,WIKI,Eleven Biotherapeutics Inc (EBIO),EBIO
+11111879,WIKI,OncoMed Pharmaceuticals Inc. (OMED),OMED
+11111882,WIKI,Oncothyreon Inc. (ONTY),ONTY
+11136461,WIKI,Tessco Technologies Inc. (TESS),TESS
+11095502,WIKI,Elizabeth Arden Inc. (RDEN),RDEN
+11095504,WIKI,Ellie Mae (ELLI),ELLI
+11138980,WIKI,Tile Shop Hldgs Inc. (TTS),TTS
+11095526,WIKI,EMC Insurance Group Inc. (EMCI),EMCI
+11095529,WIKI,EMCOR Group Inc. (EME),EME
+10997228,WIKI,Bazaarvoice Inc. (BV),BV
+11095533,WIKI,Emerald Oil Inc (EOX),EOX
+11144687,WIKI,Trinity Industries Inc. (TRN),TRN
+11095536,WIKI,Emergent Biosolutions (EBS),EBS
+11120113,WIKI,SolarCity Corporation (SCTY),SCTY
+11136498,WIKI,Tessera Technologies Inc (TSRA),TSRA
+11095542,WIKI,Emeritus Corporation (ESC),ESC
+11115461,WIKI,Patrick Industries Inc. (PATK),PATK
+9775615,WIKI,Cummins Inc. (CMI),CMI
+11095554,WIKI,Empire District Electric Co. (EDE),EDE
+11095561,WIKI,Empire Resorts Inc (NYNY),NYNY
+11120138,WIKI,SolarWinds (SWI),SWI
+13693527,WIKI,Opower Inc (OPWR),OPWR
+11095564,WIKI,Employers Holdings Inc (EIG),EIG
+11111951,WIKI,ONE Gas Inc (OGS),OGS
+11095571,WIKI,Emulex Corp (ELX),ELX
+13693529,WIKI,Opus Bank Irvine (CA) (OPB),OPB
+11095577,WIKI,Enanta Pharmaceuticals Inc. (ENTA),ENTA
+10989083,WIKI,Armstrong World Industries Inc. (AWI),AWI
+10997277,WIKI,BBCN Bancorp Inc. (BBCN),BBCN
+10991536,WIKI,Atlas Air Worldwide Holdings NEW (AAWW),AAWW
+11128355,WIKI,SunEdison (SUNE),SUNE
+9775722,WIKI,The Goldman Sachs Group Inc. (GS),GS
+11095589,WIKI,Encore Capital Group Inc (ECPG),ECPG
+11095591,WIKI,Encore Wire Corp. (WIRE),WIRE
+11095595,WIKI,Endeavour International Corp.,END
+11095601,WIKI,Endo International plc (ENDP),ENDP
+11120178,WIKI,Solazyme Inc. (SZYM),SZYM
+11095603,WIKI,Endocyte Inc. (ECYT),ECYT
+11095604,WIKI,Endologix Inc. (ELGX),ELGX
+11095606,WIKI,Endurance International Group Holdings Inc. (EIGI),EIGI
+11095607,WIKI,Endurance Specialty Holdings Ltd (ENH),ENH
+10980920,WIKI,Alliance Fiber Optic Products Inc. (AFOP),AFOP
+13693535,WIKI,Owens Realty Mortgage Inc (ORM),ORM
+11095613,WIKI,Energen Corp. (EGN),EGN
+11095617,WIKI,Energizer Holdings Inc (New) (ENR),ENR
+11095631,WIKI,Energy Recovery Inc. (ERII),ERII
+11120209,WIKI,Solera Holdings Inc (SLH),SLH
+11095638,WIKI,Energy XXI Ltd. (EXXI),EXXI
+11112024,WIKI,OneBeacon Insurance Group Ltd (OB),OB
+11095641,WIKI,EnerNOC Inc. (ENOC),ENOC
+11095644,WIKI,Enersys (ENS),ENS
+10980958,WIKI,Alliance HealthCare Services Inc. (AIQ),AIQ
+11095649,WIKI,Engility Holdings Inc. (EGL),EGL
+10989154,WIKI,Array BioPharma Inc. (ARRY),ARRY
+10972771,WIKI,1st United Bancorp Inc. (FUBC),FUBC
+9775777,WIKI,Kroger Co. (KR),KR
+9775557,WIKI,Airgas Inc. (ARG),ARG
+11095660,WIKI,Ennis Inc (EBF),EBF
+11251309,WIKI,Acadia Realty Trust (AKR),AKR
+11095663,WIKI,Enphase Energy Inc. (ENPH),ENPH
+11095664,WIKI,EnPro Industries Inc (NPO),NPO
+11251313,WIKI,AG Mortgage Investment Trust Inc (MITT),MITT
+11251314,WIKI,Agree Realty Corp. (ADC),ADC
+11251315,WIKI,Alexander's Inc. (ALX),ALX
+11251316,WIKI,Alexandria Real Estate Equities Inc. (ARE),ARE
+11095669,WIKI,Ensign Group Inc (ENSG),ENSG
+11251318,WIKI,American Campus Communities Inc (ACC),ACC
+11095671,WIKI,Enstar Group Limited (ESGR),ESGR
+11251320,WIKI,American Capital Agency Corp (AGNC),AGNC
+11095674,WIKI,Entegris Inc. (ENTG),ENTG
+11120859,WIKI,Sonoco Products Co. (SON),SON
+11095676,WIKI,Entercom Communications Corp. Cl A (ETM),ETM
+11251326,WIKI,AmREIT (AMRE),AMRE
+10980991,WIKI,Alliance One International Inc (AOI),AOI
+11095680,WIKI,Enterprise Bancorp Inc. (MA) (EBTC),EBTC
+11251329,WIKI,Apollo Commercial Real Estate Finance Inc. (ARI),ARI
+11095682,WIKI,Enterprise Financial Services Corp (EFSC),EFSC
+11251332,WIKI,Ares Commercial Real Estate Corp (ACRE),ACRE
+11251333,WIKI,Armada Hoffler Properties Inc (AHH),AHH
+11251334,WIKI,ARMOUR Residential REIT Inc. (ARR),ARR
+11251335,WIKI,Ashford Hospitality Trust Inc (AHT),AHT
+11251337,WIKI,Associated Estates Realty Corporation (AEC),AEC
+11251339,WIKI,Aviv REIT (AVIV),AVIV
+11095696,WIKI,Entravision Communications Corp. (EVC),EVC
+11251346,WIKI,Brandywine Realty Trust (BDN),BDN
+11095699,WIKI,Entropic Communications Inc. (ENTR),ENTR
+11095701,WIKI,Envestnet (ENV),ENV
+11251350,WIKI,Camden Property Trust (CPT),CPT
+11123993,WIKI,STAAR Surgical Company (STAA),STAA
+11251353,WIKI,Capstead Mortgage Corp. (CMO),CMO
+11251354,WIKI,CBL & Associates Properties Inc. (CBL),CBL
+11251356,WIKI,Cedar Realty Trust Inc. (CDR),CDR
+11251358,WIKI,Chambers Street Properties (CSG),CSG
+10989215,WIKI,ARRIS Group Inc. (New) (ARRS),ARRS
+13693552,WIKI,Paycom Software Inc (PAYC),PAYC
+11251363,WIKI,Chesapeake Lodging Trust (CHSP),CHSP
+11136681,WIKI,Tetraphase Pharmaceuticals Inc. (TTPH),TTPH
+11251371,WIKI,Chimera Investment Corp (CIM),CIM
+11095724,WIKI,Enzo Biochem Inc. (ENZ),ENZ
+11095725,WIKI,Enzon Pharmaceuticals Inc (ENZN),ENZN
+11251377,WIKI,Colony Capital Inc (CLNY),CLNY
+11251378,WIKI,CommonWealth REIT (CWH),CWH
+11251381,WIKI,CoreSite Realty Corp. (COR),COR
+11095735,WIKI,Epam Systems (EPAM),EPAM
+11251384,WIKI,Corrections Corporation of America (CXW),CXW
+11251385,WIKI,Cousins Properties Inc. (CUZ),CUZ
+11251386,WIKI,Crawford & Co. (CRD_B),CRD_B
+11095741,WIKI,EPIQ Systems Inc (EPIQ),EPIQ
+11251390,WIKI,CubeSmart (CUBE),CUBE
+11095743,WIKI,Epizyme Inc. (EPZM),EPZM
+11095744,WIKI,EPL Oil & Gas, Inc. (EPL),EPL
+11095745,WIKI,ePlus inc. (PLUS),PLUS
+11251394,WIKI,DDR Corp. (DDR),DDR
+11251395,WIKI,Dell Inc. (DELL),DELL
+11251396,WIKI,DiamondRock Hospitality Co. (DRH),DRH
+11251398,WIKI,Digital Realty Trust Inc. (DLR),DLR
+11095752,WIKI,Equal Energy Ltd. (EQU),EQU
+11251401,WIKI,Duke Realty Corp. (DRE),DRE
+11095754,WIKI,Equinix Inc (New) (EQIX),EQIX
+11251403,WIKI,Dynex Capital Inc. (DX),DX
+11251405,WIKI,EastGroup Properties Inc. (EGP),EGP
+11251407,WIKI,Education Realty Trust Inc (EDR),EDR
+10964688,WIKI,1-800 FLOWERS.COM Inc. (FLWS),FLWS
+11251409,WIKI,EPR Properties (EPR),EPR
+11251410,WIKI,Equity Lifestyle Properties Inc (ELS),ELS
+11251411,WIKI,Equity One Inc. (EQY),EQY
+11251412,WIKI,Essex Property Trust Inc. (ESS),ESS
+10989269,WIKI,Arrow Electronics Inc. (ARW),ARW
+11251414,WIKI,Excel Trust (EXL),EXL
+11251415,WIKI,Extra Space Storage Inc. (EXR),EXR
+11095769,WIKI,Erickson Air-Crane Inc (EAC),EAC
+11251418,WIKI,FelCor Lodging Trust Inc. (FCH),FCH
+11095772,WIKI,Erie Indemnity Co. (ERIE),ERIE
+10972893,WIKI,3D Systems Corp. (DE) (DDD),DDD
+11095775,WIKI,Eros International Plc (Douglas) (EROS),EROS
+11251424,WIKI,First Niagara Financial Group Inc. (FNFG),FNFG
+11251425,WIKI,First Potomac Realty Trust (FPO),FPO
+11095778,WIKI,ESB Financial Corporation (ESBF),ESBF
+11095779,WIKI,Escalade Inc. (ESCA),ESCA
+11251428,WIKI,Firsthand Technology Value Fund Inc (SVVC),SVVC
+11251429,WIKI,FirstMerit Corp (FMER),FMER
+11095782,WIKI,ESCO Technologies Inc. (ESE),ESE
+11251431,WIKI,Five Below Inc. (FIVE),FIVE
+11251432,WIKI,Five Star Quality Care (FVE),FVE
+11251433,WIKI,Flagstar Bancorp Inc. (FBC),FBC
+10981098,WIKI,Alliant Energy Corp. (LNT),LNT
+11095787,WIKI,Esperion Therapeutics Inc. (ESPR),ESPR
+11251436,WIKI,Flexsteel Industries Inc. (FLXS),FLXS
+11251437,WIKI,Flotek Industries Inc. (FTK),FTK
+11136751,WIKI,Texas Capital Bancshares Inc. (TCBI),TCBI
+11251440,WIKI,Fluidigm Corporation (FLDM),FLDM
+11095793,WIKI,ESSA Bancorp Inc (ESSA),ESSA
+11251442,WIKI,F.N.B. Corp. (FNB),FNB
+11095795,WIKI,Essent Group Inc (ESNT),ESNT
+11251444,WIKI,Forest City Enterprises Inc. (FCE_A),FCE_A
+11251445,WIKI,Forest Oil Corp. (FST),FST
+11251446,WIKI,Forestar Group (FOR),FOR
+11141111,WIKI,Toro Co. (The) (TTC),TTC
+11251448,WIKI,Forrester Research Inc. (FORR),FORR
+11095801,WIKI,Esterline Technologies Corp. (ESL),ESL
+11251450,WIKI,Fortinet Inc. (FTNT),FTNT
+11251451,WIKI,Fortune Brands Home & Security Inc. (FBHS),FBHS
+11251452,WIKI,Forum Energy Technologies (FET),FET
+11251453,WIKI,Forward Air Corp (FWRD),FWRD
+11095806,WIKI,Ethan Allen Interiors Inc. (ETH),ETH
+11251455,WIKI,Fox Chase Bancorp Inc. (FXCB),FXCB
+11251456,WIKI,Francesca's Holdings Corporation (FRAN),FRAN
+11117184,WIKI,Sinclair Broadcast Group Inc. (SBGI),SBGI
+11251458,WIKI,Franklin Electric Co. Inc. (FELE),FELE
+10989315,WIKI,Arrow Financial Corp. (AROW),AROW
+11251460,WIKI,Franklin Street Properties Corp (FSP),FSP
+11251461,WIKI,Fred's Inc. (FRED),FRED
+11128582,WIKI,SunPower Corporation (SPWR),SPWR
+11251463,WIKI,FreightCar America Inc (RAIL),RAIL
+11251464,WIKI,Fresh Del Monte Produce Inc. (FDP),FDP
+11251465,WIKI,The Fresh Market Inc. (TFM),TFM
+11251466,WIKI,Frontline Ltd (FRO),FRO
+11251467,WIKI,FTI Consulting Inc. (FCN),FCN
+11251468,WIKI,Fuel Systems Solutions Inc. (FSYS),FSYS
+11251469,WIKI,FuelCell Energy Inc (FCEL),FCEL
+11251470,WIKI,Fulton Financial Corp. (PA) (FULT),FULT
+11251471,WIKI,Furiex Pharmaceuticals, Inc. (FURX),FURX
+11095824,WIKI,Euronet Worldwide Inc. (EEFT),EEFT
+11136785,WIKI,Texas Industries, Inc. (TXI),TXI
+11251474,WIKI,FutureFuel Corp. (FF),FF
+11251475,WIKI,FX Energy Inc. (FXEN),FXEN
+11251476,WIKI,FXCM Inc (FXCM),FXCM
+11115822,WIKI,Post Holdings (POST),POST
+11144982,WIKI,TriState Capital Holdings Inc. (TSC),TSC
+11251479,WIKI,Galena Biopharma Inc. (GALE),GALE
+11251480,WIKI,GAMCO Investors Inc (GBL),GBL
+11251482,WIKI,Garrison Capital Inc (GARS),GARS
+11251483,WIKI,Gartner (IT),IT
+11251484,WIKI,GasLog Ltd (GLOG),GLOG
+11251485,WIKI,Gastar Exploration (GST),GST
+11251486,WIKI,GATX Corp. (GMT),GMT
+11095839,WIKI,EverBank Financial Corp (EVER),EVER
+11251488,WIKI,Generac Holdings (GNRC),GNRC
+11095841,WIKI,Evercore Partners Inc (EVR),EVR
+11095842,WIKI,Everest Re Group Ltd (RE),RE
+11251491,WIKI,G-III Apparel Group Ltd. (GIII),GIII
+11251492,WIKI,Gladstone Commercial Corp (GOOD),GOOD
+11251493,WIKI,Glimcher Realty Trust (GRT),GRT
+11251495,WIKI,Government Properties Income Trust (GOV),GOV
+11251496,WIKI,Gramercy Property Trust (GPT),GPT
+11095849,WIKI,Evertec Inc. (EVTC),EVTC
+11251499,WIKI,Hatteras Financial Corp (HTS),HTS
+11095853,WIKI,EveryWare Global Inc. (EVRY),EVRY
+11251502,WIKI,Healthcare Trust Of America Inc (HTA),HTA
+11251503,WIKI,Hersha Hospitality Trust (HT),HT
+11251504,WIKI,Highwoods Properties Inc. (HIW),HIW
+11251505,WIKI,Home Properties Inc (HME),HME
+11251506,WIKI,Hospitality Properties Trust (HPT),HPT
+11095859,WIKI,Evolution Petroleum (EPM),EPM
+11251508,WIKI,Hudson Pacific Properties Inc (HPP),HPP
+10997557,WIKI,Beacon Roofing Supply Inc. (BECN),BECN
+11251511,WIKI,Invesco Mortgage Capital Inc. (IVR),IVR
+11251512,WIKI,Investors Real Estate Trust (IRET),IRET
+11251514,WIKI,LaSalle Hotel Properties (LHO),LHO
+11251515,WIKI,Lazard Ltd (LAZ),LAZ
+11095868,WIKI,Scripps (E.W.) Co (The) (SSP),SSP
+11251517,WIKI,Lexington Corporate Properties Trust (LXP),LXP
+11251520,WIKI,LTC Properties Inc. (LTC),LTC
+11095873,WIKI,Exact Sciences Corporation (EXAS),EXAS
+11095874,WIKI,Exactech Inc. (EXAC),EXAC
+11145027,WIKI,Triumph Group Inc. (TGI),TGI
+11095876,WIKI,ExamWorks Group (EXAM),EXAM
+11095877,WIKI,Exar Corp. (EXAR),EXAR
+11251527,WIKI,Medical Properties Trust (MPW),MPW
+11251530,WIKI,MFA Financial Inc. (MFA),MFA
+9775669,WIKI,Estee Lauder Cos. Inc. (The) (EL),EL
+11251534,WIKI,Monmouth Real Estate Investment Corp (MNR),MNR
+11251535,WIKI,Moog Inc. Cl A (MOG_A),MOG_A
+11095888,WIKI,EXCO Resources (XCO),XCO
+11115832,WIKI,Powell Industries Inc. (POWL),POWL
+11251539,WIKI,National Health Investors Inc. (NHI),NHI
+11095892,WIKI,Exelis Inc (XLS),XLS
+11095893,WIKI,Exelixis Inc. (EXEL),EXEL
+11251545,WIKI,New Residential Investment Corp (NRZ),NRZ
+11251546,WIKI,New York Mortgage Trust Inc (NYMT),NYMT
+13693583,WIKI,QTS Realty Trust Inc (QTS),QTS
+11095902,WIKI,ExlService Holdings Inc. (EXLS),EXLS
+10989407,WIKI,Arrowhead Research Corp (ARWR),ARWR
+11095904,WIKI,The ExOne Company (XONE),XONE
+11251553,WIKI,One Liberty Properties Inc. (OLP),OLP
+11251556,WIKI,Parkway Properties Inc. (PKY),PKY
+11251557,WIKI,Pebblebrook Hotel Trust (PEB),PEB
+11251558,WIKI,Pennsylvania R.E. Invest. Tr. (PEI),PEI
+11251559,WIKI,Pennymac Mortgage Investment Trust (PMT),PMT
+11095912,WIKI,Exponent Inc. (EXPO),EXPO
+11095913,WIKI,Express (EXPR),EXPR
+11251562,WIKI,Potlatch Corp (PCH),PCH
+11106279,WIKI,Noranda Aluminum Holding (NOR),NOR
+11095916,WIKI,Exterran Holdings Inc (EXH),EXH
+11146025,WIKI,United Insurance Holdings Corp (UIHC),UIHC
+11095919,WIKI,Extreme Networks Inc. (EXTR),EXTR
+11251568,WIKI,Ramco-Gershenson Properties Trust (MD) (RPT),RPT
+11251569,WIKI,Rayonier Inc. (RYN),RYN
+11251570,WIKI,Realty Income Corp. (O),O
+11251571,WIKI,Redwood Trust Inc. (RWT),RWT
+11095925,WIKI,EZCORP Inc. (EZPW),EZPW
+11251575,WIKI,Retail Opportunity Investments Corp (ROIC),ROIC
+11251359,WIKI,Chatham Lodging Trust (CLDT),CLDT
+11251577,WIKI,RLJ Lodging Trust Com (RLJ),RLJ
+11136890,WIKI,Texas Roadhouse Inc (TXRH),TXRH
+11251580,WIKI,Rouse Properties Inc. (RSE),RSE
+11251582,WIKI,Ryman Hospitality Properties Inc (RHP),RHP
+11251583,WIKI,Sabra Health Care REIT Inc (SBRA),SBRA
+11095937,WIKI,Fabrinet (FN),FN
+11251587,WIKI,Saul Centers Inc. (BFS),BFS
+11251588,WIKI,Select Income Real Estate Investment Trust (SIR),SIR
+11095941,WIKI,FactSet Research Systems Inc. (FDS),FDS
+11095942,WIKI,Fair Isaac Corp (FICO),FICO
+11095943,WIKI,Fairchild Semiconductor International Inc. (FCS),FCS
+11112328,WIKI,OpenTable, Inc. (OPEN),OPEN
+10981258,WIKI,Allied Nevada Gold (ANV),ANV
+11095947,WIKI,FairPoint Communications Inc. (FRP),FRP
+11095948,WIKI,Fairway Group Holdings Corp. (FWM),FWM
+11251598,WIKI,STAG Industrial Inc. (STAG),STAG
+11251600,WIKI,Starwood Property Trust Inc. (STWD),STWD
+11096728,WIKI,Haemonetics Corp. (HAE),HAE
+11251605,WIKI,Strategic Hotels & Resorts Inc. (BEE),BEE
+11251606,WIKI,Summit Hotel Properties Inc (INN),INN
+11251607,WIKI,Sun Communities Inc. (SUI),SUI
+11095960,WIKI,Famous Dave's of America Inc. (DAVE),DAVE
+11251610,WIKI,Tanger Factory Outlet Centers Inc. (SKT),SKT
+11251611,WIKI,Taubman Centers Inc. (TCO),TCO
+11251613,WIKI,Terreno Realty Corp (TRNO),TRNO
+11095969,WIKI,Farmer Brothers Company (FARM),FARM
+11251618,WIKI,Two Harbors Investment Corp (TWO),TWO
+11251620,WIKI,UDR Inc (UDR),UDR
+11251621,WIKI,UMH Properties Inc (UMH),UMH
+11251622,WIKI,Universal Health Rlty. Inc. Tr (UHT),UHT
+10997671,WIKI,Beasley Broadcast Group Inc (BBGI),BBGI
+25190128,WIKI,CPGX (CPGX),CPGX
+11095978,WIKI,Farmers Capital Bank Corporation (FFKT),FFKT
+11095980,WIKI,FARO Technologies Inc. (FARO),FARO
+13963325,WIKI,Atlas Pipeline Partners L.P. (APL),APL
+11145885,WIKI,Twitter Inc (TWTR),TWTR
+11251634,WIKI,Washington R.E. Inv. Trust (WRE),WRE
+11251635,WIKI,Weingarten Realty Investors (WRI),WRI
+11251636,WIKI,Western Asset Mortgage Capital Corp (WMC),WMC
+11251637,WIKI,Whitestone REIT (WSR),WSR
+11095990,WIKI,FBL Financial Group Inc. (FFG),FFG
+11095991,WIKI,FBR & Co. (FBRC),FBRC
+11251642,WIKI,Zumiez Inc. (ZUMZ),ZUMZ
+11104187,WIKI,New Jersey Resources Corp (NJR),NJR
+11251644,WIKI,Zynga Inc. (ZNGA),ZNGA
+11095997,WIKI,Federal Agricultural Mortgage Corp (AGM),AGM
+11096000,WIKI,Federal Signal Corp. (FSS),FSS
+11096001,WIKI,Federal-Mogul Holdings Corp (FDML),FDML
+11096002,WIKI,Federated Investors Inc (PA) (FII),FII
+11096003,WIKI,Federated National Holding Company (FNHC),FNHC
+11096006,WIKI,FEI Company (FEIC),FEIC
+11096007,WIKI,Female Health Co. (The) (FHCO),FHCO
+11096012,WIKI,Ferro Corp. (FOE),FOE
+11099469,WIKI,Monro Muffler Brake Inc. (MNRO),MNRO
+11096021,WIKI,Fibrocell Science Inc (FCSC),FCSC
+11096023,WIKI,Fidelity & Guaranty Life (FGL),FGL
+11112409,WIKI,Ophthotech Corp (OPHT),OPHT
+11096026,WIKI,Fidelity National Financial Inc (FNF),FNF
+11096027,WIKI,Fidelity Southern Corp (LION),LION
+11096028,WIKI,Fidus Investment Corp (FDUS),FDUS
+11112414,WIKI,Opko Health (OPK),OPK
+11096031,WIKI,Fiesta Restaurant Group Inc. (FRGI),FRGI
+11096034,WIKI,Fifth Street Finance Corp (FSC),FSC
+11112422,WIKI,Oplink Communications Inc. (OPLK),OPLK
+11104232,WIKI,New Media Investment Group Inc (NEWM),NEWM
+11096041,WIKI,Financial Engines Inc (FNGN),FNGN
+11096042,WIKI,Financial Institutions Inc. (FISI),FISI
+11104235,WIKI,New Mountain Finance Corp (NMFC),NMFC
+10997740,WIKI,Beazer Homes USA Inc. (BZH),BZH
+11096046,WIKI,Finisar Corporation (FNSR),FNSR
+11096047,WIKI,Finish Line Inc. (FINL),FINL
+9775570,WIKI,Bard (C.R.) Inc. (BCR),BCR
+10989565,WIKI,Artesian Resources Corp. (ARTNA),ARTNA
+11096065,WIKI,First American Financial Corp (FAF),FAF
+10981378,WIKI,Allied World Assurance Company Holdings AG (AWH),AWH
+11096071,WIKI,First Bancorp Inc (ME) (FNLC),FNLC
+11096073,WIKI,First Bancorp (FBP),FBP
+11096074,WIKI,First Bancorp (NC) (FBNC),FBNC
+11096082,WIKI,First Busey Corp (BUSE),BUSE
+11096083,WIKI,First Business Financial Services Inc. (FBIZ),FBIZ
+11137047,WIKI,Textainer Group Holdings Ltd (TGH),TGH
+11096089,WIKI,First Cash Financial Services Inc. (FCFS),FCFS
+10989595,WIKI,ArthroCare Corporation (ARTC),ARTC
+11096096,WIKI,First Citizens Bancshares Inc. (NC) (FCNCA),FCNCA
+11096103,WIKI,First Commonwealth Financial Corp. (Indiana PA) (FCF),FCF
+11096105,WIKI,First Community Bancshares Inc. (NV) (FCBC),FCBC
+10997803,WIKI,Bebe Stores Inc (BEBE),BEBE
+11096110,WIKI,First Connecticut Bancorp Inc. (MD) (FBNK),FBNK
+11137072,WIKI,Textura Corp (TXTR),TXTR
+11096113,WIKI,First Defiance Financial Corp. (FDEF),FDEF
+11096114,WIKI,First Federal Bancshares of Arkansas, Inc. (FFBH),FFBH
+10981427,WIKI,Allison Transmission Holdings Inc (ALSN),ALSN
+10973236,WIKI,AAR Corp (AIR),AIR
+11096117,WIKI,First Financial Bancorp (OH) (FFBC),FFBC
+11096118,WIKI,First Financial Corp. (IN) (THFF),THFF
+11096119,WIKI,First Financial Holdings, Inc. (SCBT),SCBT
+10989624,WIKI,Gallagher (Arthur J.) & Co. (AJG),AJG
+11096122,WIKI,First Financial Bankshares Inc. (FFIN),FFIN
+11096125,WIKI,First Horizon National Corp (FHN),FHN
+11096129,WIKI,First Interstate BancSystem Inc. (FIBK),FIBK
+11096136,WIKI,First Marblehead Corp. (FMD),FMD
+11096140,WIKI,First Merchants Corp. (FRME),FRME
+11096143,WIKI,First Midwest Bancorp Inc. (Naperville Ill.) (FMBI),FMBI
+11120721,WIKI,Sonic Corp. (SONC),SONC
+11096149,WIKI,General Cable Corp. (DE) (BGC),BGC
+11096152,WIKI,General Communication Inc. (GNCMA),GNCMA
+11096157,WIKI,General Finance Corporation General Finance Corporation (GFN),GFN
+11096160,WIKI,General Moly (GMO),GMO
+13693025,WIKI,Aerohive Networks Inc (HIVE),HIVE
+13693026,WIKI,Achaogen Inc (AKAO),AKAO
+13693027,WIKI,Adamas Pharmaceuticals Inc (ADMS),ADMS
+11096164,WIKI,Genesco Inc. (GCO),GCO
+11096165,WIKI,Genesee & Wyoming Inc. Cl A (GWR),GWR
+10981479,WIKI,Allscripts Healthcare Solutions Inc. (MDRX),MDRX
+13693033,WIKI,Akebia Therapeutics Inc  (AKBA),AKBA
+13693034,WIKI,Alder Biopharmaceuticals Inc (ALDR),ALDR
+13693036,WIKI,Amber Road Inc (AMBR),AMBR
+11096173,WIKI,Genie Energy Ltd. (GNE),GNE
+10989679,WIKI,Artisan Partners Asset Management Inc (APAM),APAM
+11096178,WIKI,GenMark Diagnostics Inc. (GNMK),GNMK
+11096180,WIKI,Genocea Biosciences Inc (GNCA),GNCA
+11096182,WIKI,Genomic Health Inc. (GHDX),GHDX
+11096185,WIKI,Genpact (G),G
+11096188,WIKI,Gentex Corp. (GNTX),GNTX
+11096189,WIKI,Gentherm Inc (THRM),THRM
+10973311,WIKI,Aaron's Inc. (AAN),AAN
+11096193,WIKI,Gentiva Health Services Inc (GTIV),GTIV
+11137154,WIKI,TFS Financial Corp (TFSL),TFSL
+13693059,WIKI,Applied Genetic Technologies Corp (AGTC),AGTC
+13693062,WIKI,ArcBest Corp (ARCB),ARCB
+13693068,WIKI,Ashford Hospitality Prime Inc (AHP),AHP
+10981519,WIKI,Almost Family Inc (AFAM),AFAM
+11128976,WIKI,Super Micro Computer Inc. (SMCI),SMCI
+11104963,WIKI,NewStar Financial Inc. (NEWS),NEWS
+11115756,WIKI,PLX Technology, Inc. (PLXT),PLXT
+10981526,WIKI,Alnylam Pharmaceuticals Inc. (ALNY),ALNY
+11137175,WIKI,TG Therapeutics Inc. (TGTX),TGTX
+11096216,WIKI,Geospace Technologies Corporation (GEOS),GEOS
+10981529,WIKI,Alon USA Energy Inc (ALJ),ALJ
+10981531,WIKI,Alpha and Omega Semiconductor Limited (AOSL),AOSL
+13693085,WIKI,Borderfree Inc (BRDR),BRDR
+11096223,WIKI,German American Bancorp Inc (GABC),GABC
+11096224,WIKI,Geron Corp. (GERN),GERN
+10981542,WIKI,Alpha Natural Resources Inc. (ANR),ANR
+13693095,WIKI,Cara Therapeutics Inc (CARA),CARA
+11096232,WIKI,GFI Group Inc. (GFIG),GFIG
+11096240,WIKI,Gibraltar Industries Inc. (ROCK),ROCK
+11096776,WIKI,Hanover Insurance Group Inc (THG),THG
+13693107,WIKI,Castlight Health Inc (CSLT),CSLT
+13693108,WIKI,Catchmark Timber Trust Inc (CTT),CTT
+11096245,WIKI,Gigamon (GIMO),GIMO
+10989757,WIKI,Aruba Networks Inc. (ARUN),ARUN
+13693119,WIKI,Civeo Corp (CVEO),CVEO
+11096258,WIKI,Glacier Bancorp Inc. (GBCI),GBCI
+11096261,WIKI,Gladstone Capital Corp (GLAD),GLAD
+11096262,WIKI,Gladstone Investment Corp (GAIN),GAIN
+11096266,WIKI,PH Glatfelter Co (GLT),GLT
+13693140,WIKI,CorEnergy Infrastructure Trust Inc (CORR),CORR
+10997973,WIKI,Bel Fuse Inc. (BELFB),BELFB
+11096281,WIKI,Global Brass & Copper Holdings Inc (BRSS),BRSS
+11096283,WIKI,Global Cash Access Holdings (GCA),GCA
+11096289,WIKI,Global Eagle Entertainment Inc.. (ENT),ENT
+11134308,WIKI,Teekay Tankers Ltd (TNK),TNK
+13693554,WIKI,Parsley Energy Inc (PE),PE
+11145463,WIKI,Trulia Inc (TRLA),TRLA
+11096313,WIKI,Global Indemnity plc (GBLI),GBLI
+13693178,WIKI,Dorian LPG Ltd. (LPG),LPG
+10998013,WIKI,Belden Inc (BDC),BDC
+11096327,WIKI,Global Payments Inc. (GPN),GPN
+11129097,WIKI,Superior Energy Services Inc. (SPN),SPN
+11096331,WIKI,Global Power Equipment Group Inc. (GLPW),GLPW
+31002893,WIKI,Goldman Sachs BDC Inc Shs (GSBD),GSBD
+11096341,WIKI,Global Sources Ltd. (GSOL),GSOL
+13693206,WIKI,Enventis Corp (ENVE),ENVE
+10973464,WIKI,Abaxis Inc. (ABAX),ABAX
+11096353,WIKI,Globalstar Inc (GSAT),GSAT
+11096356,WIKI,Ferroglobe PLC (GSM),GSM
+11129126,WIKI,Superior Industries Intl. (SUP),SUP
+13693660,WIKI,Starwood Waypoint Residential Trust (SWAY),SWAY
+11096362,WIKI,Globus Medical (GMED),GMED
+10981678,WIKI,Alphatec Holdings Inc. (ATEC),ATEC
+11096377,WIKI,GNC Holdings Inc (GNC),GNC
+13693242,WIKI,Five Prime Therapeutics Inc (FPRX),FPRX
+13693243,WIKI,Five9 Inc (FIVN),FIVN
+11146586,WIKI,Wendys International Inc. (WEN),WEN
+13693247,WIKI,Foundation Medicine Inc (FMI),FMI
+11096384,WIKI,Gogo Inc. (GOGO),GOGO
+13693249,WIKI,Fox Factory Holding Corp (FOXF),FOXF
+11096387,WIKI,Golar LNG Ltd (GLNG),GLNG
+13693254,WIKI,FTD Companies Inc (FTD),FTD
+13693257,WIKI,Gaiam Inc. (GAIA),GAIA
+13693258,WIKI,Galectin Therapeutics Inc. (GALT),GALT
+11145954,WIKI,UMB Financial Corp (UMBF),UMBF
+13693557,WIKI,Paylocity Holding Corp (PCTY),PCTY
+11145553,WIKI,Trustco Bank Corp. (NY) (TRST),TRST
+11096404,WIKI,Gold Resource Corp (GORO),GORO
+11122745,WIKI,Speedway Motorsports Inc. (TRK),TRK
+11103631,WIKI,NeuStar Cl A (NSR),NSR
+11120993,WIKI,Sonus Networks Inc. (SONS),SONS
+13693290,WIKI,Heritage Insurance Holdings Inc (HRTG),HRTG
+10989936,WIKI,Asbury Automotive Group Inc. (ABG),ABG
+11096808,WIKI,Harte-Hanks Inc (HHS),HHS
+11104634,WIKI,NewBridge Bancorp (NBBC),NBBC
+11145598,WIKI,Trustmark Corp. (TRMK),TRMK
+10973568,WIKI,Abercrombie & Fitch Co. (ANF),ANF
+11145963,WIKI,Under Armour (UA),UA
+11145892,WIKI,Tyler Technologies Inc. (TYL),TYL
+10991682,WIKI,Atmel Corp. (ATML),ATML
+11129234,WIKI,Supernus Pharmaceuticals Inc. (SUPN),SUPN
+10989971,WIKI,Ascena Retail Group Inc. (ASNA),ASNA
+9775837,WIKI,Noble Corporation (NE),NE
+11096471,WIKI,Golub Capital BDC Inc (GBDC),GBDC
+11129243,WIKI,Supertex, Inc. (SUPX),SUPX
+11096477,WIKI,Goodrich Petroleum Corp. (GDP),GDP
+11096478,WIKI,Gordmans Stores Inc (GMAN),GMAN
+10973599,WIKI,ABIOMED Inc. (ABMD),ABMD
+11096481,WIKI,Gorman-Rupp Co. (GRC),GRC
+11096485,WIKI,GP Strategies Corp. (GPX),GPX
+11096486,WIKI,Graco Inc. (GGG),GGG
+11096487,WIKI,Graftech International Ltd. (GTI),GTI
+11096488,WIKI,Graham Corp. (GHM),GHM
+11115932,WIKI,Primoris Services Corp (PRIM),PRIM
+13693682,WIKI,Theravance Biopharma Inc. (TBPH),TBPH
+11096494,WIKI,Grand Canyon Education Inc. (LOPE),LOPE
+13693684,WIKI,Time Inc (TIME),TIME
+11096506,WIKI,Granite Construction Inc. (GVA),GVA
+11145659,WIKI,TRW Automotive Holdings Corp (TRW),TRW
+11096509,WIKI,Graphic Packaging Holding Co (GPK),GPK
+11096513,WIKI,Gray Television Inc. (GTN),GTN
+11251472,WIKI,Furmanite (FRM),FRM
+13693383,WIKI,K2M Group Holdings Inc (KTWO),KTWO
+11121099,WIKI,Sotheby's (BID),BID
+11129292,WIKI,Supervalu Inc. (SVU),SVU
+11112912,WIKI,OraSure Technologies Inc. (OSUR),OSUR
+24523218,WIKI,Sunoco LP Com Unit Repstg Ltd Partnership Int (SUN),SUN
+11096531,WIKI,Great Lakes Dredge & Dock Corporation (GLDD),GLDD
+11096535,WIKI,Great Plains Energy Inc. (GXP),GXP
+10990041,WIKI,Ascent Capital Group Inc. Series A (ASCMA),ASCMA
+30208474,WIKI,Citizens Financial Group Inc (New) (CFG),CFG
+11096539,WIKI,Great Southern Bancorp Inc. (GSBC),GSBC
+11096547,WIKI,Greatbatch (GB),GB
+10973669,WIKI,ABM Industries Inc. (ABM),ABM
+13693692,WIKI,TransEnterix Inc (TRXC),TRXC
+11096555,WIKI,Green Dot (GDOT),GDOT
+11112943,WIKI,ORBCOMM Inc. (ORBC),ORBC
+11104753,WIKI,NewLink Genetics Corporation (NLNK),NLNK
+11104755,WIKI,NewMarket Corp (NEU),NEU
+11096566,WIKI,Keurig Green Mountain Inc (GMCR),GMCR
+11096570,WIKI,Green Plains Inc. (GPRE),GPRE
+11113215,WIKI,Orchids Paper Products Co. (DE) (TIS),TIS
+11137537,WIKI,Therapeuticsmd (TXMD),TXMD
+11096580,WIKI,Greenbrier Companies Inc (The) (GBX),GBX
+11130551,WIKI,SWS Group Inc. (SWS),SWS
+13693449,WIKI,La Quinta Holdings Inc (LQ),LQ
+13693450,WIKI,Lands' End Inc. (LE),LE
+11129358,WIKI,support.com Inc. (SPRT),SPRT
+11096592,WIKI,Greenhill & Co Inc (GHL),GHL
+9775861,WIKI,Occidental Petroleum Corp (OXY),OXY
+11096598,WIKI,Greenlight Capital Re Ltd. (GLRE),GLRE
+11094106,WIKI,Cimarex Energy Co (XEC),XEC
+11096608,WIKI,Greif Inc (GEF),GEF
+13693476,WIKI,Moelis & Co (MC),MC
+10973736,WIKI,Abraxas Petroleum Corporation (AXAS),AXAS
+11096617,WIKI,Griffin Industrial Realty Inc (GRIF),GRIF
+11096618,WIKI,Griffon Corp. (GFF),GFF
+11096626,WIKI,Group 1 Automotive Inc. (GPI),GPI
+11104821,WIKI,Newpark Resources Inc. (NR),NR
+11096632,WIKI,Groupon Inc. (GRPN),GRPN
+11094111,WIKI,Cincinnati Bell (CBB),CBB
+11121418,WIKI,South Jersey Industries Inc. (SJI),SJI
+13693565,WIKI,Phibro Animal Health Corp. (PAHC),PAHC
+11130976,WIKI,Synaptics Incorporated (SYNA),SYNA
+13693509,WIKI,New York REIT Inc (NYRT),NYRT
+10990155,WIKI,Ashland Inc (ASH),ASH
+11104845,WIKI,Newport Corporation (NEWP),NEWP
+11137614,WIKI,Theravance Inc (THRX),THRX
+11096663,WIKI,GSI Group Inc. (GSIG),GSIG
+11096664,WIKI,GSI Technology (GSIT),GSIT
+11096665,WIKI,GSV Capital Corp (GSVC),GSVC
+11096667,WIKI,GT Advanced Technologies, Inc. (GTAT),GTAT
+11113054,WIKI,Orbital Sciences Corp. (ORB),ORB
+11096671,WIKI,GTT Communications Inc (GTT),GTT
+11096673,WIKI,GTx Inc (DE) (GTXI),GTXI
+13693540,WIKI,Papa Murphy's Holdings Inc (FRSH),FRSH
+11096680,WIKI,Guaranty Bancorp (DE) (GBNK),GBNK
+10973803,WIKI,Acacia Research Corp. (ACTG),ACTG
+11096688,WIKI,GUESS ? Inc. (GES),GES
+11096690,WIKI,Guidance Software Inc. (GUID),GUID
+11096692,WIKI,Guidewire Software (GWRE),GWRE
+11113077,WIKI,Orbitz Worldwide Inc (OWW),OWW
+11096696,WIKI,Gulf Island Fabrication Inc. (GIFI),GIFI
+13693567,WIKI,Physicians Realty Trust (DOC),DOC
+11145852,WIKI,TTM Technologies Inc. (TTMI),TTMI
+11096701,WIKI,Gulfmark Offshore Inc. (GLF),GLF
+11096702,WIKI,Gulfport Energy Corporation (GPOR),GPOR
+11145855,WIKI,Tuesday Morning Corp. (TUES),TUES
+11145861,WIKI,Tumi Holdings (TUMI),TUMI
+10973832,WIKI,Acadia Healthcare Company Inc. (ACHC),ACHC
+11145865,WIKI,Tupperware Brands Corp. (TUP),TUP
+13693580,WIKI,Q2 Holdings Inc (QTWO),QTWO
+11096719,WIKI,H&E Equipment Services Inc (HEES),HEES
+11096720,WIKI,Fuller (H.B.) Co. (FUL),FUL
+11145874,WIKI,Tutor Perini (TPC),TPC
+11096725,WIKI,Hackett Group Inc (HCKT),HCKT
+11145878,WIKI,TW Telecom Inc,TWTC
+10998424,WIKI,Benchmark Electronics Inc. (BHE),BHE
+11096730,WIKI,Hain Celestial Group Inc (HAIN),HAIN
+11145883,WIKI,Twin Disc Inc. (TWIN),TWIN
+11096733,WIKI,Halcon Resources Corp (HK),HK
+11096737,WIKI,Hallador Energy Co (HNRG),HNRG
+11096738,WIKI,Hallmark Financial Services Inc. (HALL),HALL
+10973860,WIKI,ACADIA Pharmaceuticals Inc. (ACAD),ACAD
+11096744,WIKI,Halozyme Therapeutics Inc. (HALO),HALO
+10991730,WIKI,ATMI Inc. (ATMI),ATMI
+11145906,WIKI,U.S. Physical Therapy Inc. (USPH),USPH
+13693619,WIKI,Rexford Industrial Realty Inc (REXR),REXR
+11096757,WIKI,Hampton Roads Bankshares Inc (HMPR),HMPR
+11096760,WIKI,Hancock Holding Co. (HBHC),HBHC
+11096762,WIKI,Handy & Harman Ltd (HNH),HNH
+11096763,WIKI,HanesBrands Inc (HBI),HBI
+11145916,WIKI,Ubiquiti Networks Inc (UBNT),UBNT
+11096768,WIKI,Hanger (HGR),HGR
+11146016,WIKI,United Community Financial Corp. (OH) (UCFC),UCFC
+11104962,WIKI,News Corp (New) (NWS),NWS
+11096771,WIKI,Hanmi Financial Corp. (HAFC),HAFC
+11096772,WIKI,Hannon Armstrong Sustainable Infrastructure Capital Inc (HASI),HASI
+11145926,WIKI,UCP Inc (UCP),UCP
+10998472,WIKI,Beneficial Mutual Bancorp Inc (BNCL),BNCL
+11145930,WIKI,UFP Technologies Inc. (UFPT),UFPT
+11145931,WIKI,UGI Corp. (UGI),UGI
+10973902,WIKI,Accelerate Diagnostics Inc (AXDX),AXDX
+11145936,WIKI,UIL Holdings Corp (UIL),UIL
+11145937,WIKI,Ulta Salon Cosmetics & Fragrance Inc. (ULTA),ULTA
+10998482,WIKI,Benefitfocus Inc (BNFT),BNFT
+11145940,WIKI,Ultimate Software Group Inc. (ULTI),ULTI
+11096789,WIKI,Hardinge Inc. (HDNG),HDNG
+11145943,WIKI,Ultra Clean Holdings Inc. (UCTT),UCTT
+13693656,WIKI,Square 1 Financial Inc (SQBK),SQBK
+11145945,WIKI,Ultra Petroleum Corp. (UPL),UPL
+11145947,WIKI,Ultragenyx Pharmaceutical Inc (RARE),RARE
+11096796,WIKI,Harmonic Inc. (HLIT),HLIT
+11145949,WIKI,Ultrapetrol Limited (ULTR),ULTR
+11145950,WIKI,Ultratech Inc. (UTEK),UTEK
+10982114,WIKI,Altisource Asset Management (AAMC),AAMC
+11096804,WIKI,Harsco Corp. (HSC),HSC
+11146022,WIKI,United Fire Group Inc. (UFCS),UFCS
+10973928,WIKI,Acceleron Pharma Inc. (XLRN),XLRN
+11145961,WIKI,Umpqua Holdings Corp (UMPQ),UMPQ
+11096811,WIKI,Harvard Bioscience Inc. (HBIO),HBIO
+10982124,WIKI,Altisource Portfolio Solutions S.A. (ASPS),ASPS
+11096817,WIKI,Harvest Natural Resources Inc. (HNR),HNR
+11137778,WIKI,Thermon Group Holdings (THR),THR
+10982132,WIKI,Altisource Residential Corp (RESI),RESI
+13693686,WIKI,Tiptree Financial Inc (TIPT),TIPT
+11145975,WIKI,Unifi Inc. (UFI),UFI
+11145976,WIKI,UniFirst Corp. (UNF),UNF
+11096825,WIKI,Haverty Furniture Cos. Inc. (HVT),HVT
+13693691,WIKI,Trecora Resources (TREC),TREC
+11096828,WIKI,Hawaiian Electric Industries Inc. (HE),HE
+11096829,WIKI,Hawaiian Holdings Inc. (HA),HA
+13693694,WIKI,Trinet Group Inc. (TNET),TNET
+11096831,WIKI,Hawaiian Telcom Holdco Inc. (HCOM),HCOM
+13693696,WIKI,TriVascular Technologies Inc (TRIV),TRIV
+11145985,WIKI,Unilife Corporation (UNIS),UNIS
+11096834,WIKI,Hawkins Inc (HWKN),HWKN
+13693699,WIKI,TrueCar Inc (TRUE),TRUE
+11096837,WIKI,Haynes International Inc. (HAYN),HAYN
+11145990,WIKI,Union Bankshares Corp (New) (UBSH),UBSH
+13693703,WIKI,Turtle Beach Corp. (HEAR),HEAR
+11096842,WIKI,HCA Holdings (HCA),HCA
+11096844,WIKI,HCC Insurance Holdings, Inc. (HCC),HCC
+11145997,WIKI,Unisys Corp. (UIS),UIS
+11145998,WIKI,Unit Corp. (UNT),UNT
+11096847,WIKI,HCI Group Inc (HCI),HCI
+13693715,WIKI,Varonis System Inc (VRNS),VRNS
+13693716,WIKI,Versartis Inc (VSAR),VSAR
+11146030,WIKI,United Online Inc (UNTD),UNTD
+11096854,WIKI,Headwaters Inc. (HW),HW
+10973975,WIKI,Accelrys, Inc. (ACCL),ACCL
+11096858,WIKI,Health Insurance Innovations Inc. (HIIQ),HIIQ
+11096859,WIKI,Health Net Inc. (HNT),HNT
+10982172,WIKI,Altra Industrial Motion Corp (AIMC),AIMC
+13693726,WIKI,Vital Therapies Inc (VTL),VTL
+11146015,WIKI,United Community Banks Inc. (Blairsville GA) (UCBI),UCBI
+11096864,WIKI,Healthcare Services Group Inc. (HCSG),HCSG
+11146018,WIKI,United Continental Holdings (UAL),UAL
+11146021,WIKI,United Financial Bancorp Inc (New) (UBNK),UBNK
+11096870,WIKI,HealthSouth Corp. (HLS),HLS
+11096871,WIKI,HealthStream Inc. (HSTM),HSTM
+11096873,WIKI,Healthways Inc. (HWAY),HWAY
+13693739,WIKI,Xcerra Corp (XCRA),XCRA
+11146029,WIKI,United Natural Foods Inc. (UNFI),UNFI
+11096878,WIKI,Heartland Express Inc. (HTLD),HTLD
+11096879,WIKI,Heartland Financial USA Inc. (Dubuque IA) (HTLF),HTLF
+11096880,WIKI,Heartland Payment Systems Inc (HPY),HPY
+11096881,WIKI,Heartware International Inc (HTWR),HTWR
+11096886,WIKI,Hecla Mining Co. (HL),HL
+11146039,WIKI,United States Lime & Minerals Inc. (USLM),USLM
+11146040,WIKI,United Stationers Inc. (USTR),USTR
+11096890,WIKI,Heico Corp. (HEI),HEI
+11096892,WIKI,Heidrick & Struggles International Inc. (HSII),HSII
+11096895,WIKI,Helen of Troy Limited (HELE),HELE
+11146049,WIKI,UNITIL Corp (UTL),UTL
+11096903,WIKI,Helix Energy Solutions Group (HLX),HLX
+11146056,WIKI,Universal American Corp (New) (UAM),UAM
+13693044,WIKI,American Realty Capital Healthcare Trust Inc (HCT),HCT
+11146059,WIKI,Universal Corp. (UVV),UVV
+11146061,WIKI,Universal Display Corporation (OLED),OLED
+11146062,WIKI,Universal Electronics Inc. (UEIC),UEIC
+11145969,WIKI,Uni-Pixel Inc. (UNXL),UNXL
+10974034,WIKI,Access National Corp (ANCX),ANCX
+11096915,WIKI,Hemisphere Media Group Inc. (HMTV),HMTV
+11146070,WIKI,Universal Insurance Holdings Inc (UVE),UVE
+9775840,WIKI,Netflix Inc. (NFLX),NFLX
+11146042,WIKI,United Therapeutics Corporation (UTHR),UTHR
+11096927,WIKI,Henry Schein Inc. (HSIC),HSIC
+11096928,WIKI,Herbalife (HLF),HLF
+11129697,WIKI,SurModics Inc. (SRDX),SRDX
+11096930,WIKI,Hercules Offshore Inc (HERO),HERO
+11096931,WIKI,Hercules Technology Growth Capital Inc (HTGC),HTGC
+11146084,WIKI,Univest Corp. of Pennsylvania (Souderton) (UVSP),UVSP
+11146086,WIKI,UNS Energy Corporation (UNS),UNS
+11096935,WIKI,Heritage Commerce Corp. (HTBK),HTBK
+11096936,WIKI,Heritage Financial Corp. (WA) (HFWA),HFWA
+11096940,WIKI,Heritage Oaks Bancorp (HEOP),HEOP
+11096943,WIKI,Heritage-Crystal Clean Inc. (HCCI),HCCI
+11096944,WIKI,Herman Miller Inc (MLHR),MLHR
+11146097,WIKI,Ur-Energy Inc. (URG),URG
+11096947,WIKI,Heron Therapeutics Inc (HRTX),HRTX
+11146102,WIKI,Uranium Energy Corp (UEC),UEC
+11096951,WIKI,Hertz Global Holdings (HTZ),HTZ
+11096955,WIKI,Hexcel Corp. (HXL),HXL
+11113342,WIKI,Orexigen Therapeutics Inc. (OREX),OREX
+11096960,WIKI,HFF (HF),HF
+11096961,WIKI,HHGregg Inc. (HGG),HGG
+11096964,WIKI,Hi-Tech Pharmacal Co., Inc. (HITK),HITK
+11096965,WIKI,Hibbett Sports Inc. (HIBB),HIBB
+10974088,WIKI,ACCO Brands (ACCO),ACCO
+11096969,WIKI,Hickory Tech Corporation (HTCO),HTCO
+11146123,WIKI,US Ecology Inc. (ECOL),ECOL
+11096976,WIKI,Higher One Holdings (ONE),ONE
+10990484,WIKI,Aspen Insurance Holdings Ltd (AHL),AHL
+11146133,WIKI,U S Silica Holdings Inc. (SLCA),SLCA
+11146140,WIKI,USA Mobility, Inc. (USMO),USMO
+11096992,WIKI,Hill International (HIL),HIL
+11096993,WIKI,Hill-Rom Holdings In. (HRC),HRC
+11096994,WIKI,Hillenbrand Inc (HI),HI
+11146148,WIKI,USANA Health Sciences Inc. (USNA),USNA
+11096998,WIKI,Hillshire Brands Company (The) (HSH),HSH
+11096999,WIKI,Hilltop Holdings (HTH),HTH
+11146153,WIKI,USG Corp. (USG),USG
+11097002,WIKI,Hingham Institution for Savings (HIFS),HIFS
+11146156,WIKI,USMD Holdings Inc. (USMD),USMD
+10990509,WIKI,Aspen Technology Inc. (AZPN),AZPN
+11146159,WIKI,Utah Medical Products Inc. (UTMD),UTMD
+11146161,WIKI,UTi Worldwide Inc. (UTIW),UTIW
+11097013,WIKI,Hittite Microwave Corporation (HITT),HITT
+11097018,WIKI,HMS Holdings Corp (HMSY),HMSY
+11097019,WIKI,HNI Corp (HNI),HNI
+11120693,WIKI,Sonic Automotive Inc. (SAH),SAH
+11146174,WIKI,Vail Resorts Inc. (MTN),MTN
+11146178,WIKI,Valeant Pharmaceuticals International, Inc. (VRX),VRX
+11097032,WIKI,HollyFrontier Corp. (HFC),HFC
+11077321,WIKI,Blount International Inc. (BLT),BLT
+11146188,WIKI,Validus Holdings Ltd (VR),VR
+11097039,WIKI,Hologic Inc. (HOLX),HOLX
+10982353,WIKI,AMAG Pharmaceuticals Inc. (AMAG),AMAG
+11097042,WIKI,Home Bancorp Inc (HBCP),HBCP
+11097043,WIKI,Home BancShares Inc (HOMB),HOMB
+11121621,WIKI,Southern Copper Corp (SCCO),SCCO
+13693627,WIKI,Rubocom Project Inc (RUBI),RUBI
+11097047,WIKI,Home Federal Bancorp, Inc. (HOME),HOME
+11146200,WIKI,Valspar Corp. (VAL),VAL
+24773459,WIKI,Unum Group (UNM),UNM
+11097052,WIKI,Home Loan Servicing Solutions Ltd (HLSS),HLSS
+11146207,WIKI,ValueVision Media, Inc. (VVTV),VVTV
+11097059,WIKI,HomeAway Inc. (AWAY),AWAY
+11146212,WIKI,Vanda Pharmaceuticals Inc. (VNDA),VNDA
+11146065,WIKI,Universal Forest Products Inc. (UFPI),UFPI
+11146218,WIKI,Vantage Drilling Co (VTG),VTG
+11097068,WIKI,HomeStreet Inc (HMST),HMST
+11146221,WIKI,Vantiv (VNTV),VNTV
+10990574,WIKI,Associated Banc-Corp (ASBC),ASBC
+11097071,WIKI,HomeTrust Bancshares Inc. (HTBI),HTBI
+11146067,WIKI,Universal Health Services Inc. (UHS),UHS
+11146230,WIKI,VASCO Data Security International Inc. (VDSI),VDSI
+11146231,WIKI,Vascular Solutions Inc. (VASC),VASC
+11129849,WIKI,Susser Holdings Corporation (SUSS),SUSS
+11097083,WIKI,Hooker Furniture Corp (HOFT),HOFT
+11146236,WIKI,VCA Inc (WOOF),WOOF
+11138045,WIKI,THL Credit Inc. (TCRD),TCRD
+11146240,WIKI,Vector Group Ltd (VGR),VGR
+11146243,WIKI,Vectren Corp (VVC),VVC
+11097092,WIKI,Horace Mann Educators Corp. (HMN),HMN
+11123696,WIKI,SS&C Technologies Holdings Inc. (SSNC),SSNC
+11097094,WIKI,Horizon Bancorp (Michigan City IN) (HBNC),HBNC
+11113479,WIKI,Orient-Express Hotels Ltd. (OEH),OEH
+11097101,WIKI,Horizon Pharma Plc (HZNP),HZNP
+11097102,WIKI,Horizon Technology Finance Corp. (HRZN),HRZN
+11097106,WIKI,Hornbeck Offshore Services Inc. (HOS),HOS
+11097109,WIKI,Horsehead Hldg Corp (ZINC),ZINC
+11097114,WIKI,Houghton Mifflin Harcourt Company (HMHC),HMHC
+10974236,WIKI,Accuray Incorporated (ARAY),ARAY
+11146270,WIKI,Veracyte Inc (VCYT),VCYT
+11097119,WIKI,Houston Wire & Cable Co (HWCC),HWCC
+11097120,WIKI,Hovnanian Enterprises Inc. Cl A (HOV),HOV
+11097123,WIKI,Howard Hughes (HHC),HHC
+11146279,WIKI,VeriFone Systems (PAY),PAY
+11146281,WIKI,Verint Systems Inc. (VRNT),VRNT
+11097130,WIKI,HSN Inc (DE) (HSNI),HSNI
+10974251,WIKI,Accuride Corp. (ACW),ACW
+10990636,WIKI,Assured Guaranty Ltd (AGO),AGO
+11146285,WIKI,Verisk Analytics Inc (VRSK),VRSK
+11146077,WIKI,Universal Stainless & Alloy Products Inc. (USAP),USAP
+11105329,WIKI,NGP Capital Resources Company (NGPC),NGPC
+11097139,WIKI,Hub Group Inc. (HUBG),HUBG
+11146295,WIKI,Vertex Energy Inc (VTNR),VTNR
+11097146,WIKI,Hudson Valley Holding Corp. (HVB),HVB
+11146079,WIKI,Universal Technical Institute Inc. (UTI),UTI
+11105340,WIKI,NIC Inc. (EGOV),EGOV
+10974271,WIKI,AcelRx Pharmaceuticals Inc. (ACRX),ACRX
+11146081,WIKI,Universal Truckload Services Inc (UACL),UACL
+11097160,WIKI,Hunt (J.B.) Transport Services Inc. (JBHT),JBHT
+11146313,WIKI,ViaSat Inc. (VSAT),VSAT
+11097784,WIKI,ITT Educational Services Inc. (ESI),ESI
+11146316,WIKI,Viasystems Group Inc. (VIAS),VIAS
+11146319,WIKI,Vical Incorporated (VICL),VICL
+11097168,WIKI,Huntington Ingalls Industries Inc. (HII),HII
+11097170,WIKI,Huntsman Corp (HUN),HUN
+11097171,WIKI,Hurco Companies Inc. (HURC),HURC
+11097172,WIKI,Huron Consulting Group Inc. (HURN),HURN
+11116046,WIKI,PTGi Holding, Inc (PTGI),PTGI
+11097177,WIKI,Hutchinson Technology Incorporated (HTCH),HTCH
+11097183,WIKI,Hyatt Hotels (H),H
+11146342,WIKI,ViewPoint Financial Group, Inc. (VPFG),VPFG
+10982503,WIKI,Ambac Financial Group Inc. (AMBC),AMBC
+10982507,WIKI,Ambarella Inc. (AMBA),AMBA
+10974317,WIKI,Aceto Corp (ACET),ACET
+11146352,WIKI,Village Super Market Inc. (VLGEA),VLGEA
+11097201,WIKI,Hyperion Therapeutics Inc. (HPTX),HPTX
+11146356,WIKI,Violin Memory (VMEM),VMEM
+11097206,WIKI,Hyster-Yale Materials Handling Inc. (HY),HY
+11097212,WIKI,IAC/InterActiveCorp (IACI),IACI
+11105408,WIKI,Nicholas Financial Inc (BC) (NICK),NICK
+11097220,WIKI,IBERIABANK Corp (IBKC),IBKC
+11138182,WIKI,Thomson Reuters Corp (TRI),TRI
+11146378,WIKI,VirnetX Holding (VHC),VHC
+11126978,WIKI,Strayer Education Inc. (STRA),STRA
+11097233,WIKI,ICF International Inc. (ICFI),ICFI
+11097234,WIKI,ICG Group, Inc. (ICGE),ICGE
+11146387,WIKI,Virtus Investment Partners Inc (VRTS),VRTS
+11146388,WIKI,Virtusa Corporation (VRTU),VRTU
+11146394,WIKI,Vishay Intertechnology Inc. (VSH),VSH
+11097243,WIKI,Iconix Brand Group Inc. (ICON),ICON
+10990750,WIKI,Astec Industries Inc. (ASTE),ASTE
+11121824,WIKI,Southside Bancshares Inc. (SBSI),SBSI
+10974369,WIKI,Achillion Pharmaceuticals Inc. (ACHN),ACHN
+11097250,WIKI,Idacorp Inc. (IDA),IDA
+11146406,WIKI,Vistaprint N.V. (VPRT),VPRT
+11146407,WIKI,Visteon Corp. (VC),VC
+11097258,WIKI,Idenix Pharmaceuticals, Inc. (IDIX),IDIX
+11113643,WIKI,Orion Marine Group (ORN),ORN
+11146412,WIKI,Vitacost.com, Inc. (VITC),VITC
+11097261,WIKI,Idera Pharmaceuticals Inc. (IDRA),IDRA
+11097263,WIKI,IDEX Corp. (IEX),IEX
+11097264,WIKI,Idexx Laboratories Inc. (IDXX),IDXX
+11105139,WIKI,Nexstar Broadcasting Group Inc (NXST),NXST
+11146420,WIKI,Vitesse Semiconductor Corporation (VTSS),VTSS
+11121845,WIKI,Southwest Bancorp Inc. (OK) (OKSB),OKSB
+11097271,WIKI,IDT Corp. (IDT),IDT
+11146429,WIKI,VIVUS Inc. (VVUS),VVUS
+11097282,WIKI,IGATE Corp (IGTE),IGTE
+11146435,WIKI,Vocera Communications Inc (VCRA),VCRA
+11146436,WIKI,Vocus, Inc. (VOCS),VOCS
+11097285,WIKI,IGI Laboratories, Inc (IG),IG
+11097289,WIKI,Ignite Restaurant Group Inc. (IRG),IRG
+11097292,WIKI,IHS Cl A (IHS),IHS
+11097293,WIKI,II-VI Incorporated (IIVI),IIVI
+11130062,WIKI,SVB Financial Group (SIVB),SIVB
+11146447,WIKI,Volcano Corporation (VOLC),VOLC
+11138259,WIKI,Thoratec Corp. (THOR),THOR
+11146454,WIKI,Vonage Holdings (VG),VG
+11251638,WIKI,Wiley (John) & Sons Inc. (JW_A),JW_A
+11121880,WIKI,Southwest Gas Corp. (SWX),SWX
+11097305,WIKI,Illumina Inc. (ILMN),ILMN
+11146458,WIKI,VOXX International Corporation (VOXX),VOXX
+11105501,WIKI,NII Holdings Inc. (NIHD),NIHD
+10974433,WIKI,ACI Worldwide Inc (ACIW),ACIW
+11146466,WIKI,Vringo Inc (VRNG),VRNG
+11146468,WIKI,VSE Corp. (VSEC),VSEC
+11321198,WIKI,Kite Realty Group Trust (KRG),KRG
+10990823,WIKI,Astoria Financial Corp. (AF),AF
+11097320,WIKI,Imation Corp. (IMN),IMN
+11113705,WIKI,Oritani Financial Corp (DE) (ORIT),ORIT
+11097328,WIKI,Immersion Corporation (IMMR),IMMR
+11146485,WIKI,W & T Offshore Inc (WTI),WTI
+11097336,WIKI,ImmunoGen Inc. (IMGN),IMGN
+11097337,WIKI,Immunomedics Inc. (IMMU),IMMU
+11146490,WIKI,WABCO Holdings (WBC),WBC
+11146491,WIKI,Westinghouse Air Brake Technologies Corp. (WAB),WAB
+11146495,WIKI,Waddell & Reed Financial Inc. (WDR),WDR
+11113729,WIKI,Ormat Technologies Inc (ORA),ORA
+11097346,WIKI,Impax Laboratories Inc. (IPXL),IPXL
+11097351,WIKI,IMPERIAL HOLDINGS INC. (IFT),IFT
+11097358,WIKI,Imperva Inc (IMPV),IMPV
+11146511,WIKI,Walter Energy Inc (WLT),WLT
+11146512,WIKI,Walter Investment Management Corp (WAC),WAC
+10982679,WIKI,AMC Networks Inc. (AMCX),AMCX
+11146116,WIKI,URS Corp. (URS),URS
+11105564,WIKI,Nimble Storage Inc (NMBL),NMBL
+11146525,WIKI,Washington Federal Inc. (WAFD),WAFD
+11146526,WIKI,Washington Trust Bancorp Inc. (WASH),WASH
+11097377,WIKI,inContact Inc. (SAAS),SAAS
+11097380,WIKI,Incyte Corp. (INCY),INCY
+10997297,WIKI,BBX Capital Corp (BBX),BBX
+11097384,WIKI,Independence Holding Co. (New) (IHC),IHC
+11146537,WIKI,Waterstone Financial Inc (MD) (WSBF),WSBF
+11146538,WIKI,Watsco Inc. (WSO),WSO
+11097387,WIKI,Independent Bank Corporation (Ionia MI) (IBCP),IBCP
+11097388,WIKI,Independent Bank Corp. (MA) (INDB),INDB
+11097389,WIKI,Independent Bank Group Inc. (IBTX),IBTX
+11146120,WIKI,U.S. Cellular Corp. (USM),USM
+10982708,WIKI,Amcol International Corporation (ACO),ACO
+11146121,WIKI,U.S. Concrete Inc. (USCR),USCR
+11146552,WIKI,WD-40 Co. (WDFC),WDFC
+11094239,WIKI,CNO Financial Group (CNO),CNO
+11146558,WIKI,Web.com Group Inc. (WWWW),WWWW
+11128071,WIKI,Sun Hydraulics Corp. (SNHY),SNHY
+11146562,WIKI,WebMD Health Corp (WBMD),WBMD
+11146565,WIKI,Webster Financial Corp (Waterbury Conn) (WBS),WBS
+11098337,WIKI,LGI Homes Inc. (LGIH),LGIH
+11113803,WIKI,Orthofix International N.V. (OFIX),OFIX
+11097420,WIKI,Infinera Corporation (INFN),INFN
+11146575,WIKI,Weis Markets Inc. (WMK),WMK
+11146576,WIKI,WellCare Health Plans Inc. (WCG),WCG
+11136568,WIKI,Tetra Tech Inc. (TTEK),TTEK
+9775616,WIKI,CMS Energy Corp (CMS),CMS
+11097432,WIKI,Infinity Pharmaceuticals Inc. (INFI),INFI
+11097433,WIKI,Infinity Property & Casualty Corp (IPCC),IPCC
+11097434,WIKI,Infoblox (BLOX),BLOX
+11146589,WIKI,Werner Enterprises Inc. (WERN),WERN
+11097438,WIKI,Informatica Corp. (INFA),INFA
+11146591,WIKI,Wesco Aircraft Holdings (WAIR),WAIR
+11146592,WIKI,Wesco International Inc. (WCC),WCC
+11097441,WIKI,Information Services Group Inc (III),III
+10990948,WIKI,Astronics Corp. (ATRO),ATRO
+11146598,WIKI,West Bancorporation Inc. (WTBA),WTBA
+11146602,WIKI,West Corp. (WSTC),WSTC
+11097451,WIKI,Voya Financial Inc (VOYA),VOYA
+11097453,WIKI,Ingles Markets Inc. (IMKTA),IMKTA
+11097454,WIKI,Ingram Micro Inc. (IM),IM
+11097455,WIKI,Ingredion Inc (INGR),INGR
+11146609,WIKI,West Pharmaceutical Services Inc. (WST),WST
+9775617,WIKI,CenterPoint Energy Inc (CNP),CNP
+11097461,WIKI,InnerWorkings Inc. (INWK),INWK
+11146615,WIKI,WestAmerica Bancorporation (WABC),WABC
+11146616,WIKI,Westar Energy Inc (WR),WR
+11097467,WIKI,Innophos Holdings Inc (IPHS),IPHS
+11097468,WIKI,Innospec Inc (IOSP),IOSP
+11146622,WIKI,Westell Technologies Inc. (WSTL),WSTL
+11146624,WIKI,Western Alliance Bancorp (WAL),WAL
+11097480,WIKI,Innovative Solutions and Support Inc. (ISSC),ISSC
+10982793,WIKI,Amdocs Ltd. (DOX),DOX
+11097483,WIKI,Inogen Inc (INGN),INGN
+13693248,WIKI,Flexion Therapeutics Inc. (FLXN),FLXN
+11097486,WIKI,Inovio Pharmaceuticals Inc. (INO),INO
+11097488,WIKI,Inphi (IPHI),IPHI
+11146641,WIKI,Westfield Financial Inc (WFD),WFD
+11146644,WIKI,Westlake Chemical Corp (WLK),WLK
+11097494,WIKI,Insight Enterprises Inc. (NSIT),NSIT
+11146648,WIKI,Westmoreland Coal Company (WLB),WLB
+11097497,WIKI,Insmed Inc. (INSM),INSM
+11097498,WIKI,Insperity Inc (NSP),NSP
+11130267,WIKI,Swift Energy Co. (SFY),SFY
+11097503,WIKI,Installed Building Products Inc (IBP),IBP
+11097504,WIKI,Insteel Industries Inc. (IIIN),IIIN
+11146658,WIKI,Westwood Holdings Group Inc. (WHG),WHG
+11146659,WIKI,Wet Seal Inc. (The) (WTSL),WTSL
+11097508,WIKI,Insulet Corporation (PODD),PODD
+11146661,WIKI,WEX (WEX),WEX
+11097510,WIKI,Insys Therapeutics Inc (INSY),INSY
+11146664,WIKI,WGL Holdings Inc. (WGL),WGL
+11097514,WIKI,Integra LifeSciences Holdings Corp (IART),IART
+11113900,WIKI,Oshkosh Corp (New) (OSK),OSK
+11097521,WIKI,Integrated Device Technology Inc. (IDTI),IDTI
+11113906,WIKI,OSI Systems Inc. (OSIS),OSIS
+11146675,WIKI,White Mountains Insurance Group Ltd. (WTM),WTM
+9775795,WIKI,Lam Research Corp (LRCX),LRCX
+11146681,WIKI,WhiteHorse Finance Inc. (WHF),WHF
+11146683,WIKI,WhiteWave Foods Co. (WWAV),WWAV
+11097532,WIKI,Integrated Silicon Solution Inc. (ISSI),ISSI
+11130304,WIKI,Swift Transportation Company (SWFT),SWFT
+11094262,WIKI,Cobalt International Energy (CIE),CIE
+11146145,WIKI,USA Truck Inc. (USAK),USAK
+11097550,WIKI,Intelsat SA (I),I
+10982863,WIKI,American National Bankshares Inc. (Danville VA) (AMNB),AMNB
+11097552,WIKI,Inter Parfums Inc. (IPAR),IPAR
+11146706,WIKI,Willbros Group Inc. (WG),WG
+11097557,WIKI,Interactive Brokers Group Inc (IBKR),IBKR
+11097558,WIKI,Interactive Intelligence Group Inc. (ININ),ININ
+11122138,WIKI,Spartan Motors Inc. (SPAR),SPAR
+11097565,WIKI,Intercept Pharmaceuticals Inc. (ICPT),ICPT
+11146720,WIKI,Wilshire Bancorp Inc (WIBC),WIBC
+11097570,WIKI,Interdigital Inc (PA) (IDCC),IDCC
+10974692,WIKI,Acorda Therapeutics Inc. (ACOR),ACOR
+11097573,WIKI,Interface Inc. (TILE),TILE
+11146731,WIKI,Winmark Corp (WINA),WINA
+11146733,WIKI,Winnebago Industries Inc. (WGO),WGO
+11097582,WIKI,Intermolecular Inc. (IMI),IMI
+11097584,WIKI,InterMune Inc. (ITMN),ITMN
+25130481,WIKI,Tegna Inc (TGNA),TGNA
+25130482,WIKI,Zimmer Biomet Holdings Inc (ZBH),ZBH
+11097587,WIKI,Internap Corp (INAP),INAP
+11097589,WIKI,International Bancshares Corporation (IBOC),IBOC
+11113974,WIKI,Osiris Therapeutics Inc (OSIR),OSIR
+11146745,WIKI,WisdomTree Investments Inc. (WETF),WETF
+11146747,WIKI,Wix.com Ltd. (WIX),WIX
+11122174,WIKI,SpartanNash Co. (SPTN),SPTN
+10982915,WIKI,AMERCO (UHAL),UHAL
+11146761,WIKI,Wolverine World Wide Inc. (WWW),WWW
+11251643,WIKI,Zygo Corporation (ZIGO),ZIGO
+11122191,WIKI,Sparton Corp. (SPA),SPA
+11146770,WIKI,Woodward Inc. (WWD),WWD
+11146774,WIKI,Workday (WDAY),WDAY
+11128409,WIKI,Sunesis Pharmaceuticals Inc. (SNSS),SNSS
+11130392,WIKI,Swisher Hygiene Inc (SWSH),SWSH
+11097628,WIKI,Intersections Inc (INTX),INTX
+11138589,WIKI,TIBCO Software Inc. (TIBX),TIBX
+11097630,WIKI,Intersil Corp. (ISIL),ISIL
+11105824,WIKI,NL Industries Inc. (NL),NL
+10991139,WIKI,athenahealth Inc. (ATHN),ATHN
+11097637,WIKI,Interval Leisure Group Inc (IILG),IILG
+11097638,WIKI,Intervest Bancshares Corp. (IBCA),IBCA
+11099740,WIKI,MoSys Inc. (MOSY),MOSY
+11097644,WIKI,Intevac Inc. (IVAC),IVAC
+10989150,WIKI,ArQule Inc. (ARQL),ARQL
+11097654,WIKI,INTL FCStone Inc. (INTL),INTL
+11146810,WIKI,Worthington Industries Inc. (WOR),WOR
+11131146,WIKI,Synergy Pharmaceuticals Inc (SGYP),SGYP
+11138622,WIKI,TICC Capital Corp (TICC),TICC
+11097663,WIKI,International Rectifier Corp. (IRF),IRF
+11097664,WIKI,International Shipholding Corp. (ISH),ISH
+11097665,WIKI,International Speedway Corp (ISCA),ISCA
+11146818,WIKI,W. R. Grace & Co. (GRA),GRA
+11097669,WIKI,Intra-Cellular Therapies Inc (ITCI),ITCI
+11097670,WIKI,IntraLinks Holdings (IL),IL
+11146823,WIKI,WSFS Financial Corp (WSFS),WSFS
+11097672,WIKI,Intrawest Resorts Holdings Inc (SNOW),SNOW
+9775845,WIKI,Northrop Grumman Corp (NOC),NOC
+13694540,WIKI,A10 Networks Inc  (ATEN),ATEN
+11097677,WIKI,Intrepid Potash (IPI),IPI
+11097678,WIKI,Intrexon (XON),XON
+11097685,WIKI,Invacare Corp (IVC),IVC
+11094528,WIKI,Cooper-Standard Holdings Inc. (CPS),CPS
+11097689,WIKI,Inventure Foods Inc. (SNAK),SNAK
+11097693,WIKI,Investment Technology Group Inc. (ITG),ITG
+11097696,WIKI,Investors Bancorp Inc (New) (ISBC),ISBC
+11146849,WIKI,Xencor Inc (XNCR),XNCR
+11097699,WIKI,Investors Title Co. (ITIC),ITIC
+11146854,WIKI,XenoPort Inc. (XNPT),XNPT
+11146856,WIKI,Xerium Technologies (XRM),XRM
+9775898,WIKI,Qualcomm Inc. (QCOM),QCOM
+11097709,WIKI,ION Geophysical (IO),IO
+11097714,WIKI,IPC Healthcare Inc. (IPCM),IPCM
+11097715,WIKI,IPG Photonics Corporation (IPGP),IPGP
+13693195,WIKI,Empire State Realty Trust Inc (ESRT),ESRT
+11105910,WIKI,NMI Holdings Inc (NMIH),NMIH
+11146875,WIKI,XO Group (XOXO),XOXO
+11097724,WIKI,Iridium Communications Inc (IRDM),IRDM
+11146877,WIKI,Xoom Corporation (XOOM),XOOM
+11097727,WIKI,iRobot Corporation (IRBT),IRBT
+11105922,WIKI,NN Inc (NNBR),NNBR
+11097737,WIKI,Ironwood Pharmaceuticals Inc. (IRWD),IRWD
+10983054,WIKI,America's Car-Mart Inc (CRMT),CRMT
+11097746,WIKI,Isis Pharmaceuticals Inc. (ISIS),ISIS
+11097749,WIKI,Isle of Capri Casinos Inc. (ISLE),ISLE
+11146904,WIKI,Yadkin Financial Corp (YDKN),YDKN
+11138716,WIKI,Tidewater Inc. (TDW),TDW
+11097760,WIKI,Isramco Inc. (ISRL),ISRL
+10972784,WIKI,22nd Century Group Inc (XXII),XXII
+11097769,WIKI,ITC Holdings Corp (ITC),ITC
+11130811,WIKI,Symetra Financial Corp (SYA),SYA
+11146930,WIKI,Yelp (YELP),YELP
+11140786,WIKI,Tootsie Roll Industries Inc (TR),TR
+11097780,WIKI,Itron Inc. (ITRI),ITRI
+11097783,WIKI,ITT Corporation (ITT),ITT
+10983096,WIKI,American Airlines Group Inc. (AAL),AAL
+11251317,WIKI,American Assets Trust Inc. (AAT),AAT
+11146945,WIKI,York Water Co (YORW),YORW
+11097796,WIKI,Ixia (XXIA),XXIA
+11097798,WIKI,IXYS Corp. (IXYS),IXYS
+11097800,WIKI,J&J Snack Foods Corp. (JJSF),JJSF
+11097803,WIKI,J.C. Penney Co. Inc. (JCP),JCP
+11097804,WIKI,j2 Global Inc. (New) (JCOM),JCOM
+11097807,WIKI,Jack Henry & Associates Inc. (JKHY),JKHY
+11097808,WIKI,Jack in the Box Inc. (JACK),JACK
+11146088,WIKI,Unwired Planet Inc. (UPIP),UPIP
+11146965,WIKI,ZAGG Inc (ZAGG),ZAGG
+11146967,WIKI,Zale Corporation (ZLC),ZLC
+10983128,WIKI,American Axle & Manufacturing Holdings Inc. (AXL),AXL
+10974937,WIKI,Activision Blizzard Inc. (ATVI),ATVI
+11113423,WIKI,Organovo (ONVO),ONVO
+11097821,WIKI,Jakks Pacific Inc. (JAKK),JAKK
+11097822,WIKI,Jamba Inc. (JMBA),JMBA
+11146978,WIKI,Zaza Energy Corp. (ZAZA),ZAZA
+11251323,WIKI,American Residential Properties Inc (ARPI),ARPI
+11097830,WIKI,Janus Capital Group Inc (JNS),JNS
+11146983,WIKI,Zebra Technologies Corporation (ZBRA),ZBRA
+11114218,WIKI,Otter Tail Corp. (OTTR),OTTR
+11097835,WIKI,Jarden Corp (JAH),JAH
+11129810,WIKI,Susquehanna Bancshares Inc (SUSQ),SUSQ
+11146994,WIKI,Zep (ZEP),ZEP
+11251327,WIKI,Annaly Capital Management Inc (NLY),NLY
+10974972,WIKI,Actuant Corp. Cl A (ATU),ATU
+11097853,WIKI,JDS Uniphase Corp (JDSU),JDSU
+10991358,WIKI,Atlantic Power Corp (AT),AT
+11146197,WIKI,Valmont Industries Inc. (VMI),VMI
+11251328,WIKI,Anworth Mortgage Asset Corp. (ANH),ANH
+11147011,WIKI,Zillow Group Inc. - Class C (Z),Z
+13693687,WIKI,Trade Street Residential Inc. (TSRE),TSRE
+11097865,WIKI,JetBlue Airways Corporation (JBLU),JBLU
+11147020,WIKI,ZIOPHARM Oncology Inc (ZIOP),ZIOP
+11251330,WIKI,Apollo Residential Mortgage Inc. (AMTG),AMTG
+11097871,WIKI,JG Wentworth Co (The) (JGW),JGW
+11147025,WIKI,Zix Corporation (ZIXI),ZIXI
+11147030,WIKI,Zogenix Inc. (ZGNX),ZGNX
+10975001,WIKI,Actuate Corporation (BIRT),BIRT
+11097882,WIKI,Jive Software Inc. (JIVE),JIVE
+11097890,WIKI,Sanfilippo (John B.) & Son Inc. (JBSS),JBSS
+11097891,WIKI,John Bean Technologies Corp (JBT),JBT
+11097894,WIKI,Johnson Outdoors Inc (JOUT),JOUT
+9775409,WIKI,Apple Inc (AAPL),AAPL
+11097896,WIKI,Jones Energy (JONE),JONE
+11097897,WIKI,Jones Group, Inc. (JNY),JNY
+11097898,WIKI,Jones Lang LaSalle Inc (JLL),JLL
+11122478,WIKI,Spectranetics Corporation (SPNC),SPNC
+11097904,WIKI,Journal Communications Inc (JRN),JRN
+10991413,WIKI,Atlantic Tele-Network Inc. (ATNI),ATNI
+11097915,WIKI,Liberty Tax Inc (TAX),TAX
+11130685,WIKI,Sykes Enterprises Incorporated (SYKE),SYKE
+10975038,WIKI,Acuity Brands Inc (Holding Company) (AYI),AYI
+11114307,WIKI,Outerwall Inc (OUTR),OUTR
+11097938,WIKI,K12 Inc. (LRN),LRN
+19878883,WIKI,Eversource Energy (ES),ES
+9775633,WIKI,Cognizant Technology Solutions Corp. (CTSH),CTSH
+11097944,WIKI,Kadant Inc (KAI),KAI
+11124367,WIKI,Standard Motor Products (SMP),SMP
+11097949,WIKI,Kaiser Aluminum Corp. (KALU),KALU
+11097963,WIKI,Kaman Corp. (KAMN),KAMN
+11097969,WIKI,Kansas City Life Insurance Co. (Kansas City MO) (KCLI),KCLI
+11097972,WIKI,KapStone Paper & Packaging Corp (KS),KS
+11097974,WIKI,Kar Auction Services Inc. (KAR),KAR
+11097980,WIKI,Karyopharm Therapeutics Inc (KPTI),KPTI
+11122564,WIKI,Spectrum Brands Holdings Inc (SPB),SPB
+11097990,WIKI,KB HOME (KBH),KBH
+11097993,WIKI,KBR Inc (KBR),KBR
+11251351,WIKI,Campus Crest Communities Inc. (CCG),CCG
+11097996,WIKI,KCG Holdings Inc (KCG),KCG
+11097998,WIKI,Kearny Financial Corp (MD) (KRNY),KRNY
+10983314,WIKI,American Capital Ltd. (ACAS),ACAS
+11098003,WIKI,Kelly Services Inc. (KELYA),KELYA
+11138030,WIKI,Third Point Reinsurance (TPRE),TPRE
+11098009,WIKI,Kemet Corp. (KEM),KEM
+11098011,WIKI,Kemper Corp. (DE) (KMPR),KMPR
+11098019,WIKI,Kennametal Inc. (KMT),KMT
+11098020,WIKI,Kennedy-Wilson Holdings Inc (KW),KW
+27547561,WIKI,Hewlett Packard Enterprise Co (HPE),HPE
+11114411,WIKI,OvaScience Inc. (OVAS),OVAS
+11138991,WIKI,Tillys (TLYS),TLYS
+11098032,WIKI,Keryx Biopharmaceuticals Inc. (KERX),KERX
+11098038,WIKI,Key Energy Svcs (KEG),KEG
+11116191,WIKI,QuinStreet Inc. (QNST),QNST
+11098045,WIKI,The KEYW Holding Corporation (KEYW),KEYW
+11098046,WIKI,Kforce Inc. (KFRC),KFRC
+11106241,WIKI,Noodles & Company (NDLS),NDLS
+11122633,WIKI,Spectrum Pharmaceuticals Inc. (SPPI),SPPI
+11130827,WIKI,Symmetry Medical Inc. (SMA),SMA
+11098060,WIKI,Kimball International Inc.,KBALB
+10975183,WIKI,Acxiom Corporation (ACXM),ACXM
+10991568,WIKI,Atlas Financial Holdings Inc. (AFH),AFH
+11098066,WIKI,Kindred Biosciences Inc (KIN),KIN
+11098067,WIKI,Kindred Healthcare Inc (KND),KND
+11098083,WIKI,Kirby Corp. (KEX),KEX
+11098087,WIKI,Kirkland's Inc (KIRK),KIRK
+11106285,WIKI,Norcraft Cos. Inc (NCFT),NCFT
+11106289,WIKI,Nordic American Tankers Ltd (NAT),NAT
+11102547,WIKI,Navios Maritime Acquisition Corp (NNA),NNA
+11098104,WIKI,KMG Chemicals Inc. (KMG),KMG
+11122681,WIKI,Speed Commerce Inc. (SPDC),SPDC
+11098106,WIKI,Knight Transportation Inc. (KNX),KNX
+11098107,WIKI,Knightsbridge Tankers Limited (VLCCF),VLCCF
+11098108,WIKI,Knoll Inc (KNL),KNL
+11098113,WIKI,Kodiak Oil & Gas Corp (KOG),KOG
+11098115,WIKI,Kofax Ltd (KFX),KFX
+11144876,WIKI,Triple-S Management Corp. Cl B (GTS),GTS
+11114512,WIKI,Overstock.com Inc. (OSTK),OSTK
+11098132,WIKI,Kopin Corporation (KOPN),KOPN
+11098134,WIKI,Koppers Holdings (KOP),KOP
+11098135,WIKI,Korn/Ferry International (DE) (KFY),KFY
+11098136,WIKI,Kosmos Energy (KOS),KOS
+11098140,WIKI,Kraton Performance Polymers (KRA),KRA
+11098141,WIKI,Kratos Defense & Security Solutions Inc. (KTOS),KTOS
+11098145,WIKI,Krispy Kreme Doughnuts Inc. (KKD),KKD
+11098147,WIKI,Kronos Worldwide Inc (KRO),KRO
+11146246,WIKI,Veeco Instruments Inc. (VECO),VECO
+9775640,WIKI,E.I. du Pont de Nemours and Co. (DD),DD
+25712679,WIKI,Kraft Heinz Co (The) (KHC),KHC
+25712680,WIKI,WestRock Co (WRK),WRK
+11130921,WIKI,Synageva BioPharma Corp. (GEVA),GEVA
+10975274,WIKI,Adams Resources & Energy Inc. (AE),AE
+10983469,WIKI,American Eagle Energy Corp. (AMZG),AMZG
+11114542,WIKI,Owens & Minor Inc. (OMI),OMI
+11133279,WIKI,Taylor Capital Group, Inc. (TAYC),TAYC
+11098164,WIKI,KVH Industries Inc. (KVHI),KVHI
+11098169,WIKI,Kythera Biopharmaceuticals, Inc. (KYTH),KYTH
+11098174,WIKI,L&L Energy, Inc. (LLEN),LLEN
+10983490,WIKI,American Eagle Outfitters Inc. (AEO),AEO
+11106371,WIKI,Nordson Corp. (NDSN),NDSN
+9775641,WIKI,Deere & Co. (DE),DE
+11098183,WIKI,La-Z-Boy Inc. (LZB),LZB
+11251383,WIKI,Corporate Office Properties Trust (OFC),OFC
+11098191,WIKI,Laclede Group Inc (LG),LG
+11098193,WIKI,Ladder Capital Corp (LADR),LADR
+11098194,WIKI,Ladenburg Thalmann Financial Services Inc. (LTS),LTS
+11114584,WIKI,Owens Corning (OC),OC
+14282732,WIKI,Retail Properties of America Inc (RPAI),RPAI
+11098207,WIKI,LakeLand Bancorp Inc. (LBAI),LBAI
+11098208,WIKI,Lakeland Financial Corp. (LKFN),LKFN
+11098211,WIKI,Lamar Advertising Co (New) (LAMR),LAMR
+11139172,WIKI,Timken Co. (TKR),TKR
+11098215,WIKI,Lancaster Colony Corp. (LANC),LANC
+11098217,WIKI,Landauer Inc. (LDR),LDR
+11098218,WIKI,Landec Corporation (LNDC),LNDC
+11110759,WIKI,Oil-Dri Corp. of America (ODC),ODC
+11144893,WIKI,TriQuint Semiconductor Inc. (TQNT),TQNT
+11098226,WIKI,Landstar System Inc. (LSTR),LSTR
+11098227,WIKI,Lannett Co. Inc. (LCI),LCI
+11251391,WIKI,CyrusOne Inc (CONE),CONE
+11098237,WIKI,Laredo Petroleum Holdings Inc (LPI),LPI
+11251392,WIKI,CYS Investments (CYS),CYS
+10983554,WIKI,American Equity Investment Life Holding Co (AEL),AEL
+11098243,WIKI,Las Vegas Sands Corp (LVS),LVS
+11251393,WIKI,DCT Industrial Trust Inc (DCT),DCT
+11131017,WIKI,Synchronoss Technologies Inc. (SNCR),SNCR
+11098255,WIKI,Lattice Semiconductor Corporation (LSCC),LSCC
+11114645,WIKI,Oxford Immunotec Global Plc (OXFD),OXFD
+11114646,WIKI,Oxford Industries Inc. (OXM),OXM
+11098263,WIKI,Layne Christensen Company (LAYN),LAYN
+11098266,WIKI,LCNB Corp (LCNB),LCNB
+11098269,WIKI,LDR Holding Corp (LDRH),LDRH
+11098277,WIKI,LeapFrog Enterprises Inc. Cl A (LF),LF
+11098279,WIKI,Lear Corp. (LEA),LEA
+11146268,WIKI,Vera Bradley Inc. (VRA),VRA
+10991788,WIKI,Atmos Energy Corp. (ATO),ATO
+11098286,WIKI,Lee Enterprises Inc. (LEE),LEE
+11251400,WIKI,Douglas Emmett Inc (DEI),DEI
+10983605,WIKI,American Financial Group Inc (AFG),AFG
+11106491,WIKI,Nortek Inc. (NTK),NTK
+11251402,WIKI,DuPont Fabros Technology Inc (DFT),DFT
+11098307,WIKI,Leidos Holdings Inc (LDOS),LDOS
+11098313,WIKI,Lennox International Inc (LII),LII
+10975435,WIKI,Addus HomeCare Corporation (ADUS),ADUS
+11098323,WIKI,Level 3 Communications Inc. (LVLT),LVLT
+11098332,WIKI,Lexicon Pharmaceuticals Inc. (LXRX),LXRX
+11098335,WIKI,Lexmark International Inc. (LXK),LXK
+11095760,WIKI,ERA Group Inc. (ERA),ERA
+11098340,WIKI,LHC Group (LHCG),LHCG
+25704681,WIKI,PayPal Holdings Inc (PYPL),PYPL
+11098346,WIKI,Libbey Inc. (LBY),LBY
+11098350,WIKI,Liberator Medical Holdings Inc. (LBMH),LBMH
+11098356,WIKI,Liberty Global plc (LBTYA),LBTYA
+9775647,WIKI,Disney (Walt) Co. (The) (DIS),DIS
+11098363,WIKI,Liberty Interactive Corporation (LINTA),LINTA
+11098367,WIKI,Liberty Media Corp (DE) (LMCA),LMCA
+9775488,WIKI,AmerisourceBergen Corp. (ABC),ABC
+11098371,WIKI,Liberty Interactive Corp (LVNTA),LVNTA
+10991882,WIKI,AtriCure Inc. (ATRC),ATRC
+11098386,WIKI,Life Time Fitness Inc (LTM),LTM
+9775491,WIKI,Accenture plc (ACN),ACN
+11251417,WIKI,Federal Realty Investment Trust (MD) (FRT),FRT
+11098392,WIKI,LifeLock (LOCK),LOCK
+11098394,WIKI,LifePoint Health Inc (LPNT),LPNT
+11131165,WIKI,Synergy Resources Corp (SYRG),SYRG
+11098398,WIKI,Lifetime Brands Inc (LCUT),LCUT
+11098399,WIKI,Lifevantage Corp (LFVN),LFVN
+11098400,WIKI,Lifeway Foods Inc. (LWAY),LWAY
+11098402,WIKI,Ligand Pharmaceuticals Incorporated (LGND),LGND
+9775494,WIKI,Analog Devices Inc. (ADI),ADI
+11251420,WIKI,First Industrial Realty Trust Inc. (FR),FR
+10991914,WIKI,Atrion Corp. (ATRI),ATRI
+11251421,WIKI,First of Long Island Corp. (FLIC),FLIC
+11098420,WIKI,Limelight Networks Inc. (LLNW),LLNW
+11098423,WIKI,Limoneira Co. (LMNR),LMNR
+11251423,WIKI,First NBC Bank Holding Company (NBCB),NBCB
+11098428,WIKI,Lincoln Educational Services Corp (LINC),LINC
+11098430,WIKI,Lincoln Electric Holdings Inc. (LECO),LECO
+11098434,WIKI,Lindsay Corp (LNN),LNN
+16790252,WIKI,BPplc ADR (Sponsored) (BP),BP
+11123015,WIKI,Spirit AeroSystems Holdings Inc. Cl A (SPR),SPR
+11098440,WIKI,LinkedIn (LNKD),LNKD
+11251426,WIKI,First Republic Bank (San Francisco CA) (FRC),FRC
+11131214,WIKI,Synnex Corp (SNX),SNX
+11098447,WIKI,Lionbridge Technologies Inc. (LIOX),LIOX
+11098449,WIKI,Lions Gate Entertainment Corp. (LGF),LGF
+11251427,WIKI,First Security Group Inc (FSGI),FSGI
+11098458,WIKI,Liquidity Services Inc. (LQDT),LQDT
+11123035,WIKI,Spirit Airlines Inc. (SAVE),SAVE
+11106652,WIKI,North Atlantic Drilling Ltd (NADL),NADL
+11098463,WIKI,Lithia Motors Inc. (LAD),LAD
+11098469,WIKI,Littelfuse Inc. (LFUS),LFUS
+11251319,WIKI,American Capital Mortgage Investment Corp. (MTGE),MTGE
+11098476,WIKI,Live Nation Entertainment (LYV),LYV
+11098478,WIKI,LivePerson Inc. (LPSN),LPSN
+11131249,WIKI,Synopsys Inc. (SNPS),SNPS
+11098488,WIKI,LKQ Corporation (LKQ),LKQ
+11251434,WIKI,Fleetcor Technologies (FLT),FLT
+11123070,WIKI,Splunk Inc. (SPLK),SPLK
+11251435,WIKI,Fleetmatics Group (FLTX),FLTX
+11098501,WIKI,LMI Aerospace Inc. (LMIA),LMIA
+9775512,WIKI,Altera Corporation (ALTR),ALTR
+11098518,WIKI,LogMeIn Inc. (LOGM),LOGM
+11114903,WIKI,P.A.M. Transportation Services Inc. (PTSI),PTSI
+11251439,WIKI,Flowers Foods Inc. (FLO),FLO
+9775514,WIKI,Applied Materials Inc. (AMAT),AMAT
+10992033,WIKI,Atwood Oceanics Inc. (ATW),ATW
+11131303,WIKI,Synovus Financial Corp. (SNV),SNV
+11098541,WIKI,Loral Space and Communications Inc. (LORL),LORL
+9775517,WIKI,Ameriprise Financial Inc (AMP),AMP
+11146312,WIKI,Viad Corp (VVI),VVI
+10981107,WIKI,Alliant Techsystems Inc. (ATK),ATK
+9775518,WIKI,American Tower Corp (New) (AMT),AMT
+11098551,WIKI,Louisiana-Pacific Corp. (LPX),LPX
+9775519,WIKI,Amazon.com Inc. (AMZN),AMZN
+11098557,WIKI,LPL Financial Holdings Inc. (LPLA),LPLA
+11098560,WIKI,LSB Industries Inc. (LXU),LXU
+11098561,WIKI,LSI Industries Inc. (LYTS),LYTS
+11098565,WIKI,LTX-Credence Corporation (LTXC),LTXC
+11098566,WIKI,Lubys Inc. (LUB),LUB
+11251447,WIKI,FormFactor Inc.  (FORM),FORM
+11098577,WIKI,Lumber Liquidators Holdings (LL),LL
+11098580,WIKI,Luminex Corporation (LMNX),LMNX
+11098582,WIKI,Lumos Networks Corp. (LMOS),LMOS
+11251449,WIKI,Fortegra Financial (FRF),FRF
+11131352,WIKI,Synta Pharmaceuticals Corp. (SNTA),SNTA
+11098592,WIKI,Luxoft Holding Inc. (LXFT),LXFT
+11139554,WIKI,Titan International Inc (TWI),TWI
+11098597,WIKI,Lydall Inc. (LDL),LDL
+11146322,WIKI,Vicor Corporation (VICR),VICR
+11098611,WIKI,M/I Homes (MHO),MHO
+11251454,WIKI,Foster (L.B.) Co. (FSTR),FSTR
+11098614,WIKI,M/A-COM Technology Solutions Holdings Inc. (MTSI),MTSI
+11098620,WIKI,Macatawa Bank Corp. (MCBC),MCBC
+11131394,WIKI,Syntel Inc. (SYNT),SYNT
+10992134,WIKI,Audience Inc. (ADNC),ADNC
+11251457,WIKI,Franklin Covey Co (FC),FC
+11098635,WIKI,MacroGenics Inc (MGNX),MGNX
+11074066,WIKI,Berry Plastics Group (BERY),BERY
+11251459,WIKI,Franklin Financial Corp (FRNK),FRNK
+11098646,WIKI,MSG Network Inc (MSG),MSG
+11098651,WIKI,Magellan Health Services Inc. (MGLN),MGLN
+11098655,WIKI,magicJack VocalTec Ltd (CALL),CALL
+11251462,WIKI,Freescale Semiconductor Ltd (FSL),FSL
+11098665,WIKI,Magnum Hunter Resources Corp (MHR),MHR
+11098670,WIKI,Maiden Holdings Ltd (MHLD),MHLD
+11098671,WIKI,Main Street Capital Corp (MAIN),MAIN
+11098672,WIKI,MainSource Financial Group Inc (MSFG),MSFG
+11139639,WIKI,Titan Machinery Inc. (TITN),TITN
+11115074,WIKI,Pacer International, Inc. (PACR),PACR
+11098693,WIKI,Malibu Boats Inc (MBUU),MBUU
+11098695,WIKI,Mallinckrodt plc (MNK),MNK
+11132687,WIKI,Tangoe Inc. (TNGO),TNGO
+11098716,WIKI,Manhattan Associates Inc. (MANH),MANH
+11116304,WIKI,RealPage Inc. (RP),RP
+11098723,WIKI,Manitex International Inc. (MNTX),MNTX
+11098727,WIKI,Manitowoc Co. Inc. (MTW),MTW
+11134100,WIKI,TechTarget Inc (TTGT),TTGT
+11098729,WIKI,Manning & Napier Inc. (MN),MN
+11098730,WIKI,MannKind Corporation (MNKD),MNKD
+11098731,WIKI,ManpowerGroup (MAN),MAN
+11098733,WIKI,ManTech International Corp (MANT),MANT
+11131502,WIKI,Synutra International Inc. (SYUT),SYUT
+11129663,WIKI,Surgical Care Affiliates Inc (SCAI),SCAI
+11098747,WIKI,Marchex Inc (MCHX),MCHX
+11098749,WIKI,Marcus & Millichap Inc (MMI),MMI
+11098750,WIKI,Marcus Corp. (MCS),MCS
+11251477,WIKI,G & K Services Inc. (GK),GK
+9775552,WIKI,Aon Plc (AON),AON
+11098754,WIKI,Marin Software Inc (MRIN),MRIN
+11098757,WIKI,Marine Products Corp. (MPX),MPX
+11098759,WIKI,MarineMax Inc (DE) (HZO),HZO
+11098762,WIKI,Markel Corp. (MKL),MKL
+11098764,WIKI,MarketAxess Holdings Inc. (MKTX),MKTX
+11098768,WIKI,Marketo Inc. (MKTO),MKTO
+11098771,WIKI,Marlin Business Services Corp (MRLN),MRLN
+13693636,WIKI,ServisFirst Bancshares Inc. (SFBS),SFBS
+9775556,WIKI,Amphenol Corp. (APH),APH
+11098778,WIKI,Marriott Vacations Worldwide Corp. (VAC),VAC
+11098779,WIKI,Marrone Bio Innovations Inc (MBII),MBII
+11098782,WIKI,Marten Transport Ltd. (MRTN),MRTN
+11098783,WIKI,Martha Stewart Living Omnimedia Inc. (MSO),MSO
+11098784,WIKI,Martin Marietta Materials Inc. (MLM),MLM
+11098788,WIKI,Marvell Technology Group Ltd. (MRVL),MRVL
+11098790,WIKI,Masimo Corporation (MASI),MASI
+11146353,WIKI,Vince Holding Corp (VNCE),VNCE
+11098792,WIKI,Masonite International Corp (DOOR),DOOR
+11098800,WIKI,MasTec Inc. (MTZ),MTZ
+11098805,WIKI,Matador Resources (MTDR),MTDR
+11098811,WIKI,Materion Corp (MTRN),MTRN
+11098815,WIKI,Matrix Service Company (MTRX),MTRX
+11098816,WIKI,Matson Inc (MATX),MATX
+11098818,WIKI,Matthews International Corp (MATW),MATW
+11098819,WIKI,Mattress Firm Holding Corp. (MFRM),MFRM
+11251489,WIKI,Geo Group Inc (The) (New) (GEO),GEO
+11098826,WIKI,Mavenir Systems Inc. (MVNR),MVNR
+11251490,WIKI,Getty Realty Corp. (GTY),GTY
+9775565,WIKI,Bank of America Corp. (BAC),BAC
+10975956,WIKI,Adtran Inc. (ADTN),ADTN
+11098837,WIKI,Maxim Integrated Products Inc. (MXIM),MXIM
+11098841,WIKI,MAXIMUS Inc. (MMS),MMS
+11098845,WIKI,MaxLinear (MXL),MXL
+11098848,WIKI,Maxwell Technologies Inc. (MXWL),MXWL
+11094480,WIKI,Consolidated Communications Holdings Inc (CNSL),CNSL
+11098859,WIKI,MB Financial Inc (MBFI),MBFI
+10975981,WIKI,Advance Auto Parts Inc (AAP),AAP
+11098863,WIKI,MBIA Inc. (MBI),MBI
+10984176,WIKI,American Public Education Inc. (APEI),APEI
+9775571,WIKI,Becton Dickinson & Co. (BDX),BDX
+11098869,WIKI,McClatchy Co. Cl A (MNI),MNI
+11098871,WIKI,McDermott International Inc. (MDR),MDR
+11123448,WIKI,Springleaf Holdings Inc. (LEAF),LEAF
+10984186,WIKI,American Railcar Industries Inc (ARII),ARII
+11098875,WIKI,MCG Capital Corp (MCGC),MCGC
+11098876,WIKI,McGrath Rent Corp. (MGRC),MGRC
+9775573,WIKI,Franklin Resources Inc. (BEN),BEN
+11123459,WIKI,Sprint Corporation (S),S
+11098885,WIKI,M.D.C. Holdings Inc. (MDC),MDC
+11098886,WIKI,MDC Partners Inc (MDCA),MDCA
+11098891,WIKI,MDU Resources Group Inc. (MDU),MDU
+11098895,WIKI,Meadowbrook Insurance Group Inc. (MIG),MIG
+11098896,WIKI,Measurement Specialties Inc.,MEAS
+11098902,WIKI,Medallion Financial Corp. (TAXI),TAXI
+9775577,WIKI,Bank of New York Mellon Corp (BK),BK
+11098904,WIKI,MedAssets Inc. (MDAS),MDAS
+9775578,WIKI,BlackRock Inc. (BLK),BLK
+33746736,WIKI,Untitled Dataset 2016-09-02 21:48:35,UA_C
+11098914,WIKI,Media General Inc. Cl A (MEG),MEG
+11131684,WIKI,Systemax Inc. (SYX),SYX
+11139881,WIKI,TiVo Inc. (TIVO),TIVO
+11074347,WIKI,BGC Partners Inc. (BGCP),BGCP
+11115310,WIKI,Pacific Continental Corp (PCBK),PCBK
+11098930,WIKI,Medical Action Industries Inc. (MDCI),MDCI
+11251507,WIKI,Hubbell Inc. (HUB_B),HUB_B
+11116665,WIKI,Ruckus Wireless (RKUS),RKUS
+9775583,WIKI,Berkshire Hathaway Inc. Cl B (BRK_B),BRK_B
+11115326,WIKI,Pacific Premier Bancorp Inc (PPBI),PPBI
+11251509,WIKI,Inland Real Estate Corp (IRC),IRC
+11123521,WIKI,SPS Commerce Inc. (SPSC),SPSC
+11098946,WIKI,Medicines Company (MDCO),MDCO
+11115332,WIKI,Pacific Sunwear of California Inc. (PSUN),PSUN
+11098950,WIKI,Medidata Solutions Inc. (MDSO),MDSO
+11098952,WIKI,Medifast Inc (MED),MED
+11115340,WIKI,Pacira Pharmaceuticals Inc. (PCRX),PCRX
+11115341,WIKI,Packaging Corp of America (PKG),PKG
+11115342,WIKI,PacWest Bancorp (PACW),PACW
+11115346,WIKI,Pain Therapeutics (PTIE),PTIE
+11098963,WIKI,Medivation Inc (MDVN),MDVN
+11098966,WIKI,Medley Capital Corp (MCC),MCC
+11098968,WIKI,Mednax (MD),MD
+27614041,WIKI,Synchrony Financial (SYF),SYF
+11115356,WIKI,Palmetto Bancshares Inc. (SC) (PLMT),PLMT
+11115357,WIKI,Palo Alto Networks (PANW),PANW
+9775589,WIKI,CA Technologies (CA),CA
+9775590,WIKI,ConAgra Foods Inc. (CAG),CAG
+11098986,WIKI,MEI Pharma Inc. (MEIP),MEIP
+11123567,WIKI,SPX Corp. (SPW),SPW
+9775592,WIKI,Cameron International Corp. (CAM),CAM
+11115382,WIKI,Pandora Media (P),P
+11098999,WIKI,Men's Wearhouse Inc. (The) (MW),MW
+11115384,WIKI,Panera Bread Company (PNRA),PNRA
+11107193,WIKI,Northern Oil And Gas (NOG),NOG
+11099002,WIKI,Mentor Graphics Corp (MENT),MENT
+11115387,WIKI,Panhandle Oil & Gas Inc (PHX),PHX
+11099008,WIKI,Mercantile Bank Corp. (MBWM),MBWM
+11115393,WIKI,Pantry Inc. (The) (PTRY),PTRY
+11115395,WIKI,Papa Johns International Inc. (PZZA),PZZA
+11099014,WIKI,Merchants Bancshares Inc. (Burlington VT) (MBVT),MBVT
+11099019,WIKI,Mercury General Corp. (MCY),MCY
+11099020,WIKI,Mercury Systems Inc (MRCY),MRCY
+11099021,WIKI,Meredith Corp (MDP),MDP
+11074447,WIKI,Big 5 Sporting Goods Corp (BGFV),BGFV
+11099027,WIKI,Meridian Bioscience Inc. (VIVO),VIVO
+10992534,WIKI,Auspex Pharmaceuticals Inc (ASPX),ASPX
+11099032,WIKI,Merit Medical Systems Inc. (MMSI),MMSI
+11099034,WIKI,Meritage Homes Corp. (MTH),MTH
+9775599,WIKI,Carnival Corp. Paired Ctf 1 Com Carnival Corp & 1 Tr Sh (CCL),CCL
+11099036,WIKI,Meritor (MTOR),MTOR
+11099039,WIKI,Merrimack Pharmaceuticals Inc. (MACK),MACK
+11115424,WIKI,Park City Group Inc  (PCYG),PCYG
+11115425,WIKI,Park Electrochemical Corp. (PKE),PKE
+11115426,WIKI,Park National Corp. (Newark OH) (PRK),PRK
+11146395,WIKI,Vishay Precision Group (VPG),VPG
+11115428,WIKI,Park Sterling Corp (PSTB),PSTB
+11099045,WIKI,Mesa Laboratories Inc. (MLAB),MLAB
+11115431,WIKI,Parker Drilling Co. (PKD),PKD
+11115432,WIKI,ParkerVision Inc. (PRKR),PRKR
+11099049,WIKI,Meta Financial Group Inc (CASH),CASH
+11131821,WIKI,T-Mobile US Inc (TMUS),TMUS
+10976176,WIKI,ADA-ES Inc (ADES),ADES
+11115441,WIKI,PartnerRe Ltd. (PRE),PRE
+9775603,WIKI,CareFusion Corporation (CFN),CFN
+11097246,WIKI,ICU Medical Inc. (ICUI),ICUI
+11074489,WIKI,Big Lots Inc. (BIG),BIG
+11099073,WIKI,Methode Electronics Inc. (MEI),MEI
+11131842,WIKI,TGC Industries Inc. (TGE),TGE
+10984389,WIKI,American Science & Engineering Inc (ASEI),ASEI
+9775671,WIKI,Eastman Chemical Co. (EMN),EMN
+9775607,WIKI,Cincinnati Financial Corp. (CINF),CINF
+11115468,WIKI,Patriot Transportation Holding, Inc. (PATR),PATR
+11115470,WIKI,Pattern Energy Group Inc (PEGI),PEGI
+11115471,WIKI,Patterson-UTI Energy Inc. (PTEN),PTEN
+11099088,WIKI,Mettler-Toledo International Inc. (MTD),MTD
+9775608,WIKI,Colgate-Palmolive Co. (CL),CL
+11115479,WIKI,PBF Energy Inc (PBF),PBF
+11099096,WIKI,MFC Industrial Ltd. (MIL),MIL
+11115481,WIKI,PC Connection Inc. (PCCC),PCCC
+10976219,WIKI,Advanced Energy Industries Inc. (AEIS),AEIS
+11099100,WIKI,MGE Energy Inc (MGEE),MGEE
+11099101,WIKI,MGIC Investment Corp. (MTG),MTG
+11099104,WIKI,MGM Resorts International (MGM),MGM
+11115489,WIKI,PDC Energy Inc. (PDCE),PDCE
+11115490,WIKI,PDF Solutions Inc. (PDFS),PDFS
+11115493,WIKI,PDL BioPharma Inc (PDLI),PDLI
+11115495,WIKI,Peapack-Gladstone Financial Corp. (PGC),PGC
+11099112,WIKI,Micrel Inc. (MCRL),MCRL
+11094525,WIKI,Cooper Cos. (COO),COO
+11115504,WIKI,Pegasystems Inc. (PEGA),PEGA
+11099125,WIKI,MICROS Systems, Inc. (MCRS),MCRS
+11099126,WIKI,Microsemi Corporation (MSCC),MSCC
+11115511,WIKI,Penford Corp. (PENX),PENX
+11099128,WIKI,MicroStrategy Incorporated (MSTR),MSTR
+11115515,WIKI,Penn National Gaming Inc. (PENN),PENN
+11115517,WIKI,Penn Virginia Corp. (PVA),PVA
+11099137,WIKI,Middleburg Financial Corp. (MBRG),MBRG
+11115522,WIKI,PennantPark Investment Corporation (PNNT),PNNT
+11099139,WIKI,Middleby Corp. (MIDD),MIDD
+11099141,WIKI,Middlesex Water Co. (MSEX),MSEX
+11115526,WIKI,PennyMac Financial Services (PFSI),PFSI
+11115527,WIKI,Penske Automotive Group Inc (PAG),PAG
+11099146,WIKI,MidSouth Bancorp Inc. (MSL),MSL
+11099147,WIKI,Midstates Petroleum Co Inc (MPO),MPO
+11099148,WIKI,Midway Gold Corp. (MDW),MDW
+9775618,WIKI,CONSOL Energy Inc (CNX),CNX
+11099151,WIKI,MidWestOne Financial Group Inc. (MOFG),MOFG
+11074577,WIKI,Biglari Holdings (BH),BH
+11115539,WIKI,Peoples Financial Services Corp (PFIS),PFIS
+11115544,WIKI,Pep Boys - Manny Moe & Jack (PBY),PBY
+11099162,WIKI,Millennial Media (MM),MM
+11099166,WIKI,Miller Energy Resources (MILL),MILL
+11115551,WIKI,Peregrine Semiconductor Corp (PSMI),PSMI
+11099168,WIKI,Miller Industries Inc. (TN) (MLR),MLR
+11146416,WIKI,Vitamin Shoppe (VSI),VSI
+11115555,WIKI,Perficient Inc. (PRFT),PRFT
+11099172,WIKI,MiMedx Group Inc (MDXG),MDXG
+11115557,WIKI,Performant Financial Corporation (PFMT),PFMT
+11115559,WIKI,Pericom Semiconductor Corp. (PSEM),PSEM
+11107368,WIKI,Northfield Bancorp Inc (DE) (NFBK),NFBK
+11115566,WIKI,Pernix Therapeutics Holdings Inc. (PTX),PTX
+11099183,WIKI,MSA Safety Inc (MSA),MSA
+11115570,WIKI,Perry Ellis International Inc. (PERY),PERY
+11099192,WIKI,Minerals Technologies Inc. (MTX),MTX
+11115579,WIKI,PetMed Express Inc (PETS),PETS
+9775626,WIKI,Campbell Soup Co. (CPB),CPB
+11099211,WIKI,Mirati Therapeutics Inc (MRTX),MRTX
+11131982,WIKI,Tableau Software (DATA),DATA
+11304017,WIKI,Alphabet Inc (GOOGL),GOOGL
+11074642,WIKI,Bill Barrett Corp. (BBG),BBG
+9775630,WIKI,CSX Corp (CSX),CSX
+11146033,WIKI,United Rentals Inc. (URI),URI
+10984535,WIKI,American Software Inc (AMSWA),AMSWA
+11099224,WIKI,Mistras Group (MG),MG
+11099228,WIKI,Mitcham Industries Inc. (MIND),MIND
+11095125,WIKI,DISH Network Corporation (DISH),DISH
+9775632,WIKI,CenturyLink Inc. (CTL),CTL
+11115623,WIKI,PGT Inc. (PGTI),PGTI
+11110674,WIKI,Ohr Pharmaceutical Inc. (OHRP),OHRP
+11115628,WIKI,Pharmacyclics Inc. (PCYC),PCYC
+11104104,WIKI,New Home Company Inc (NWHM),NWHM
+11115634,WIKI,PharMerica (PMC),PMC
+11099251,WIKI,MKS Instruments Inc. (MKSI),MKSI
+13693652,WIKI,Sportsman's Warehouse Holdings Inc. (SPWH),SPWH
+11115637,WIKI,PHH Corp. (PHH),PHH
+11115639,WIKI,PHI Inc. (PHIIK),PHIIK
+11115645,WIKI,Phoenix Cos. Inc. (PNX),PNX
+11099268,WIKI,Mobile Mini Inc. (MINI),MINI
+11115657,WIKI,PhotoMedex Inc. (PHMD),PHMD
+11115658,WIKI,Photronics Inc. (PLAB),PLAB
+11146434,WIKI,VMware Inc. (VMW),VMW
+11099278,WIKI,Model N Inc (MODN),MODN
+11251565,WIKI,PS Business Parks Inc (PSB),PSB
+11099281,WIKI,Modine Manufacturing Co. (MOD),MOD
+11115666,WIKI,PICO Holdings Inc. (PICO),PICO
+11099283,WIKI,ModusLink Global Solutions Inc. (MLNK),MLNK
+11115669,WIKI,Piedmont Natural Gas Co Inc (PNY),PNY
+11115670,WIKI,Pier 1 Imports Inc (PIR),PIR
+11115671,WIKI,Pike Corp (PIKE),PIKE
+11099288,WIKI,Molina Healthcare Inc. (MOH),MOH
+11115673,WIKI,Pilgrims Pride Corp. (PPC),PPC
+11251567,WIKI,RAIT Financial Trust (RAS),RAS
+11099292,WIKI,Molycorp (MCP),MCP
+11099293,WIKI,Momenta Pharmaceuticals Inc. (MNTA),MNTA
+10984609,WIKI,American States Water Co. (AWR),AWR
+11099298,WIKI,Monarch Casino & Resort Inc. (MCRI),MCRI
+11115690,WIKI,Pinnacle Entertainment Inc (PNK),PNK
+11115691,WIKI,Pinnacle Financial Partners Inc. (PNFP),PNFP
+11115692,WIKI,Pinnacle Foods Inc. (PF),PF
+11123887,WIKI,St. Joe Co. (JOE),JOE
+11115697,WIKI,Pioneer Energy Services (PES),PES
+11107511,WIKI,Northrim BancCorp Inc (NRIM),NRIM
+11146684,WIKI,Whiting Petroleum Corp. (WLL),WLL
+11145077,WIKI,Tronox Ltd (TROX),TROX
+11115719,WIKI,Planet Payment Inc. (PLPM),PLPM
+10992841,WIKI,Auxilium Pharmaceuticals Inc (AUXL),AUXL
+10984651,WIKI,American Superconductor Corp. (AMSC),AMSC
+11115724,WIKI,Plantronics Inc. (PLT),PLT
+11115736,WIKI,Platinum Underwriters Holdings Ltd. (PTP),PTP
+11142351,WIKI,Trans World Entertainment Corp. (TWMC),TWMC
+10992868,WIKI,A V Homes Inc. (AVHI),AVHI
+11115750,WIKI,Plexus Corp. (PLXS),PLXS
+11115752,WIKI,Plug Power Inc. (PLUG),PLUG
+9775655,WIKI,Dow Chemical Co. (DOW),DOW
+10976492,WIKI,Advanced Micro Devices Inc. (AMD),AMD
+11115757,WIKI,Ply Gem Holdings (PGEM),PGEM
+11115760,WIKI,PMC-Sierra Inc. (PMCS),PMCS
+11115761,WIKI,PMFG Inc. (PMFG),PMFG
+11115767,WIKI,PNM Resources Inc (PNM),PNM
+11099386,WIKI,Moneygram International Inc. (MGI),MGI
+10992895,WIKI,Avago Technologies Ltd (AVGO),AVGO
+11115781,WIKI,Polaris Industries Inc. (PII),PII
+9775660,WIKI,Duke Energy Corp (DUK),DUK
+11115789,WIKI,Polycom Inc.   (PLCM),PLCM
+9775661,WIKI,DaVita HealthCare Partners Inc (DVA),DVA
+11251473,WIKI,Fusion-io, Inc. (FIO),FIO
+11074833,WIKI,BIO-PATH HOLDINGS INC (BPTH),BPTH
+11074834,WIKI,Bio-Rad Laboratories Inc. Cl A (BIO),BIO
+11115795,WIKI,PolyOne Corp. (POL),POL
+11115796,WIKI,Polypore International Inc (PPO),PPO
+11115801,WIKI,Pool Corp (POOL),POOL
+11074842,WIKI,Bio-Reference Laboratories Inc. (BRLI),BRLI
+11115804,WIKI,Popeyes Louisiana Kitchen Inc (PLKI),PLKI
+11115806,WIKI,Popular Inc. (BPOP),BPOP
+11251589,WIKI,Senior Housing Properties Trust (SNH),SNH
+11115810,WIKI,PRA Group Inc (PRAA),PRAA
+11115812,WIKI,Portland General Electric Co. (POR),POR
+11074853,WIKI,BioCryst Pharmaceuticals Inc. (BCRX),BCRX
+11115815,WIKI,Portola Pharmaceuticals Inc. (PTLA),PTLA
+11251591,WIKI,Silver Bay Realty Trust Corp (SBY),SBY
+11107630,WIKI,Northwest Bancshares Inc. (MD) (NWBI),NWBI
+11251592,WIKI,SL Green Realty Corp. (SLG),SLG
+11115828,WIKI,Potbelly Corp (PBPB),PBPB
+11132215,WIKI,Take-Two Interactive Software Inc. (TTWO),TTWO
+10984760,WIKI,American Vanguard (AVD),AVD
+9775668,WIKI,Edison International (EIX),EIX
+11140410,WIKI,Toll Brothers Inc. (TOL),TOL
+11115839,WIKI,Power Integrations Inc. (POWI),POWI
+11115842,WIKI,Power Solutions International Inc. (PSIX),PSIX
+11115847,WIKI,PowerSecure International (POWR),POWR
+11251596,WIKI,Sovran Self Storage Inc. (SSS),SSS
+11099467,WIKI,Monolithic Power Systems Inc (MPWR),MPWR
+11099468,WIKI,Monotype Imaging Holdings Inc (TYPE),TYPE
+11074893,WIKI,BioDelivery Sciences International Inc. (BDSI),BDSI
+11115854,WIKI,Pozen Inc. (POZN),POZN
+10984793,WIKI,American Water Works Co Inc. (AWK),AWK
+11115870,WIKI,Preferred Bank (Los Angeles CA) (PFBC),PFBC
+11115871,WIKI,Preformed Line Products Co. (PLPC),PLPC
+11107690,WIKI,Northwest Biotherapeutics Inc. (NWBO),NWBO
+9775685,WIKI,Ford Motor Co. (DE) (F),F
+11124082,WIKI,Stage Stores Inc. (SSI),SSI
+11115892,WIKI,Premiere Global Services Inc (PGI),PGI
+10984823,WIKI,American Woodmark Corporation (AMWD),AMWD
+11115905,WIKI,Prestige Brands Holdings Inc. (PBH),PBH
+11132292,WIKI,Tal International Group Inc (TAL),TAL
+11115911,WIKI,PRGX Global Inc. (PRGX),PRGX
+11115913,WIKI,PriceSmart Inc (PSMT),PSMT
+13693589,WIKI,Quest Resource Holding Corp (QRHC),QRHC
+11251608,WIKI,Sunstone Hotel Investors Inc (SHO),SHO
+9775683,WIKI,Expeditors International of Washington Inc. (EXPD),EXPD
+11115928,WIKI,Primerica Inc. (PRI),PRI
+9775684,WIKI,Expedia Inc (EXPE),EXPE
+11107740,WIKI,Northwest Natural Gas Co. (NWN),NWN
+11107741,WIKI,Northwest Pipe Company (NWPX),NWPX
+11107743,WIKI,Northwestern Corp. (NWE),NWE
+11115944,WIKI,PrivateBancorp Inc. (PVTB),PVTB
+11107754,WIKI,Norwegian Cruise Line Holdings Ltd. (NCLH),NCLH
+11099564,WIKI,Monster Worldwide Inc. (MWW),MWW
+11115950,WIKI,ProAssurance Corp. (PRA),PRA
+11115953,WIKI,Procera Networks Inc. (PKT),PKT
+11099570,WIKI,Montpelier Re Holdings Ltd. (MRH),MRH
+11124147,WIKI,Stamps.com Inc. (STMP),STMP
+11115959,WIKI,PROFIRE ENERGY INC (PFIE),PFIE
+11115963,WIKI,Progenics Pharmaceuticals Inc. (PGNX),PGNX
+11133599,WIKI,Team Inc. (TISI),TISI
+11115965,WIKI,Progress Software Corporation (PRGS),PRGS
+10993088,WIKI,Avanir Pharmaceuticals Inc (AVNR),AVNR
+11115980,WIKI,Proofpoint Inc. (PFPT),PFPT
+10982648,WIKI,AMC Entertainment Holdings Inc. (AMC),AMC
+11140562,WIKI,Tompkins Financial Corp (TMP),TMP
+11115987,WIKI,Pros Holdings Inc. (PRO),PRO
+11124180,WIKI,StanCorp Financial Group Inc (SFG),SFG
+9775694,WIKI,Fiserv Inc. (FISV),FISV
+11115992,WIKI,Prospect Capital Corporation (PSEC),PSEC
+11115995,WIKI,Prosperity Bancshares Inc. (PB),PB
+11632097,WIKI,Navient Corp (NAVI),NAVI
+11116002,WIKI,Protective Life Corp. (PL),PL
+11116010,WIKI,Prothena Corporation plc (PRTA),PRTA
+11251623,WIKI,Urstadt Biddle Properties Inc. Cl A (UBA),UBA
+11099230,WIKI,Mitek Systems Inc. (MITK),MITK
+11116013,WIKI,Proto Labs Inc (PRLB),PRLB
+11132399,WIKI,Talmer Bancorp Inc (TLMR),TLMR
+11102803,WIKI,Nelnet Inc (NNI),NNI
+11116022,WIKI,Providence Service Corp (PRSC),PRSC
+11251443,WIKI,Foot Locker Inc. (FL),FL
+11116024,WIKI,Provident Financial Holdings Inc. (PROV),PROV
+11116026,WIKI,Provident Financial Services Inc (PFS),PFS
+10984966,WIKI,Ameris Bancorp (ABCB),ABCB
+11146497,WIKI,WageWorks Inc (WAGE),WAGE
+11116045,WIKI,PTC Therapeutics Inc. (PTCT),PTCT
+10984974,WIKI,Amerisafe Inc (AMSF),AMSF
+11099663,WIKI,Morgans Hotel Group Co. (MHGC),MHGC
+11116144,WIKI,Quality Systems Inc. (QSII),QSII
+11116064,WIKI,Puma Biotechnology Inc (PBYI),PBYI
+11116072,WIKI,Pure Cycle Corporation (PCYO),PCYO
+10984028,WIKI,American National Insurance Co. (Galveston TX) (ANAT),ANAT
+11146503,WIKI,Walker & Dunlop (WD),WD
+10976816,WIKI,Advent Software Inc. (ADVS),ADVS
+11075125,WIKI,Biolase Inc (BIOL),BIOL
+9775711,WIKI,Graham Holdings Co. (GHC),GHC
+11116095,WIKI,Pzena Investment Management Inc (PZN),PZN
+11136604,WIKI,TETRA Technologies (TTI),TTI
+11116099,WIKI,QAD Inc. (QADA),QADA
+10973110,WIKI,8x8 Inc (EGHT),EGHT
+11116107,WIKI,Qiagen N.V. (QGEN),QGEN
+9775714,WIKI,Corning Inc. (GLW),GLW
+11116111,WIKI,Qlik Technologies Inc. (QLIK),QLIK
+11116112,WIKI,QLogic Corporation (QLGC),QLGC
+11132499,WIKI,Taminco Corp (TAM),TAM
+11099734,WIKI,Morningstar Inc (MORN),MORN
+9775716,WIKI,GameStop Corp (GME),GME
+10985052,WIKI,Ames National Corp. (ATLO),ATLO
+11094629,WIKI,Covanta Holding Corp (CVA),CVA
+11116131,WIKI,Quad/Graphics Inc. (QUAD),QUAD
+11116137,WIKI,Quaker Chemical Corp. (KWR),KWR
+11145880,WIKI,21st  Century Fox Inc (FOX),FOX
+11116141,WIKI,Quality Distribution Inc. (QLTY),QLTY
+10976878,WIKI,Advisory Board Company (ABCO),ABCO
+10993264,WIKI,AVEO Pharmaceuticals Inc. (AVEO),AVEO
+11116147,WIKI,Qualys Inc. (QLYS),QLYS
+11116148,WIKI,Quanex Building Products Corp (NX),NX
+11116153,WIKI,Quantum Corp. (QTM),QTM
+11135594,WIKI,Tempur Sealy International (TPX),TPX
+11075201,WIKI,BioMarin Pharmaceutical Inc. (BMRN),BMRN
+11116481,WIKI,REX American Resources (REX),REX
+9775724,WIKI,Grainger (W.W.) Inc. (GWW),GWW
+11138327,WIKI,Threshold Pharmaceuticals Inc. (THLD),THLD
+11116174,WIKI,SPDR MSCI Europe Consumer Discretionary UCITS ETF (STR),STR
+11116175,WIKI,Questcor Pharmaceuticals, Inc. (QCOR),QCOR
+10993297,WIKI,AVG Technologies (AVG),AVG
+11116185,WIKI,QuickLogic Corporation (QUIK),QUIK
+11116186,WIKI,Quicksilver Resources Inc. (KWK),KWK
+11116188,WIKI,Quidel Corporation (QDEL),QDEL
+11116189,WIKI,Quiksilver Inc. (ZQK),ZQK
+10993311,WIKI,Aviat Networks Inc. (AVNW),AVNW
+11132577,WIKI,Tandem Diabetes Care Inc (TNDM),TNDM
+11116194,WIKI,Quintiles Transnational Holdings (Q),Q
+11099813,WIKI,Motorcar Parts  of America Inc. (MPAA),MPAA
+11146524,WIKI,Washington Banking Company (WBCO),WBCO
+11116203,WIKI,Rackspace Hosting (RAX),RAX
+11116208,WIKI,Radian Group Inc. (RDN),RDN
+10985138,WIKI,Amicus Therapeutics Inc. (FOLD),FOLD
+10976950,WIKI,AECOM (ACM),ACM
+11116215,WIKI,Radio One Inc. (ROIAK),ROIAK
+11116217,WIKI,RadioShack Corp. (RSH),RSH
+11116219,WIKI,RadiSys Corporation (RSYS),RSYS
+11116221,WIKI,RadNet Inc. (RDNT),RDNT
+11124415,WIKI,Standard Pacific Corp (SPF),SPF
+11096782,WIKI,HRG Group Inc (HRG),HRG
+9775734,WIKI,Hartford Financial Services Group Inc. (HIG),HIG
+10993350,WIKI,Avid Technology Inc. (AVID),AVID
+11146529,WIKI,Waste Connections Inc. (WCN),WCN
+11116240,WIKI,Rally Software Development Corp (RALY),RALY
+9775736,WIKI,Honeywell International Inc. (HON),HON
+11116245,WIKI,Rambus Inc. (RMBS),RMBS
+9775737,WIKI,Starwood Hotels & Resorts Worldwide Inc (HOT),HOT
+9775738,WIKI,Helmerich & Payne Inc. (HP),HP
+11117861,WIKI,Sizmek Inc (SZMK),SZMK
+9775739,WIKI,Hewlett-Packard Co (HPQ),HPQ
+9775740,WIKI,H&R Block Inc (HRB),HRB
+11116267,WIKI,Raptor Pharmaceutical Corp. (RPTP),RPTP
+10977008,WIKI,Aegerion Pharmaceuticals Inc. (AEGR),AEGR
+11093288,WIKI,Burger King Worldwide (BKW),BKW
+11116276,WIKI,Raven Industries Inc. (RAVN),RAVN
+11116277,WIKI,Raymond James Financial Inc. (RJF),RJF
+11116282,WIKI,RBC Bearings Inc (ROLL),ROLL
+11099899,WIKI,Movado Group Inc. (MOV),MOV
+11099900,WIKI,Move Inc. (MOVE),MOVE
+11116288,WIKI,RCS Capital Corp (RCAP),RCAP
+11116291,WIKI,Re/Max Holdings Inc (RMAX),RMAX
+11116293,WIKI,ReachLocal Inc. (RLOC),RLOC
+11116295,WIKI,Reading International Inc (RDI),RDI
+11121964,WIKI,SP Plus Corporation (SP),SP
+11116301,WIKI,RealD (RLD),RLD
+11116302,WIKI,RealNetworks Inc. (RNWK),RNWK
+11116303,WIKI,Realogy Holdings (RLGY),RLGY
+10985232,WIKI,Amkor Technology Inc. (AMKR),AMKR
+9775699,WIKI,FMC Corp. (FMC),FMC
+11124499,WIKI,Standex International Corp. (SXI),SXI
+11116308,WIKI,Receptos Inc. (RCPT),RCPT
+10993430,WIKI,Avis Budget Group Inc (CAR),CAR
+11116322,WIKI,Red Robin Gourmet Burgers Inc. (RRGB),RRGB
+10977061,WIKI,Aegion Corp (AEGN),AEGN
+10985266,WIKI,AMN Healthcare Services Inc. (AHS),AHS
+32228702,WIKI,Untitled Dataset 2016-05-03 21:49:19,SPGI
+11116349,WIKI,Regado BioSciences Inc (RGDO),RGDO
+11116351,WIKI,Regal Entertainment Group (RGC),RGC
+11116355,WIKI,Regal Beloit Corp (RBC),RBC
+11146551,WIKI,WCI Communities (WCIC),WCIC
+11116364,WIKI,Regional Management Corp (RM),RM
+11116365,WIKI,Regis Corp. (RGS),RGS
+11116369,WIKI,Regulus Therapeutics Inc. (RGLS),RGLS
+11116372,WIKI,Reinsurance Group of America Inc. (RGA),RGA
+11116374,WIKI,Reis Inc (REIS),REIS
+10993496,WIKI,Avista Corp. (AVA),AVA
+11116381,WIKI,Reliance Steel & Aluminum Co. (RS),RS
+11116387,WIKI,Relypsa Inc (RLYP),RLYP
+9775761,WIKI,Johnson Controls Inc (JCI),JCI
+11116395,WIKI,Remy International Inc (New) (REMY),REMY
+11321197,WIKI,Kilroy Realty Corp. (KRC),KRC
+11116398,WIKI,RenaissanceRe Holdings Ltd. (RNR),RNR
+11116399,WIKI,Renasant Corp (RNST),RNST
+11100017,WIKI,MRC Global (MRC),MRC
+9775763,WIKI,Johnson & Johnson (JNJ),JNJ
+11116406,WIKI,Renewable Energy Group Inc. (REGI),REGI
+10973161,WIKI,AAON Inc. (AAON),AAON
+11117887,WIKI,SJW Corp. (SJW),SJW
+14282730,WIKI,Biomed Realty Trust Inc (BMR),BMR
+11116416,WIKI,Rent-A-Center Inc. (RCII),RCII
+11116417,WIKI,Rentech Inc. (RTK),RTK
+11116418,WIKI,Rentrak Corp. (RENT),RENT
+14282731,WIKI,BRT Realty Trust (BRT),BRT
+11116423,WIKI,Repligen Corporation (RGEN),RGEN
+11108232,WIKI,Novavax Inc. (NVAX),NVAX
+11116425,WIKI,Repros Therapeutics Inc. (RPRX),RPRX
+11116427,WIKI,Republic Airways Holdings Inc. (RJET),RJET
+11116428,WIKI,Republic Bancorp Inc. (KY) (RBCAA),RBCAA
+11116429,WIKI,Republic First Bancorp Inc. (FRBK),FRBK
+11251441,WIKI,Flushing Financial Corp. (FFIC),FFIC
+11116438,WIKI,ResMed Inc. (RMD),RMD
+11116439,WIKI,Resolute Energy Corp. (REN),REN
+11116440,WIKI,Resolute Forest Products (RFP),RFP
+11075481,WIKI,BioScrip Inc. (BIOS),BIOS
+11116444,WIKI,Resource America Inc. (REXI),REXI
+10986858,WIKI,Annies Inc (BNNY),BNNY
+11116450,WIKI,Resources Connection Inc (RECN),RECN
+11116529,WIKI,Rite Aid Corp. (RAD),RAD
+11116457,WIKI,Restoration Hardware Holdings (RH),RH
+11116461,WIKI,RetailMeNot Inc. (SALE),SALE
+11116463,WIKI,RETROPHIN INC (RTRX),RTRX
+11116468,WIKI,Revance Therapeutics Inc (RVNC),RVNC
+11116474,WIKI,Revlon Inc. Cl A (REV),REV
+11116475,WIKI,Revolution Lighting Technologies Inc. (RVLT),RVLT
+11115168,WIKI,Pacific Biosciences of California Inc. (PACB),PACB
+11116482,WIKI,Rex Energy Corporation (REXX),REXX
+11146571,WIKI,Weight Watchers International Inc. (WTW),WTW
+11100102,WIKI,MSC Industrial Direct Co. Inc. (MSM),MSM
+11116487,WIKI,Rexnord (RXN),RXN
+11116489,WIKI,RF Micro Devices Inc. (RFMD),RFMD
+11100107,WIKI,MSCI Inc (MSCI),MSCI
+10985420,WIKI,Ampco-Pittsburgh Corp. (AP),AP
+9775778,WIKI,Kraft Foods Group, Inc. (KRFT),KRFT
+11124686,WIKI,Star Scientific, Inc. (STSI),STSI
+11116499,WIKI,Richardson Electronics Ltd (RELL),RELL
+10985430,WIKI,Ampio Pharmaceuticals Inc (AMPE),AMPE
+11075545,WIKI,BioSpecifics Technologies Corp. (BSTC),BSTC
+11116507,WIKI,Rigel Pharmaceuticals Inc. (RIGL),RIGL
+11116511,WIKI,RigNet Inc. (RNET),RNET
+11116514,WIKI,Ring Energy Inc (REI),REI
+11116515,WIKI,RingCentral (RNG),RNG
+9775782,WIKI,L Brands Inc (LB),LB
+11141094,WIKI,Tornier N.V. (TRNX),TRNX
+10993649,WIKI,Avnet Inc (AVT),AVT
+11116535,WIKI,Riverbed Technology Inc (RVBD),RVBD
+11075578,WIKI,CardioNet Inc. (BEAT),BEAT
