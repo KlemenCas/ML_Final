@@ -6,6 +6,7 @@ import random
 from math import exp
 import time as tm
 
+
 class db(object):
     t_stats=None
     t_ticker_symbols=None

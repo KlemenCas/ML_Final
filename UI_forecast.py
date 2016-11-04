@@ -5,6 +5,7 @@ from database import db
 from forecasts import forecast
 import Tkinter as tk
 
+
 class user_forecasts(object):    
     def __init__(self, top):
         if commons.demo_scenario:
