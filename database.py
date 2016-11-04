@@ -14,7 +14,7 @@ class db(object):
     t_ticker_ids=None
     ti_ticker_ids=dict()
     cl_forecasts=None
-    read_mode='r+'
+    read_mode='w'
     
     def __init__(self,forecasts,read_mode='r+'):     
         self.read_mode=read_mode
@@ -61,7 +61,7 @@ class db(object):
             
 
     def init_ticker_ids_table(self):
-        if self.read_mode=='w':        
+        if self.read_mode=='w':    
             try:
                 ticker_desc={'ticker':tables.StringCol(10),
                                      'id':tables.IntCol()}
@@ -76,12 +76,19 @@ class db(object):
             
 
     def init_q_table(self):
-        if self.read_mode=='w':        
+        if self.read_mode=='w': 
             try:
-                q_table_desc={'state':tables.Int64Col(),
+                self.db_main.remove_node('/', 'q_table')
+                print 'q_table table dropped.'            
+            except tables.exceptions.NoSuchNodeError:
+                print 'no q table to drop.'
+            try:
+                q_table_desc={'ticker':tables.IntCol(),
+                              'state':tables.IntCol(),
                               'action':tables.IntCol(),
                               'reward':tables.FloatCol()}
                 self.t_q=self.db_main.create_table('/','q_table',q_table_desc)
+                self.t_q.cols.ticker.create_index()
                 self.t_q.cols.state.create_index()
                 self.t_q.cols.action.create_index()
             except tables.exceptions.NodeError:
@@ -93,9 +100,15 @@ class db(object):
 
                 
     def init_q_log(self):
-        if self.read_mode=='w':          
+        if self.read_mode=='w':   
             try:
-                q_log_desc={'time':tables.TimeCol(),
+                self.db_main.remove_node('/', 'q_log')
+                print 'stats table dropped.'            
+            except tables.exceptions.NoSuchNodeError:
+                print 'no q_log to drop.'
+            try:
+                q_log_desc={'ticker':tables.StringCol(10),
+                            'time':tables.TimeCol(),
                             'state':tables.Int64Col(),
                             'action':tables.IntCol(),
                             'reward':tables.FloatCol()}
@@ -232,18 +245,20 @@ class db(object):
                 self.ti_ticker_ids[row[1]]=row[0]
         
     
-    def update_q_table(self,state,action,reward):
-        q_records=self.t_q.where('(state=='+str(self.cl_forecasts.get_q_key(state))+') & (action=='+str(action)+')')
+    def update_q_table(self,ticker,state,action,reward):
+        q_records=self.t_q.where('(ticker=='+str(self.ti_ticker_ids[ticker])+') & (state=='+str(self.cl_forecasts.get_q_key(state))+') & (action=='+str(action)+')')
         if any(q_records):
-            for row in self.t_q.where('(state=='+str(self.cl_forecasts.get_q_key(state))+') & (action=='+str(action)+')'):
+            for row in self.t_q.where('(ticker=='+str(self.ti_ticker_ids[ticker])+') & (state=='+str(self.cl_forecasts.get_q_key(state))+') & (action=='+str(action)+')'):
                 row['reward']=reward
                 row.update()
         else:
+            self.t_q.row['ticker']=self.ti_ticker_ids[ticker]
             self.t_q.row['state']=self.cl_forecasts.get_q_key(state)
             self.t_q.row['action']=action
             self.t_q.row['reward']=reward
             self.t_q.row.append()
             self.t_q.flush()
+        self.q_log.row['ticker']=ticker
         self.q_log.row['time']=tm.time()            
         self.q_log.row['state']=self.cl_forecasts.get_q_key(state)
         self.q_log.row['action']=action
@@ -252,41 +267,40 @@ class db(object):
         self.q_log.flush()
     
             
-    def get_max_q(self,state):
+    def get_max_q(self,ticker,state):
         max_action=''
         max_q=-1000
         x_random=False
-        q_records=self.t_q.read_where('(state=='+str(self.cl_forecasts.get_q_key(state))+')')
-        actions=[commons.action_code['sell'],commons.action_code['hold'],commons.action_code['buy']]
-        for row in q_records:
-            if row['reward']>max_q:
-                max_action=row['action']
-                max_q=row['reward']
-                actions.remove(row['action'])
+        q_records=self.t_q.read_where('(ticker=='+str(self.ti_ticker_ids[ticker])+') & (state=='+str(self.cl_forecasts.get_q_key(state))+')')
+        if any(q_records):
+            q_records_n=np.array(q_records,dtype=[('ticker',int),('state',int),('action',int),('reward',float)])
+            q_records_s=np.sort(q_records_n,order='reward')
+            max_action=q_records_s[-1]['action']
+            max_q=q_records_s[-1]['reward']
         if max_q==-1000:
             max_q=100
             max_action=random.choice([commons.action_code['sell'],commons.action_code['hold'],commons.action_code['buy']])
             x_random=True
         return max_q, max_action,x_random
         
-    def get_reward(self,state,action_code):
-        q_records=self.t_q.read_where('(state=='+str(self.cl_forecasts.get_q_key(state))+') & (action=='+str(action_code)+')')
+    def get_reward(self,ticker,state,action_code):
+        q_records=self.t_q.read_where('(ticker=='+str(self.ti_ticker_ids[ticker])+') & (state=='+str(self.cl_forecasts.get_q_key(state))+') & (action=='+str(action_code)+')')
         if any(q_records):
             for row in q_records:
                 return float(row['reward'])
         else:
             return 50.
             
-    def get_softmax_action(self,state,t):
+    def get_softmax_action(self,ticker,state,t):
         actions=[commons.action_code['sell'],commons.action_code['buy']]
 #commons.action_code['hold'],
         distr=np.array([])
         e_q_sum=0        
         for b in actions:
-            e_q_sum+=exp(self.get_reward(state,b)/t)
+            e_q_sum+=exp(self.get_reward(ticker,state,b)/t)
         for a in actions:
             e_q=0.
-            e_q=exp(self.get_reward(state,a)/t)
+            e_q=exp(self.get_reward(ticker,state,a)/t)
             distr_a=np.array([])
             for i in range(int(e_q/e_q_sum*100)):
                 distr_a=np.append(distr_a,a)

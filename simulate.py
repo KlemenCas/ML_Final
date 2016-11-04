@@ -32,7 +32,7 @@ temperature=.9
 
 m=stock_market()
 f=forecast()
-dba=db(f)
+dba=db(f,'r+')
 f.set_dba=dba
 alpha=.2
 gamma=.4
@@ -47,7 +47,6 @@ for k,v in commons.sp500_index.items():
     if enddate>max(m.index_composition[index_t].index):
         enddate=max(m.index_composition[index_t].index)
 enddate-=-dt.timedelta(days=1)    
-
 p=investments(initial_budget,m,commons.date_index_internal[startdate],dba)
         
 def play_for_a_day(idx_external,dix):
@@ -68,8 +67,8 @@ def play_for_a_day(idx_external,dix):
                 state[ticker]=new_state[ticker]
             except KeyError:
                 state[ticker]=f.get_forecast_state(dba.t_stats,ticker,dix)
-            proposed_action[ticker]=dba.get_softmax_action(state[ticker],temperature)
-            max_q_action=dba.get_max_q(state[ticker])
+            proposed_action[ticker]=dba.get_softmax_action(ticker,state[ticker],temperature)
+            max_q_action=dba.get_max_q(ticker,state[ticker])
             if max_q_action[2]==False and max_q_action[1]==proposed_action[ticker]:
                 random_action[ticker]=False
             else:
@@ -84,25 +83,20 @@ def play_for_a_day(idx_external,dix):
                             vol=p.portfolio[index_t][ticker]
                         else:
                             vol=1
-#                        reward[ticker]=p.execute_order(ticker,vol,next_dix,\
-#                                        f.get_order_price(dba,dba.ti_ticker_ids[ticker],f.get_q_key(state[ticker]),dix,proposed_action[ticker],m.get_closing_price(ticker,dix)),\
-#                                        proposed_action[ticker],m.get_closing_price(ticker,dix))
-#                        reward[ticker]=p.execute_order(ticker,vol,next_dix,\
-#                                        f.get_order_price(dba,dba.ti_ticker_ids[ticker],state[ticker],dix,proposed_action[ticker],m.get_closing_price(ticker,dix)),\
-#                                        proposed_action[ticker],m.get_closing_price(ticker,dix))
-                        reward[ticker]=p.execute_order(ticker,vol,next_dix,\
-                                        m.get_opening_price(ticker,next_dix),\
-                                        proposed_action[ticker],m.get_closing_price(ticker,dix))
-                        
-#                        reward[ticker]=f.recommendation_followed(state[ticker],proposed_action[ticker],reward[ticker])
+                        opening_price=m.get_opening_price(ticker,next_dix)
+                        forecast_price=f.get_order_price(dba,dba.ti_ticker_ids[ticker],state[ticker],dix,proposed_action[ticker],m.get_closing_price(ticker,dix))
+
+                        if opening_price>forecast_price:
+                            reward[ticker]=p.execute_order(ticker,vol,next_dix,opening_price,proposed_action[ticker],m.get_closing_price(ticker,dix))
+                        else:
+                            reward[ticker]=p.execute_order(ticker,vol,next_dix,forecast_price,proposed_action[ticker],m.get_closing_price(ticker,dix))
+
                 except KeyError:
                     p.portfolio[index_t][ticker]=0
                     print 'New Ticker: ', ticker
     
     #buy, but only after everythin has been sold        
             if proposed_action[ticker]==commons.action_code['buy']:
-#                order_entry[ticker]=f.get_order_price(dba,dba.ti_ticker_ids[ticker],f.get_q_key(state[ticker]),dix,proposed_action[ticker],m.get_closing_price(ticker,dix))
-#                order_entry[ticker]=f.get_order_price(dba,dba.ti_ticker_ids[ticker],state[ticker],dix,proposed_action[ticker],m.get_closing_price(ticker,dix))
                 order_entry[ticker]=m.get_opening_price(ticker,next_dix)
                 
     buying_list=p.align_buying_list(order_entry,dix)
@@ -112,13 +106,12 @@ def play_for_a_day(idx_external,dix):
                 vol=volume
             else:
                 vol=1            
-#            reward[ticker]=p.execute_order(ticker,vol,next_dix,\
-#                            f.get_order_price(dba,dba.ti_ticker_ids[ticker],f.get_q_key(state[ticker]),dix,commons.action_code['buy'],m.get_closing_price(ticker,dix)),\
-#                            commons.action_code['buy'],m.get_closing_price(ticker,dix))
-            reward[ticker]=p.execute_order(ticker,vol,next_dix,\
-                            m.get_opening_price(ticker,next_dix),\
-                            commons.action_code['buy'],m.get_closing_price(ticker,dix))            
-#            reward[ticker]=f.recommendation_followed(state[ticker],proposed_action[ticker],reward[ticker])            
+            opening_price=m.get_opening_price(ticker,next_dix)
+            forecast_price=f.get_order_price(dba,dba.ti_ticker_ids[ticker],state[ticker],dix,commons.action_code['buy'],m.get_closing_price(ticker,dix))
+            if opening_price<forecast_price:
+                reward[ticker]=p.execute_order(ticker,vol,next_dix,opening_price,commons.action_code['buy'],m.get_closing_price(ticker,dix))
+            else:
+                reward[ticker]=p.execute_order(ticker,vol,next_dix,forecast_price,commons.action_code['buy'],m.get_closing_price(ticker,dix))
     
 #on the way to the next q
     dix+=1
@@ -128,9 +121,9 @@ def play_for_a_day(idx_external,dix):
             new_state[ticker]=f.get_forecast_state(dba.t_stats,ticker,dix)
             try:
                 if reward[ticker]!=9999:
-                    newQ=dba.get_reward(state[ticker],proposed_action[ticker])+\
-                            alpha*(reward[ticker]+gamma*dba.get_max_q(new_state[ticker])[0]-dba.get_reward(state[ticker],proposed_action[ticker]))
-                    dba.update_q_table(state[ticker],proposed_action[ticker],newQ)
+                    newQ=dba.get_reward(ticker,state[ticker],proposed_action[ticker])+\
+                            alpha*(reward[ticker]+gamma*dba.get_max_q(ticker,new_state[ticker])[0]-dba.get_reward(ticker,state[ticker],proposed_action[ticker]))
+                    dba.update_q_table(ticker,state[ticker],proposed_action[ticker],newQ)
             except KeyError:
                 p.portfolio[index_t][ticker]=0
                 print 'Date:',dix,' New Ticker:',ticker
@@ -141,10 +134,10 @@ for d in pd.date_range(startdate,enddate):
     if d in m.data_sp500.index:
         if d!=startdate:
             m.align_index_portfolio(commons.date_index_internal[d])
-        p.log_portfolio(commons.date_index_internal[d])
-        m.log_portfolio(commons.date_index_internal[d])
         for k,v in commons.sp500_index.items():
-            index_t=v[-10:-2]           
+            index_t=v[-10:-2]   
+            p.log_portfolio(commons.date_index_internal[d],index_t)
+            m.log_portfolio(commons.date_index_internal[d],index_t)
             play_for_a_day(k,commons.date_index_internal[d])
         for k,v in commons.sp500_index.items():
             print 'Date: ', d, ' Index: ', v[-10:-2], 'Portfolio: ',\

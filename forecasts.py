@@ -84,24 +84,24 @@ class forecast(object):
         model1,model2,generic_model='','',''
         pca,generic_pca=0,0
         models=t_stats.read_where('(ticker=='+"'"+str(ticker)+"')"+' & (kpi=='+"'"+str(label)+"')")
-        accuracy=0
+        ticker_accuracy=0
         for row in models:
-            if row['accuracy']>accuracy:
-                accuracy=row['accuracy']
+            if row['accuracy']>ticker_accuracy:
+                ticker_accuracy=row['accuracy']
                 model1=str(row['pca'])+'_'+row['model']+'_'+ticker+'_'+label
                 model2=row['model']+'_'+ticker+'_'+label
                 pca=row['pca']
 
 
         models=t_stats.read_where('(ticker=='+"'"+commons.sp500_index[str(commons.sp500_ticker[ticker])][-10:-2]+"')"+' & (kpi=='+"'"+str(label)+"')")
-        accuracy=0
+        general_accuracy=0
         for row in models:
-            if row['accuracy']>accuracy:
-                accuracy=row['accuracy']
+            if row['accuracy']>general_accuracy:
+                general_accuracy=row['accuracy']
                 generic_model=str(row['pca'])+'generic_'+row['model']+'_'+commons.sp500_index[commons.sp500_ticker[ticker]][-10:-2]+label
                 generic_pca=row['pca']
 
-        return model1, model2, generic_model,pca,generic_pca
+        return model1, model2, generic_model,pca,generic_pca,round(ticker_accuracy,2),round(general_accuracy,2)
         
     def get_q_key(self,state):
         q_key=1
