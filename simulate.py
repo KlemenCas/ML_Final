@@ -46,7 +46,7 @@ for k,v in commons.sp500_index.items():
         startdate=min(m.index_composition[index_t].index)
     if enddate>max(m.index_composition[index_t].index):
         enddate=max(m.index_composition[index_t].index)
-enddate-=dt.timedelta(days=1)
+enddate-=-dt.timedelta(days=1)    
 p=investments(initial_budget,m,commons.date_index_internal[startdate],dba)
         
 def play_for_a_day(idx_external,dix):

@@ -40,7 +40,7 @@ class cl_get_delta(object):
             self.mGui.title('Progress')
             mpb = tt.Progressbar(self.mGui,orient ="horizontal",length = 700, mode ="determinate",variable='i')
             mpb.pack()
-            mpb["maximum"] = 13
+            mpb["maximum"] = 14
             mpb.update()
             tm.sleep(5)
             
@@ -122,6 +122,19 @@ class cl_get_delta(object):
         
             mlb["text"]='Refreshing index composition.'    
             mlb.update()
+            mpb["value"]=13
+            mpb.update()        
+            dba.get_index_composition()
+
+            mlb["text"]='Done. Closing in 3 sec.'    
+            mlb.update()
+            tm.sleep(1)
+            mlb["text"]='Done. Closing in 2 sec.'    
+            mlb.update()
+            tm.sleep(1)
+            mlb["text"]='Done. Closing in 1 sec.'    
+            mlb.update()
+            tm.sleep(1)
             mpb["value"]=13
             mpb.update()        
             dba.get_index_composition()

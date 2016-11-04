@@ -864,7 +864,7 @@ class mydata(object):
             vars()[index]=pd.DataFrame()
         
         for d in self.data_sp500.index:
-            if d>=startdate:
+            if d>=startdate and d<=max(self.data_sp500_marketcap.index):
                 for k,v in self.sp500_composition.items():
                     index=self.sp500_index[k][-10:-2]    
                     cum_marketcap=0
