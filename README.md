@@ -1,5 +1,5 @@
 **DEMO**
-In demo mode only data to the SP500 sector 'Telecommunications Services' will be loaded and processed. Demo flag is being set in commons.py - see variable _demo_scenario_
+In demo mode only data to the SP500 sector 'Telecommunications Services' will be loaded and processed. Demo flag is being set in commons.py - see variable _demo_scenario_. Otherwise all stock symbols will be processed (500 stocks!), and it will take a long time...
 
 **Data Retrieval:**
 
