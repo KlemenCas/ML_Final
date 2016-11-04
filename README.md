@@ -9,4 +9,4 @@ In demo mode only data to the SP500 sector 'Telecommunications Services' will be
 
 
 **Training:**
-For training please run _train.py_. Note!: the l_pca needs to be set to the dimension reduction that you want to train. Currently it's set to 0 (= no reduction)
+For training please run _train.py_. Note!: the l_pca in the method _train()_ needs to be set to the dimension reduction that you want to train. Currently it's set to 0 (= no reduction)
