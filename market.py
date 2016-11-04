@@ -94,10 +94,11 @@ class stock_market(object):
         self.portfolio[index_t]=portfolio
         self.portfolio_log[index_t]=pd.DataFrame()
         
-    def log_portfolio(self,dix):
+    def log_portfolio(self,dix,index_t):
         for k,v in self.portfolio.items():
-            p_log=pd.DataFrame()
-            for ticker,volume in v.items():
-                p_log.ix[commons.date_index_external[dix],ticker]=volume
-            self.portfolio_log[k]=self.portfolio_log[k].append(p_log)
-            self.portfolio_log[k].to_hdf(commons.local_path+'data/Index_Portfolio_'+k+'.h5','table',mode='w')        
+            if k==index_t:
+                p_log=pd.DataFrame()
+                for ticker,volume in v.items():
+                    p_log.ix[commons.date_index_external[dix],ticker]=volume
+                self.portfolio_log[k]=self.portfolio_log[k].append(p_log)
+                self.portfolio_log[k].to_hdf(commons.local_path+'data/Index_Portfolio_'+k+'.h5','table',mode='w')        

@@ -8,26 +8,21 @@ import csv
 import datetime as dt
 from sklearn.preprocessing import MinMaxScaler
 
-class mydata(object): 
-    Quandl.ApiConfig.api_key='QWQMKc-NYsoYgtfadPZs'    
-    
+class mydata(object):   
+    Quandl.ApiConfig.api_key=''      
     sp500_composition=dict()
     sp500_ticker=dict()
     sp500_index=dict()
-
     data_sp500=pd.DataFrame()
     data_sp500_prices=pd.DataFrame()
     data_sp500_1st_date={}
     data_sp500_index=pd.DataFrame()
     data_sp500_fundamentals=pd.DataFrame()
     data_sp500_short_sell=pd.DataFrame()
-    data_sp500_sentiment=pd.DataFrame()
-    
-    data_last_calloff=pd.DataFrame()
-    
+    data_sp500_sentiment=pd.DataFrame()    
+    data_last_calloff=pd.DataFrame()    
     ticker,ticker_open,ticker_high,ticker_low,ticker_close,ticker_volume=\
     pd.DataFrame(),pd.DataFrame(),pd.DataFrame(),pd.DataFrame(),pd.DataFrame(),pd.DataFrame()
-
     data_sp500_1dr=pd.DataFrame()
     data_sp500_5dr=pd.DataFrame()
     data_sp500_20dr=pd.DataFrame()
@@ -45,25 +40,24 @@ class mydata(object):
     data_sp500_1er=pd.DataFrame()
     data_sp500_2er=pd.DataFrame()
     data_sp500_5er=pd.DataFrame()
-    
-    
+    data_sp500_marketcap=pd.DataFrame()        
     sp500_new,sp500_obsolete=list([]),list([])
-
-    last_date=dt.datetime.today()
-    
+    last_date=dt.datetime.today()    
     reload_baseline=False
     refresh_data=False
     demo_scenario=True
 
         
         
-    def __init__(self,refresh_data=False,reload_baseline=False,demo_scenario=True):    
+    def __init__(self,refresh_data=False,reload_baseline=False,demo_scenario=True,quandlkey=''):    
+        Quandl.ApiConfig.api_key=quandlkey
         self.demo_scenario=demo_scenario
         self.refresh_data=refresh_data
         self.local_path=commons.local_path 
         self.data_sp500_1st_date=commons.data_sp500_1st_date
         
-        
+
+#index composition and stock symbols from WIKI        
     def get_sp500_list(self):
         if self.refresh_data==True:
             hdr = {'User-Agent': 'Mozilla/5.0'}
@@ -106,13 +100,11 @@ class mydata(object):
 
 
 
-        
+
+#note; in demo scenario the system will only retrieve SP500_50        
     def init_sp500_ticker(self):
         self.get_sp500_list()
         self.sp500_index=commons.sp500_index
-        if self.refresh_data==True:
-            self.check_changes_sp500_composition()
-            
         if self.demo_scenario:
             self.sp500_index=dict()
             self.sp500_index['Telecommunications Services']='GOOG/INDEXSP_SP500_50TR'
@@ -126,8 +118,12 @@ class mydata(object):
                 demo_ticker[symbol]='Telecommunications Services'
             self.sp500_ticker=demo_ticker            
 
+        if self.refresh_data==True:
+            self.check_changes_sp500_composition()
+            
+
         
-        
+#this is the initial update from the bulk download from quandl. needs to be done only 1x        
     def process_quandl_csv(self):
         #upload and process local csv
         wiki=pd.read_csv(self.local_path+'data/WIKI.csv',header=None, index_col=['Ticker','Date'],\
@@ -151,12 +147,16 @@ class mydata(object):
 
 
 
-        
-    def get_quandl_index(self,startdate=commons.max_date,enddate=commons.end_date):
+#load index prices
+    def get_quandl_index(self):
         self.data_sp500_index=commons.read_dataframe(self.local_path+'data/SP500_index_data.h5')   
-        enddate=max(self.data_sp500_index.index)
+        enddate=commons.end_date
+        try:
+            startdate=max(self.data_sp500_index.index)
+        except ValueError:
+            startdate=commons.end_date-dt.timedelta(days=1825)
         if startdate!=enddate and self.refresh_data==True:
-            self.data_sp500_index=pd.read_hdf(self.local_path+'data/SP500_index_data.h5','table',mode='r')
+            self.data_sp500_index=commons.read_dataframe(self.local_path+'data/SP500_index_data.h5')
             for k,v in self.sp500_index.items():
                 df=pd.DataFrame([])
                 df=Quandl.get(v,start_date=startdate,end_date=enddate)
@@ -175,10 +175,10 @@ class mydata(object):
 
 
 
-
+#load stock prices
     def refresh_wiki_sp500(self):
         #get local data
-        self.data_sp500=commons.read_dataframe(self.local_path+'data/WIKI_SP500.h5','table')
+        self.data_sp500=commons.read_dataframe(self.local_path+'data/WIKI_SP500.h5')
 
         #has the sp500 composition changed?
         if self.sp500_new!=list([]) or self.sp500_obsolete!=list([]):
@@ -237,14 +237,15 @@ class mydata(object):
             self.data_sp500.to_hdf(self.local_path+'data/WIKI_SP500.h5','table',mode='w')
             print 'sp500 data refreshed'
 
+#load fundamentals            
     def get_fundamentals(self):
-        self.data_sp500_fundamentals=pd.read_hdf(self.local_path+'data/FUND_SP500.h5','table')
-        self.data_last_calloff=pd.read_hdf(self.local_path+'data/last_calloff.h5','table')        
+        self.data_sp500_fundamentals=commons.read_dataframe(self.local_path+'data/FUND_SP500.h5')
+        self.data_last_calloff=commons.read_dataframe(self.local_path+'data/last_calloff.h5')        
         
         if self.refresh_data==True:
             #get fundamentals
             if self.data_sp500_fundamentals.empty==True:
-                max_date=dt.datetime.today()-dt.timedelta(days=1825)
+                max_date=commons.end_date-dt.timedelta(days=1825)
             else:
                 max_date=max(list(self.data_last_calloff.query('fundamentals > 0').index))
                 
@@ -256,7 +257,7 @@ class mydata(object):
                     for k,v in self.sp500_ticker.items():
                         items.append('SF0/'+str(k)+str(fund))
                     df=pd.DataFrame([])
-                    df=Quandl.get(items,start_date=max_date+dt.timedelta(days=1),end_date=dt.date.today())
+                    df=Quandl.get(items,start_date=max_date-dt.timedelta(days=1),end_date=dt.date.today())
                     columns=list([])
                     for x in df.columns:
                         x=str(x).replace(' - ', '_').strip('SF0').strip('/').strip('_Value')
@@ -270,7 +271,9 @@ class mydata(object):
                 self.data_last_calloff.ix[dt.datetime.today(),'fundamentals']=1
                 self.data_last_calloff.to_hdf(self.local_path+'data/last_calloff.h5','table',mode='w')             
                 print 'Fundamentals data refreshed'
-    
+                df=pd.DataFrame(index=pd.date_range(start=min(self.data_sp500_fundamentals.index),end=max(list(self.data_last_calloff.query('fundamentals > 0').index))))
+                self.data_sp500_fundamentals=self.data_sp500_fundamentals.join(df,how='outer')   
+                
             else:                
                 df=pd.DataFrame(index=pd.date_range(start=min(self.data_sp500_fundamentals.index),end=max(list(self.data_last_calloff.query('fundamentals > 0').index))))
                 self.data_sp500_fundamentals=self.data_sp500_fundamentals.join(df,how='outer')
@@ -278,31 +281,20 @@ class mydata(object):
 
 #fill up and clean up
         if self.data_sp500_fundamentals.empty!=True:
-            missing_data=list([])
-            missing_index=list([])
-            for d in pd.date_range(start=min(self.data_sp500_1st_date.itervalues()),end=max(list(self.data_last_calloff.query('fundamentals > 0').index))):
-                if (d not in self.data_sp500_fundamentals.index) and (d in self.data_sp500.index):
-                    missing_index.append(d)
-                    missing_data.append(np.NaN)
-            missing_data=np.array(missing_data)
-            df=pd.DataFrame(data=missing_data.reshape(-1,1),index=missing_index,columns=['bla'])
-            self.data_sp500_fundamentals=self.data_sp500_fundamentals.join(df,how='outer')
-            self.data_sp500_fundamentals=self.data_sp500_fundamentals.drop('bla',1)
             self.data_sp500_fundamentals=self.data_sp500_fundamentals.sort_index()
             #drop non trade days
             for k in self.data_sp500_fundamentals.index:
                 if k not in self.data_sp500_index.index:
                     self.data_sp500_fundamentals.drop(k,inplace=True)                
              
-    
+#load short selling    
     def get_short_sell(self):
-        self.data_sp500_short_sell=pd.read_hdf(self.local_path+'data/SHORT_SP500.h5','table')
-        max_date=max(self.data_sp500_short_sell.index)
+        self.data_sp500_short_sell=commons.read_dataframe(self.local_path+'data/SHORT_SP500.h5')
 
         if self.refresh_data==True:        
             #get short sell
             if self.data_sp500_short_sell.empty==True:
-                max_date=dt.datetime.today()-dt.timedelta(days=1825)
+                max_date=commons.end_date-dt.timedelta(days=1825)
             else:
                 max_date=max(self.data_sp500_short_sell.index)
 
@@ -327,18 +319,18 @@ class mydata(object):
                 print 'Short sell data refreshed'
             else:
                 print 'No new short sell data to collect'   
-                
-    def get_sentiment(self):
-        self.data_sp500_sentiment=pd.read_hdf(self.local_path+'data/SENT_SP500.h5','table')
 
+#load sentiment                
+    def get_sentiment(self):
+        self.data_sp500_sentiment=commons.read_dataframe(self.local_path+'data/SENT_SP500.h5')
         if self.refresh_data==True:                  
             #get sentiment
             if self.data_sp500_sentiment.empty==True:
-                max_date=dt.datetime.today()-dt.timedelta(days=1825)
+                max_date=commons.end_date-dt.timedelta(days=1825)
             else:
                 max_date=max(self.data_sp500_sentiment.index)
                 
-            if max_date<dt.datetime.strptime(dt.datetime.today().strftime("%Y-%m-%d"),'%Y-%m-%d'):               
+            if max_date<commons.end_date:               
                 df=pd.DataFrame([])
                 df=Quandl.get('AAII/AAII_SENTIMENT',start_date=max_date+dt.timedelta(days=1),end_date=dt.date.today())
                 for i in df.index:
@@ -351,17 +343,18 @@ class mydata(object):
                 print 'No new sentiment data to collect'                   
 
 
-
-            
+#this is not really needed as we have no historical records to index composition. If we had them,
+#this method would deliver the deltas            
     def check_changes_sp500_composition(self):
         with open(self.local_path+'data/WIKI.csv','r') as csvfile:
             old_sp500=list([])
             csvreader=csv.reader(csvfile, delimiter=',')
             for row in csvreader:
-                a=self.sp500_ticker.get(row[0],'nok')
-                if a=='nok':
-                    self.sp500_obsolete.append(row[0])
-                old_sp500.append(row[0])
+                if self.demo_scenario and row[1]=='Telecommunications Services':
+                    a=self.sp500_ticker.get(row[0],'nok')
+                    if a=='nok':
+                        self.sp500_obsolete.append(row[0])
+                    old_sp500.append(row[0])
             csvfile.close()
          
         for i in old_sp500:
@@ -386,13 +379,22 @@ class mydata(object):
 
 
 
-            
+#index to a ticker            
     def get_sp_sector(self,ticker):
         return self.sp500_index[str(self.sp500_ticker[ticker])]
                                 
 
-
+#NaN treatment
     def sp500_fillna(self):
+        self.data_sp500=self.data_sp500.sort_index()
+        self.data_sp500_fundamentals=self.data_sp500_fundamentals.sort_index()
+        self.data_sp500_short_sell=self.data_sp500_short_sell.sort_index()
+        self.data_sp500_sentiment=self.data_sp500_sentiment.sort_index()
+        self.data_sp500_index=self.data_sp500_index.sort_index()
+        self.data_last_calloff=self.data_last_calloff.sort_index()
+        self.data_sp500_anb=self.data_sp500_anb.sort_index()
+
+        
         self.data_sp500=self.data_sp500.fillna(method='backfill')
         self.data_sp500_fundamentals=self.data_sp500_fundamentals.fillna(method='backfill')
         self.data_sp500_short_sell=self.data_sp500_short_sell.fillna(method='backfill')
@@ -411,7 +413,7 @@ class mydata(object):
         print 'FillNa on source data performed.'
         
 
-
+#calculate features and labels
     def calc_indicators(self):        
         #select columns with low, high, open and close
         column_selection=list([])
@@ -419,7 +421,6 @@ class mydata(object):
             if c[-4:] in ['Open', 'lose', 'High', '_Low']:
                 column_selection.append(c)
         self.data_sp500_prices=self.data_sp500.ix[:,column_selection]
-        self.data_sp500=pd.DataFrame()
 
         #test=self.calc_sector_beta('SPG',dt.date(2015,9,1),dt.date(2016,9,1))
         
@@ -546,7 +547,7 @@ class mydata(object):
             
 
 
-            
+#data to a stock and to the corresponding sector. Note; these are always adjusted prices (see method self.reset_data_sp500_columns())            
     def get_adj_data(self,ticker,bucket,startdate,enddate):
         if bucket=='stock':
             stock_column=list([str(ticker)+'_Open',str(ticker)+'_High',str(ticker)+'_Low',str(ticker)+'_Close'])
@@ -560,7 +561,7 @@ class mydata(object):
         return df
         
         
-        
+#individual alpha and beta, compared to the industry
     def calc_sector_beta(self,ticker,startdate,enddate):
         #collect data
         stock_df=self.get_adj_data(ticker,'stock',startdate,enddate)
@@ -584,8 +585,14 @@ class mydata(object):
         return anb        
         
         
-        
+#alphas and betas, calls self.calc_sector_beta()
     def calc_sector_betas(self,ticker):
+        column_selection=list([])
+        for c in self.data_sp500.columns:
+            if c[-4:] in ['Open', 'lose', 'High', '_Low']:
+                column_selection.append(c)
+        self.data_sp500_prices=self.data_sp500.ix[:,column_selection]
+        
         if ticker!='all':
             anb={}            
             min_date=self.data_sp500_1st_date[ticker]
@@ -610,7 +617,7 @@ class mydata(object):
                         self.data_sp500_anb.ix[i,x]=y
             print 'Alpha and beta for:',ticker,' calculated.'
         else:            
-            self.data_sp500_anb=pd.read_hdf(self.local_path+'data/anb.h5','table')
+            self.data_sp500_anb=commons.read_dataframe(self.local_path+'data/anb.h5')
             
             if self.refresh_data==True and commons.end_date!=max(self.data_sp500_anb.index):
                 max_date=max(self.data_sp500_anb.index)
@@ -618,7 +625,6 @@ class mydata(object):
                     if k not in self.data_sp500_index.index:
                         self.data_sp500_anb.drop(k,inplace=True)  
                         
-                l_i=500
                 for k,v in self.sp500_ticker.items():
                     min_date=self.data_sp500_1st_date[k]
                     startdate=max_date-dt.timedelta(days=365)
@@ -634,8 +640,6 @@ class mydata(object):
                                     self.data_sp500_anb.ix[enddate,x]=y
                         startdate+=dt.timedelta(days=1)
                         enddate+=dt.timedelta(days=1)
-                    l_i-=1
-                    print 'Alpha and beta for:',k,' calculated; ',str(l_i),' to go.'
                 self.data_sp500_anb.to_hdf(self.local_path+'data/anb.h5','table',mode='w')
                 print 'Alpha and Beta have been calculated and stored locally'
             else:
@@ -646,7 +650,7 @@ class mydata(object):
                 print 'Local Alpha and Beta loaded. Refresh==False'  
             
 
-
+#NaN treatment for alpha and beta; this was a fix to corrupt data
     def correct_nan_anb(self):
         for k,v in self.sp500_ticker.items():        
             df1=self.data_sp500_anb.ix[dt.date(2016,10,7),['B_'+str(k)+'_Open']]                                       
@@ -654,7 +658,9 @@ class mydata(object):
                 print 'Correcting '+str(k)
                 self.calc_sector_betas(k)
         self.data_sp500_anb.to_hdf(self.local_path+'data/anb.h5','table',mode='w')
-            
+
+        
+#rename adjusted columns            
     def reset_data_sp500_columns(self):
         columns=self.data_sp500.columns
         new_columns=list([])
@@ -662,7 +668,8 @@ class mydata(object):
             new_columns.append(c.replace('Adj. ',''))
         self.data_sp500.columns=new_columns
 
-            
+        
+#needed to know from when onwards stats can be calculated and forecasts can be made. 1st date with known prices
     def calc_sp500_1st_date(self):
         if self.reload_baseline==True:
             for k,v in self.sp500_ticker.items():
@@ -674,7 +681,7 @@ class mydata(object):
                 csvfile.close()
             print '1st dates recorded'
 
-
+#minmax scaler
     def minmaxscale(self,df):
         min_max_scaler = MinMaxScaler()
         if len(getattr(self,df).index)>0:
@@ -683,7 +690,8 @@ class mydata(object):
                                                        columns=getattr(self,df).columns)            
         else:
             print 'No data for '+str(df)
-            
+
+#small stuff for dymamics            
     def p_direction(self,df):
         df[df>0]=1
         return df
@@ -693,7 +701,7 @@ class mydata(object):
         return df
 
 
-
+#for the assembly of Xy
     def calc_fundamentals(self,ticker,indicator):
         for k,v in self.sp500_index.items():
             columns=list([])
@@ -708,7 +716,7 @@ class mydata(object):
         return ret
         
                 
-            
+#the actual assembly            
     def assemble_xy(self, ticker):
         df=pd.DataFrame()
         min_max_scaler = MinMaxScaler()        
@@ -790,9 +798,85 @@ class mydata(object):
         df=df.fillna(value=0)        
 
         return df
-        
+
+#from calculations to dates where there was no trading        
     def drop_obsolete_anb(self):
         for k in self.data_sp500_anb.index:
             if k not in self.data_sp500_index.index:
                 self.data_sp500_anb.drop(k,inplace=True)
         self.data_sp500_anb.to_hdf(self.local_path+'data/anb.h5','table',mode='w')
+
+#get market cap for index composition        
+    def get_marketcap(self):
+        self.data_sp500_marketcap=commons.read_dataframe(commons.local_path+'data/MARKETCAP.h5')     
+        
+        if self.refresh_data==True:    
+            if self.data_sp500_marketcap.empty==True:
+                max_date=commons.end_date-dt.timedelta(days=1825)
+            else:
+                max_date=max(list(self.data_last_calloff.query('marketcap > 0').index))
+                
+            if max_date<commons.end_date:    
+                
+                #collect unknown days and update data_SP500_marketcap
+                items=list([])
+                for k,v in self.sp500_ticker.items():
+                    items.append('SF1/'+str(k)+'_MARKETCAP')
+                df=pd.DataFrame([])
+                df=Quandl.get(items,start_date=max_date-dt.timedelta(days=1),end_date=dt.date.today())
+                columns=list([])
+                for x in df.columns:
+                    x=str(x).replace(' - ', '_').strip('SF1').strip('_Value').strip('/')
+                    columns.append(x)
+                df.columns=columns
+                for i in df.index:
+                    for c in df.columns:
+                        self.data_sp500_marketcap.ix[i,c]=df.ix[i,c]
+                
+                #update storage    
+                df=pd.DataFrame(index=pd.date_range(start=max_date,end=max(self.data_sp500_marketcap.index)))
+                self.data_sp500_marketcap=self.data_sp500_marketcap.join(df,how='outer')
+                #drop non trade days
+                for k in self.data_sp500_marketcap.index:
+                    if k not in self.data_sp500.index:
+                        self.data_sp500_marketcap.drop(k,inplace=True)   
+                self.data_sp500_marketcap=self.data_sp500_marketcap.sort_index()
+
+                self.data_sp500_marketcap.to_hdf(commons.local_path+'data/MARKETCAP.h5','table',mode='w')
+                self.data_last_calloff.ix[dt.datetime.today(),'marketcap']=1
+                self.data_last_calloff.to_hdf(commons.local_path+'data/last_calloff.h5','table',mode='w')
+                print 'Marketcap data refreshed'                   
+        else:
+            print 'Market Cap data loaded.'
+            
+        self.data_sp500_marketcap=self.data_sp500_marketcap.sort_index()
+        self.data_sp500_marketcap=self.data_sp500_marketcap.fillna(method='backfill')
+        self.data_sp500_marketcap=self.data_sp500_marketcap.fillna(method='ffill')            
+
+
+#calculate index composition and store        
+    def get_index_composition(self):
+        #retrieve or calculate index composition
+        startdate=min(self.data_sp500_marketcap.index)
+        
+        for k,v in self.sp500_index.items():
+            index=self.sp500_index[k][-10:-2]
+            vars()[index]=pd.DataFrame()
+        
+        for d in self.data_sp500.index:
+            if d>=startdate:
+                for k,v in self.sp500_composition.items():
+                    index=self.sp500_index[k][-10:-2]    
+                    cum_marketcap=0
+                    for t in v: #calc market cap of index
+                        if d>=self.data_sp500_1st_date[t]:
+                            cum_marketcap+=self.data_sp500_marketcap.ix[d,str(t)+'_MARKETCAP']
+                    for t in v: # calc weights
+                        if d>=self.data_sp500_1st_date[t]:                
+                            vars()[index].ix[d,t]=self.data_sp500_marketcap.ix[d,str(t)+'_MARKETCAP']/cum_marketcap
+        print 'Index composition calculated.'
+        
+        for k,v in self.sp500_index.items():
+            index=self.sp500_index[k][-10:-2]    
+            vars()[index].to_hdf(commons.local_path+'data/'+index+'.h5','table',mode='w')    
+        print 'Index composition stored. Update finished.'            
