@@ -17,4 +17,4 @@ For simulation please run _simulation.py_. It will simulate price development fr
 
 
 **Individual Stock Recommendation**
-For the individual stock recommendation please run _user_forecast.py_. It will open a listbox, the selected stock will be forecasted. Note; for demo the forecast date has been set to September 30th 2016. The date can be changed in the code, note though that quandl only provides the stock prices towards the end of the day.
+For the individual stock recommendation please run _UI_forecast.py_. It will open a listbox, the selected stock will be forecasted. Note; for demo the forecast date has been set to September 30th 2016. The date can be changed in the code, note though that quandl only provides the stock prices towards the end of the day.
