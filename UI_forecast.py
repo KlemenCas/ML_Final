@@ -3,10 +3,7 @@ import datetime as dt
 from market import stock_market
 from database import db
 from forecasts import forecast
-
-import ttk as tt
 import Tkinter as tk
-import time as tm
 
 class user_forecasts(object):    
     def __init__(self, top):

@@ -142,33 +142,39 @@ class db(object):
             csvreader = csv.reader(csvfile, delimiter=',')
             for row in csvreader:
                 if len(row[0])>0:
-                    self.t_clusters.row['ticker']=self.ti_ticker_ids[row[0]]
-                    self.t_clusters.row['kpi']=commons.kpi[row[1][1:]]
-                    values=self.string_to_list(row[2])
-                    values.sort()
-                    self.t_clusters.row['c0']=values[0]
-                    self.t_clusters.row['c1']=values[1]
-                    self.t_clusters.row['c2']=values[2]
-                    self.t_clusters.row['c3']=values[3]
-                    self.t_clusters.row['c4']=values[4]
-                    self.t_clusters.row.append()
+                    try:
+                        self.t_clusters.row['ticker']=self.ti_ticker_ids[row[0]]
+                        self.t_clusters.row['kpi']=commons.kpi[row[1][1:]]
+                        values=self.string_to_list(row[2])
+                        values.sort()
+                        self.t_clusters.row['c0']=values[0]
+                        self.t_clusters.row['c1']=values[1]
+                        self.t_clusters.row['c2']=values[2]
+                        self.t_clusters.row['c3']=values[3]
+                        self.t_clusters.row['c4']=values[4]
+                        self.t_clusters.row.append()
+                        print 'Stats for '+row[0]+' loaded.'
+                    except KeyError:
+                        print '.'
             csvfile.close()    
-    
-        with open(commons.stats_path+'cluster_generic.csv','r') as csvfile:
-            csvreader = csv.reader(csvfile, delimiter=',')
-            for row in csvreader:
-                if len(row[0])>0:                
-                    self.t_clusters.row['ticker']=row[0].replace('SP','100').replace('_','00')
-                    self.t_clusters.row['kpi']=commons.kpi[row[1][1:]]
-                    values=self.string_to_list(row[2])
-                    values.sort()
-                    self.t_clusters.row['c0']=values[0]
-                    self.t_clusters.row['c1']=values[1]
-                    self.t_clusters.row['c2']=values[2]
-                    self.t_clusters.row['c3']=values[3]
-                    self.t_clusters.row['c4']=values[4]
-                    self.t_clusters.row.append()
-            csvfile.close()  
+        try:
+            with open(commons.stats_path+'cluster_generic.csv','r') as csvfile:
+                csvreader = csv.reader(csvfile, delimiter=',')
+                for row in csvreader:
+                    if len(row[0])>0:                
+                        self.t_clusters.row['ticker']=row[0].replace('SP','100').replace('_','00')
+                        self.t_clusters.row['kpi']=commons.kpi[row[1][1:]]
+                        values=self.string_to_list(row[2])
+                        values.sort()
+                        self.t_clusters.row['c0']=values[0]
+                        self.t_clusters.row['c1']=values[1]
+                        self.t_clusters.row['c2']=values[2]
+                        self.t_clusters.row['c3']=values[3]
+                        self.t_clusters.row['c4']=values[4]
+                        self.t_clusters.row.append()
+                csvfile.close()  
+        except IOError:
+            'Print general cluster csv not available.'
         self.t_clusters.flush()
 
     def load_stats_table(self):    
@@ -184,17 +190,19 @@ class db(object):
                 self.t_stats.row.append()
             csvfile.close()    
     
-        with open(commons.stats_path+'stats_generic.csv','r') as csvfile:
-            csvreader = csv.reader(csvfile, delimiter=',')
-            for row in csvreader:
-                self.t_stats.row['pca']=int(row[1])
-                self.t_stats.row['ticker']=row[0]
-                self.t_stats.row['model']=row[2]
-                self.t_stats.row['kpi']=row[3]
-                self.t_stats.row['accuracy']=row[4]
-                self.t_stats.row.append()
-            csvfile.close()    
-            
+        try:
+            with open(commons.stats_path+'stats_generic.csv','r') as csvfile:
+                csvreader = csv.reader(csvfile, delimiter=',')
+                for row in csvreader:
+                    self.t_stats.row['pca']=int(row[1])
+                    self.t_stats.row['ticker']=row[0]
+                    self.t_stats.row['model']=row[2]
+                    self.t_stats.row['kpi']=row[3]
+                    self.t_stats.row['accuracy']=row[4]
+                    self.t_stats.row.append()
+                csvfile.close()    
+        except IOError:
+            print 'General stats table not available.'
         self.t_stats.flush()
         
         print 'stats table initialized.'
