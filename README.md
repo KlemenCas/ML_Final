@@ -9,7 +9,7 @@ In demo mode only data to the SP500 sector 'Telecommunications Services' will be
 
 
 **Training:**
-For training please run _train.py_. Note!: the l_pca in the method _train()_ needs to be set to the dimension reduction that you want to train. Currently it's set to 0 (= no reduction). Training is currently only being called with mode=Close, which means that the forecast is on the Close prices. The Xy_all contains all values (Open, Low, High, Close).
+For training please run _train.py_. Note!: the l_pca in the method _train()_ needs to be set to the dimension reduction that you want to train. Currently it's set to 0 (= no reduction). Training is currently only being called with mode=Close, which means that the forecast is on the Close prices. The Xy_all contains all values (Open, Low, High, Close). For labels where the system already knows the best parameters and has the model saved, there will be _Trained already._ message. 
 
 
 **Simulation**
