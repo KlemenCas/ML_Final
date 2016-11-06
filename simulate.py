@@ -9,12 +9,13 @@ import tables
 import time as tm
 
 try:
-    db_log = tables.open_file(commons.stats_path+'performance_log.h5', 'r+')
+    db_log = tables.open_file(commons.stats_path+'performance_log.h5', 'w')
 except ValueError:
     print 'Database open already.'
     
 try:
-    perf_desc={'time':tables.TimeCol(),
+    perf_desc={'simrun':tables.IntCol(),
+               'time':tables.TimeCol(),
                 'dix':tables.IntCol(),
                 'index':tables.StringCol(10),
                  'p_value':tables.FloatCol(),
@@ -25,29 +26,6 @@ try:
 except tables.exceptions.NodeError:
     p_log=db_log.get_node('/','p_log')
     print 'transaction log opened.'        
-
-
-initial_budget=1000000000
-temperature=.9
-
-m=stock_market()
-f=forecast()
-dba=db(f,'r+')
-f.set_dba=dba
-alpha=.2
-gamma=.4
-new_state=dict()
-
-startdate=dt.datetime.today()-dt.timedelta(days=18250)
-enddate=dt.datetime.today()
-for k,v in commons.sp500_index.items():
-    index_t=v[-10:-2]
-    if startdate<=min(m.index_composition[index_t].index):
-        startdate=min(m.index_composition[index_t].index)
-    if enddate>max(m.index_composition[index_t].index):
-        enddate=max(m.index_composition[index_t].index)
-enddate-=-dt.timedelta(days=1)    
-p=investments(initial_budget,m,commons.date_index_internal[startdate],dba)
         
 def play_for_a_day(idx_external,dix):
 #    print 'Processing date: ',commons.date_index_external[dix]
@@ -86,10 +64,9 @@ def play_for_a_day(idx_external,dix):
                         opening_price=m.get_opening_price(ticker,next_dix)
                         forecast_price=f.get_order_price(dba,dba.ti_ticker_ids[ticker],state[ticker],dix,proposed_action[ticker],m.get_closing_price(ticker,dix))
 
-                        if opening_price>forecast_price:
-                            reward[ticker]=p.execute_order(ticker,vol,next_dix,opening_price,proposed_action[ticker],m.get_closing_price(ticker,dix))
-                        else:
-                            reward[ticker]=p.execute_order(ticker,vol,next_dix,forecast_price,proposed_action[ticker],m.get_closing_price(ticker,dix))
+                        if opening_price>(forecast_price*.997):
+                            forecast_price=opening_price*.997
+                        reward[ticker]=p.execute_order(ticker,vol,next_dix,forecast_price,proposed_action[ticker],m.get_closing_price(ticker,dix))
 
                 except KeyError:
                     p.portfolio[index_t][ticker]=0
@@ -109,9 +86,8 @@ def play_for_a_day(idx_external,dix):
             opening_price=m.get_opening_price(ticker,next_dix)
             forecast_price=f.get_order_price(dba,dba.ti_ticker_ids[ticker],state[ticker],dix,commons.action_code['buy'],m.get_closing_price(ticker,dix))
             if opening_price<forecast_price:
-                reward[ticker]=p.execute_order(ticker,vol,next_dix,opening_price,commons.action_code['buy'],m.get_closing_price(ticker,dix))
-            else:
-                reward[ticker]=p.execute_order(ticker,vol,next_dix,forecast_price,commons.action_code['buy'],m.get_closing_price(ticker,dix))
+                forecast_price=opening_price
+            reward[ticker]=p.execute_order(ticker,vol,next_dix,forecast_price,commons.action_code['buy'],m.get_closing_price(ticker,dix))
     
 #on the way to the next q
     dix+=1
@@ -130,27 +106,57 @@ def play_for_a_day(idx_external,dix):
 
         
 #SIMULATE
-for d in pd.date_range(startdate,enddate):
-    if d in m.data_sp500.index:
-        if d!=startdate:
-            m.align_index_portfolio(commons.date_index_internal[d])
-        for k,v in commons.sp500_index.items():
-            index_t=v[-10:-2]   
-            p.log_portfolio(commons.date_index_internal[d],index_t)
-            m.log_portfolio(commons.date_index_internal[d],index_t)
-            play_for_a_day(k,commons.date_index_internal[d])
-        for k,v in commons.sp500_index.items():
-            print 'Date: ', d, ' Index: ', v[-10:-2], 'Portfolio: ',\
-              int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d])),' Cash: ',int(p.cash[v[-10:-2]]),\
-              ' Total: ',int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d]))+int(p.cash[v[-10:-2]]),\
-              ' Index: ',int(m.index_portfolio_value(k,commons.date_index_internal[d]))
-            p_log.row['time']=tm.mktime(d.timetuple())
-            p_log.row['dix']=commons.date_index_internal[d]
-            p_log.row['index']=v[-10:-2]
-            p_log.row['p_value']=int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d]))
-            p_log.row['cash']=int(p.cash[v[-10:-2]])
-            p_log.row['i_value']=int(m.index_portfolio_value(k,commons.date_index_internal[d]))
-            p_log.row.append()
-            p_log.flush()
-            p_log.flush()
-            db_log.flush()
+for simrun in range(1,11):
+    initial_budget=1000000000
+    temperature=.9
+    
+    m=stock_market()
+    f=forecast()
+    dba=db(f,'r+')
+    f.set_dba=dba
+    alpha=.2
+    gamma=.4
+    new_state=dict()
+    
+    startdate=m.get_min_startdate()
+    enddate=dt.datetime.today()
+    for k,v in commons.sp500_index.items():
+        index_t=v[-10:-2]
+        if enddate>max(m.index_composition[index_t].index):
+            enddate=max(m.index_composition[index_t].index)
+    
+    enddate=enddate-dt.timedelta(days=1)    
+    p=investments(initial_budget,m,commons.date_index_internal[startdate],dba)
+
+    startdate=startdate+dt.timedelta(days=1)
+    print 'Startdate: ', startdate,'Enddate: ',enddate
+
+    for d in pd.date_range(startdate,enddate):
+        if d in m.data_sp500.index:
+            if d!=startdate:
+                m.align_index_portfolio(commons.date_index_internal[d])
+            for k,v in commons.sp500_index.items():
+                index_t=v[-10:-2]   
+                p.log_portfolio(commons.date_index_internal[d],index_t)
+                m.log_portfolio(commons.date_index_internal[d],index_t)
+                play_for_a_day(k,commons.date_index_internal[d])
+            for k,v in commons.sp500_index.items():
+                print 'Date: ', d, ' Index: ', v[-10:-2], 'Portfolio: ',\
+                  int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d])),' Cash: ',int(p.cash[v[-10:-2]]),\
+                  ' Total: ',int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d]))+int(p.cash[v[-10:-2]]),\
+                  ' Index: ',int(m.index_portfolio_value(k,commons.date_index_internal[d]))
+                p_log.row['simrun']=simrun
+                p_log.row['time']=tm.mktime(d.timetuple())
+                p_log.row['dix']=commons.date_index_internal[d]
+                p_log.row['index']=v[-10:-2]
+                p_log.row['p_value']=int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d]))
+                p_log.row['cash']=int(p.cash[v[-10:-2]])
+                p_log.row['i_value']=int(m.index_portfolio_value(k,commons.date_index_internal[d]))
+                p_log.row.append()
+                p_log.flush()
+                p_log.flush()
+                db_log.flush()
+    dba.db_main.flush()
+    dba.db_main.close()
+    p.dba.flush()
+    p.dba.close()

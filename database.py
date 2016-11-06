@@ -14,6 +14,7 @@ class db(object):
     t_clusters=None
     t_ticker_ids=None
     ti_ticker_ids=dict()
+    ti_ticker=dict()
     cl_forecasts=None
     read_mode='w'
     
@@ -244,6 +245,7 @@ class db(object):
         for ticker,v in commons.sp500_ticker.items():
             for row in self.t_ticker_ids.read_where('ticker=='+"'"+ticker+"'"):
                 self.ti_ticker_ids[row[1]]=row[0]
+                self.ti_ticker[row[0]]=row[1]
         
     
     def update_q_table(self,ticker,state,action,reward):
