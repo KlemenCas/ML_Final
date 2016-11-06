@@ -9,18 +9,25 @@ class stock_market(object):
     index_composition=dict()
     portfolio=dict()
     portfolio_log=dict()
+    startdates=dict()
 
     def __init__(self):  
         self.initialize_index()
         self.data_sp500=pd.read_hdf(commons.local_path+'data/WIKI_SP500.h5','table')
         self.data_sp500=self.data_sp500.fillna(method='backfill')
 
-        startdate=dt.datetime.today()-dt.timedelta(days=18250)
+        startdate=commons.end_date-dt.timedelta(days=180)
         for k,v in commons.sp500_index.items():
             index_t=v[-10:-2]
             if startdate<=min(self.index_composition[index_t].index):
                 startdate=min(self.index_composition[index_t].index)
+#            startdate=startdate+dt.timedelta(days=365)
+            
+            if startdate not in self.index_composition[index_t].index:
+                while startdate not in self.index_composition[index_t].index:
+                    startdate=startdate+dt.timedelta(days=1)   
             self.initialize_portfolio(k,commons.date_index_internal[startdate],1000000000)
+            self.startdates[index_t]=startdate
     
     def initialize_index(self):
         for k,v in commons.sp500_index.items():
@@ -59,6 +66,7 @@ class stock_market(object):
                 price=float(price.values)
             except KeyError:
                 price=0
+                print 'Ticker: ',ticker, 'Date: ', commons.date_index_external[dix],' set to zero.'
         else:
             price=float(price.values)
         return price
@@ -74,6 +82,30 @@ class stock_market(object):
         else:
             price=float(price.values)
         return price        
+
+    def get_low_price(self,ticker,dix):
+        price = self.data_sp500.ix[commons.date_index_external[dix],[ticker+'_Low']]
+        if np.isnan(price.values):
+            try:
+                price = self.data_sp500.ix[commons.date_index_external[dix],[commons.alternative_symbol[ticker]+'_Low']]
+                price=float(price.values)
+            except KeyError:
+                price=0
+        else:
+            price=float(price.values)
+        return price   
+
+    def get_high_price(self,ticker,dix):
+        price = self.data_sp500.ix[commons.date_index_external[dix],[ticker+'_High']]
+        if np.isnan(price.values):
+            try:
+                price = self.data_sp500.ix[commons.date_index_external[dix],[commons.alternative_symbol[ticker]+'_High']]
+                price=float(price.values)
+            except KeyError:
+                price=0
+        else:
+            price=float(price.values)
+        return price   
         
     def align_index_portfolio(self,dix):
         for k,v in commons.sp500_index.items():
@@ -102,3 +134,10 @@ class stock_market(object):
                     p_log.ix[commons.date_index_external[dix],ticker]=volume
                 self.portfolio_log[k]=self.portfolio_log[k].append(p_log)
                 self.portfolio_log[k].to_hdf(commons.local_path+'data/Index_Portfolio_'+k+'.h5','table',mode='w')        
+                
+    def get_min_startdate(self):
+        startdate=dt.datetime.today()
+        for i,d in self.startdates.items():
+            if startdate>d:
+                startdate=d
+        return startdate

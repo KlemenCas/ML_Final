@@ -1,9 +1,12 @@
 import commons
 import pandas as pd
 from sklearn.externals import joblib
+from market import stock_market
 
 class forecast(object):
     trading_strategy='aggressiv'
+    def __init__(self):  
+        self.m=stock_market()
 
         
     def get_order_price(self,dba,ticker,state,dix,action,closing_price):
@@ -16,31 +19,34 @@ class forecast(object):
                     for i in range(4,-1,-1):
                         x=state['clr_cluster_'+str(i)]+2
                         if x==3:
-#                            if i!=0:
-#                                pct_change=(row['c'+str(i)] + row['c'+str(i-1)])/2.
-#                            else:
+                            if i!=0:
+                                pct_change=(row['c'+str(i)] + row['c'+str(i-1)])/2.
+                            else:
                                 pct_change=row['c'+str(i)]
-#                if pct_change<0:
-#                    pct_change=pct_change*2
-#                else:
-#                    pct_change=pct_change/2
             if action==commons.action_code['sell']:                                           
                 clusters=dba.t_clusters.read_where('(ticker=='+str(ticker)+")"+' & (kpi=='+str(commons.kpi['chr'])+')')
                 for row in clusters:
                     for i in range(0,5):
                         x=state['clr_cluster_'+str(i)]+2
                         if x==3:
-#                            if i!=4:
-#                                pct_change=(row['c'+str(i)] + row['c'+str(i+1)])/2.
-#                            else:
-                                pct_change=row['c'+str(i)] 
-#                if pct_change<0:
-#                    pct_change=pct_change/2
-#                else:
-#                    pct_change=pct_change*2                                               
+                            if i!=4:
+                                pct_change=(row['c'+str(i)] + row['c'+str(i+1)])/2.
+                            else:
+                                pct_change=row['c'+str(i)]                                           
         if closing_price==0:
             print 'Ticker: ',ticker,' Date:',dix,commons.date_index_external[dix],' price==zero!'                                      
         expected_price=closing_price+closing_price*pct_change/100.
+        
+#if not executable then price should be the closing price
+        next_dix=dix+1
+        closing_next_day=self.m.get_closing_price(dba.ti_ticker[ticker],next_dix)
+        low_next_day=self.m.get_low_price(dba.ti_ticker[ticker],next_dix)
+        high_next_day=self.m.get_high_price(dba.ti_ticker[ticker],next_dix)        
+        if action==commons.action_code['buy'] and expected_price<low_next_day:
+            expected_price=closing_next_day*1.001
+        if action==commons.action_code['sell'] and expected_price>high_next_day:
+            expected_price=closing_next_day*.999
+            
         return expected_price
         
 #based on date's feature values predicts the value of label y        
