@@ -22,16 +22,16 @@ For the individual stock recommendation please run _UI_forecast.py_. It will ope
 
 **Short Description to all Modules** 
 
-_commons.py_: common definitions, constants and methods that are are being reused in various modules
-_database.py_: handling of the database, including Q-Learning related methods (softmax, max_q, q_update
-_forecasts.py_: forecast related methods (next state, forecasted order price, best model
-_market.py_: index portfolio; composition and value, methods delivering market prices on a certain day
-_mydata.py_:data retrieval methods and local storage
-_mydata_get_delta.py_: data retrieval process
-_portfolio.py_: user portfolio, buying list alignment, order execution
-_simulate.py_: simulation run
-_train.py_: training of scikit models by stock symbol and local storage
-_train_generic.py_: training of scikit models by index and local storage
-_train_pca.py_: calculation and local storage of PCA objects, for later reuse
-_UI_forecast.py_: forecast to one stock symbol
-_visualize.py_: helper to visualize and export data.
+1. _commons.py_: common definitions, constants and methods that are are being reused in various modules
+2. _database.py_: handling of the database, including Q-Learning related methods (softmax, max_q, q_update
+3. _forecasts.py_: forecast related methods (next state, forecasted order price, best model
+4. _market.py_: index portfolio; composition and value, methods delivering market prices on a certain day
+5. _mydata.py_:data retrieval methods and local storage
+6. _mydata_get_delta.py_: data retrieval process
+7. _portfolio.py_: user portfolio, buying list alignment, order execution
+8. _simulate.py_: simulation run
+9. _train.py_: training of scikit models by stock symbol and local storage
+10. _train_generic.py_: training of scikit models by index and local storage
+11. _train_pca.py_: calculation and local storage of PCA objects, for later reuse
+12. _UI_forecast.py_: forecast to one stock symbol
+13. _visualize.py_: helper to visualize and export data.
