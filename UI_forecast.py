@@ -9,7 +9,7 @@ import Tkinter as tk
 class user_forecasts(object):    
     def __init__(self, top):
         if commons.demo_scenario:
-            self.demo_date=dt.datetime(2016,9,30)    
+            self.demo_date=dt.datetime(2016,10,31)    
         else:
             self.demo_date=dt.date.today()
         self.dix=commons.date_index_internal[self.demo_date]
