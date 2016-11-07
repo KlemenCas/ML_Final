@@ -18,3 +18,20 @@ For simulation please run _simulation.py_. It will simulate price development fr
 
 **Individual Stock Recommendation**
 For the individual stock recommendation please run _UI_forecast.py_. It will open a listbox, the selected stock will be forecasted. Note; for demo the forecast date has been set to September 30th 2016. The date can be changed in the code, note though that quandl only provides the stock prices towards the end of the day. Do not remove the demo_scenario flag in commons, as only the pickle object for the demo have been uploaded to Github. 
+
+
+**Short Description to all Modules** 
+
+_commons.py_: common definitions, constants and methods that are are being reused in various modules
+_database.py_: handling of the database, including Q-Learning related methods (softmax, max_q, q_update
+_forecasts.py_: forecast related methods (next state, forecasted order price, best model
+_market.py_: index portfolio; composition and value, methods delivering market prices on a certain day
+_mydata.py_:data retrieval methods and local storage
+_mydata_get_delta.py_: data retrieval process
+_portfolio.py_: user portfolio, buying list alignment, order execution
+_simulate.py_: simulation run
+_train.py_: training of scikit models by stock symbol and local storage
+_train_generic.py_: training of scikit models by index and local storage
+_train_pca.py_: calculation and local storage of PCA objects, for later reuse
+_UI_forecast.py_: forecast to one stock symbol
+_visualize.py_: helper to visualize and export data.
