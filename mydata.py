@@ -7,6 +7,7 @@ import quandl as Quandl
 import csv
 import datetime as dt
 from sklearn.preprocessing import MinMaxScaler
+import seaborn as sns
 
 class mydata(object):   
     Quandl.ApiConfig.api_key=''      
@@ -517,6 +518,31 @@ class mydata(object):
         print 'Labels calculated.'
         #alpha & beta
 
+        #save for analysis
+#        self.data_sp500_1dm.to_hdf(self.local_path+'data/1dm.h5','table',mode='w')
+#        self.data_sp500_2dm.to_hdf(self.local_path+'data/2dm.h5','table',mode='w')
+#        self.data_sp500_5dm.to_hdf(self.local_path+'data/5dm.h5','table',mode='w')
+#        self.data_sp500_30dsma.to_hdf(self.local_path+'data/30dsma.h5','table',mode='w')
+#        self.data_sp500_30dmx.to_hdf(self.local_path+'data/30dmx.h5','table',mode='w')
+#        self.data_sp500_30dmn.to_hdf(self.local_path+'data/30dmn.h5','table',mode='w')
+#        self.data_sp500_5dv.to_hdf(self.local_path+'data/5dv.h5','table',mode='w')
+#        self.data_sp500_bbands.to_hdf(self.local_path+'data/bbands.h5','table',mode='w')
+#        self.data_sp500_1dd.to_hdf(self.local_path+'data/1dd.h5','table',mode='w')
+#        self.data_sp500_5dd.to_hdf(self.local_path+'data/5dd.h5','table',mode='w')
+#        self.data_sp500_20dd.to_hdf(self.local_path+'data/20dd.h5','table',mode='w')
+#        self.data_sp500_clr.to_hdf(self.local_path+'data/clr.h5','table',mode='w')
+#        self.data_sp500_chr.to_hdf(self.local_path+'data/chr.h5','table',mode='w')
+#        self.data_sp500_ny_ss.to_hdf(self.local_path+'data/ny_ss.h5','table',mode='w')
+#        self.data_sp500_ns_ss.to_hdf(self.local_path+'data/ns_ss.h5','table',mode='w')
+#        self.data_sp500_1er.to_hdf(self.local_path+'data/1er.h5','table',mode='w')
+#        self.data_sp500_2er.to_hdf(self.local_path+'data/2er.h5','table',mode='w')
+#        self.data_sp500_5er.to_hdf(self.local_path+'data/5er.h5','table',mode='w')
+
+        #drop outliers; top and bottom 1%    
+        a=list(['1dm','2dm','5dm','30dsma','30dmx','30dmn','5dv','bbands','clr','chr','ny_ss','ns_ss','1er','2er','5er'])
+        for x in a:
+            setattr(self,'data_sp500_'+str(x),self.drop_outliers(getattr(self,'data_sp500_'+str(x))))
+                
         
         #fill, minmax and direction
         a=list(['1dm','2dm','5dm','30dsma','30dmx','30dmn','5dv','bbands','1dd','5dd','20dd','clr','chr','ny_ss','ns_ss','1er','2er','5er'])
@@ -524,7 +550,7 @@ class mydata(object):
             setattr(self,'data_sp500_'+str(x),getattr(self,'data_sp500_'+str(x)).fillna(method='backfill'))
             setattr(self,'data_sp500_'+str(x),getattr(self,'data_sp500_'+str(x)).fillna(method='ffill'))
             
-            a=list(['1dm','2dm','5dm','30dsma','30dmx','30dmn','5dv','bbands'])
+        a=list(['1dm','2dm','5dm','30dsma','30dmx','30dmn','5dv','bbands'])
         for x in a:
             setattr(self,'data_sp500_'+str(x),self.minmaxscale('data_sp500_'+str(x)))
 
@@ -880,3 +906,25 @@ class mydata(object):
             index=self.sp500_index[k][-10:-2]    
             vars()[index].to_hdf(commons.local_path+'data/'+index+'.h5','table',mode='w')    
         print 'Index composition stored. Update finished.'            
+        
+    #drop the top/last 1% as outliers
+    def drop_outliers(self,df):
+        for c in df.columns:
+            stock=str(c).replace('_Open','')
+            stock=stock.replace('_Close','')
+            stock=stock.replace('_High','')
+            stock=stock.replace('_Low','')
+            stock=stock.replace('_clr','')
+            stock=stock.replace('_chr','')
+            stock=stock.replace('_ny_ss','')
+            stock=stock.replace('_ns_ss','')
+            startdate=commons.data_sp500_1st_date[stock]
+            series=df.ix[startdate:,c]            
+            thold=int(.05*series.value_counts().count())
+            if thold>0:
+                freq=series.value_counts().sort_index(ascending=True).iloc[:thold].sort_index(ascending=False).iloc[:1].index.values[0]
+                series[series<freq]=freq
+                freq=series.value_counts().sort_index(ascending=False).iloc[:thold].sort_index(ascending=True).iloc[:1].index.values[0]
+                series[series>freq]=freq
+                df.ix[startdate:,c]=series
+        return df

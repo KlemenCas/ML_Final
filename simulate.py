@@ -14,7 +14,9 @@ except ValueError:
     print 'Database open already.'
     
 try:
-    perf_desc={'simrun':tables.IntCol(),
+    perf_desc={'gamma':tables.FloatCol(),
+               'alpha':tables.FloatCol(),
+               'simrun':tables.IntCol(),
                'time':tables.TimeCol(),
                 'dix':tables.IntCol(),
                 'index':tables.StringCol(10),
@@ -27,8 +29,9 @@ except tables.exceptions.NodeError:
     p_log=db_log.get_node('/','p_log')
     print 'transaction log opened.'        
         
-def play_for_a_day(idx_external,dix):
+def play_for_a_day(idx_external,dix, alpha, gamma):
 #    print 'Processing date: ',commons.date_index_external[dix]
+    temperature=1.5
     state=dict()
     proposed_action=dict()
     buying_list=list()
@@ -106,16 +109,20 @@ def play_for_a_day(idx_external,dix):
 
         
 #SIMULATE
-for simrun in range(1,11):
-    initial_budget=1000000000
-    temperature=.9
-    
-    m=stock_market()
-    f=forecast()
-    dba=db(f,'r+')
-    f.set_dba=dba
-    alpha=.2
-    gamma=.4
+#for g in range(10,11):
+#    gamma=g/10.
+#    for a in range(1,11):
+#        alpha=a/10.
+gamma=.8
+alpha=.5
+
+initial_budget=1000000000
+m=stock_market()
+f=forecast()
+dba=db(f,'r+')
+f.set_dba=dba
+
+for simrun in range(1,10):
     new_state=dict()
     
     startdate=m.get_min_startdate()
@@ -139,12 +146,14 @@ for simrun in range(1,11):
                 index_t=v[-10:-2]   
                 p.log_portfolio(commons.date_index_internal[d],index_t)
                 m.log_portfolio(commons.date_index_internal[d],index_t)
-                play_for_a_day(k,commons.date_index_internal[d])
+                play_for_a_day(k,commons.date_index_internal[d], alpha, gamma)
             for k,v in commons.sp500_index.items():
                 print 'Date: ', d, ' Index: ', v[-10:-2], 'Portfolio: ',\
                   int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d])),' Cash: ',int(p.cash[v[-10:-2]]),\
                   ' Total: ',int(p.get_portfolio_value(v[-10:-2],commons.date_index_internal[d]))+int(p.cash[v[-10:-2]]),\
                   ' Index: ',int(m.index_portfolio_value(k,commons.date_index_internal[d]))
+                p_log.row['gamma']=gamma
+                p_log.row['alpha']=alpha
                 p_log.row['simrun']=simrun
                 p_log.row['time']=tm.mktime(d.timetuple())
                 p_log.row['dix']=commons.date_index_internal[d]
@@ -156,7 +165,7 @@ for simrun in range(1,11):
                 p_log.flush()
                 p_log.flush()
                 db_log.flush()
-    dba.db_main.flush()
-    dba.db_main.close()
-    p.dba.flush()
-    p.dba.close()
+dba.db_main.flush()
+dba.db_main.close()
+p.dba.flush()
+p.dba.close()

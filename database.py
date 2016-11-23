@@ -17,6 +17,8 @@ class db(object):
     ti_ticker=dict()
     cl_forecasts=None
     read_mode='w'
+    alpha=0
+    gamma=0
     
     def __init__(self,forecasts,read_mode='r+'):     
         self.read_mode=read_mode

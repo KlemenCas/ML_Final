@@ -146,7 +146,7 @@ def read_dataframe(file):
         return pd.DataFrame()
         
 #assemble columns for forecasting
-def Xy_columns(Xy_all,mode):
+def Xy_columns(Xy_all,mode,feature_only=False):
     modes=list(['Open','Close','Low','High'])
     modes.remove(mode) 
     
@@ -161,4 +161,16 @@ def Xy_columns(Xy_all,mode):
                     m_found=True
             if m_found==False:
                 select_columns.append(c)
+    if feature_only==True:
+        select_columns.remove('_chr')
+        select_columns.remove('_clr')
+        select_columns.remove('1dr_Close')
+        select_columns.remove('5dr_Close')
+        select_columns.remove('20dr_Close')        
+        for c in y_labels:
+            try:
+                select_columns.remove(c)
+            except ValueError:
+                print 'not in the list:', c
+        
     return select_columns
